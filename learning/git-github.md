@@ -51,6 +51,7 @@ Aplicar alterações da stash definida|`git stash apply <number>`|
 Remover alterações da stash list|`git stash drop <number>`|
 Pegar stash para dar continuidade|`git stash pop`|Pegar o último stash da lista
 
+
 ## Merge vs Rebase
 
 [Entendendo melhor Merge vs Rebase](https://medium.datadriveninvestor.com/git-rebase-vs-merge-cc5199edd77c)
@@ -77,10 +78,10 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Njg1MTM5NiwtMTk2MjMwODEwOSwxOT
-Y2MTExMDYzLDU3NzQ5NTM4NywtMjA0NTU1NTc4LC03Mjk1NzUx
-OTgsMTQzMzM2MDg2Myw3NjcyOTMyNzQsLTY2NzUzNzM0Nyw3OD
-kxNTQ5ODcsLTE5Nzg3NTI5MzQsLTE4MDE2MzAwMzIsOTYzMjU2
-ODI5LC0xOTQxNDk1NzMzLC04NTI4MTY4NjksMjA3NDI1ODg1OS
-wyMDg1MzY4Nzg5XX0=
+eyJoaXN0b3J5IjpbLTQxNTc2NDMwMiwxNjU2ODUxMzk2LC0xOT
+YyMzA4MTA5LDE5NjYxMTEwNjMsNTc3NDk1Mzg3LC0yMDQ1NTU1
+NzgsLTcyOTU3NTE5OCwxNDMzMzYwODYzLDc2NzI5MzI3NCwtNj
+Y3NTM3MzQ3LDc4OTE1NDk4NywtMTk3ODc1MjkzNCwtMTgwMTYz
+MDAzMiw5NjMyNTY4MjksLTE5NDE0OTU3MzMsLTg1MjgxNjg2OS
+wyMDc0MjU4ODU5LDIwODUzNjg3ODldfQ==
 -->
