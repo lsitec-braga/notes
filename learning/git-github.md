@@ -38,11 +38,13 @@ Adicionar mudanças da origin para o repositório local|`git pull origin main`|
 Alterar branch|`git checkout nome-da-branch`|
 Criar uma branch|`git branch nome-da-branch`|
 Criar nova branch e alterar para ela|`git checkout -b nome-da-branch`|
-Fazer merge|`git merge nome-da-branch`|
-Fazer rebase|`git rebase`
+Fazer merge|`git merge nome-da-branch`|Mover-se antes para a branch base
+Fazer rebase|`git rebase nome-da-feature`|Mover-se antes para a branch base
 Observar histórico de commits|`git log`|O mais recente é o que aparece primeiro
 
-## Git Merge
+## Merge vs Rebase
+
+[]
 
 ## Git log
 
@@ -66,8 +68,8 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3MjkzMjc0LC02Njc1MzczNDcsNzg5MT
-U0OTg3LC0xOTc4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1Njgy
-OSwtMTk0MTQ5NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMj
-A4NTM2ODc4OV19
+eyJoaXN0b3J5IjpbLTgyMTMzNDEwNyw3NjcyOTMyNzQsLTY2Nz
+UzNzM0Nyw3ODkxNTQ5ODcsLTE5Nzg3NTI5MzQsLTE4MDE2MzAw
+MzIsOTYzMjU2ODI5LC0xOTQxNDk1NzMzLC04NTI4MTY4NjksMj
+A3NDI1ODg1OSwyMDg1MzY4Nzg5XX0=
 -->
