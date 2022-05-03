@@ -22,9 +22,11 @@ Objetivo|Comando|Comentários
 -|-|-
 Criar um repositório|`git init`|
 Analisar estado do repositório|`git status`|
+Adicionar arquivos da pasta atual ao *track* do git|`git add .`|
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTQ4NjUyNCw5NjMyNTY4MjksLTE5ND
+eyJoaXN0b3J5IjpbLTI3MTk0MTc2NCw5NjMyNTY4MjksLTE5ND
 E0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4ODU5LDIwODUzNjg3
 ODldfQ==
 -->
