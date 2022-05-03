@@ -41,7 +41,7 @@ Criar nova branch e alterar para ela|`git checkout -b nome-da-branch`|
 Fazer merge|`git merge nome-da-branch`|Mover-se antes para a branch base
 Fazer rebase|`git rebase nome-da-feature`|Mover-se antes para a branch base
 Retirar as alterações que não foram _commitadas_|`git reset --hard`|
-Retirar as alterações que não foram _commitadas_|`git checkout -- <nome do arquivo>`|
+Retirar as alterações que não foram _commitadas_|`git restore <nome do arquivo>`|
 Observar histórico de commits|`git log`|O mais recente é o que aparece primeiro
 
 ## Merge vs Rebase
@@ -70,8 +70,8 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg0NTE0NDIsMTQzMzM2MDg2Myw3Nj
-cyOTMyNzQsLTY2NzUzNzM0Nyw3ODkxNTQ5ODcsLTE5Nzg3NTI5
-MzQsLTE4MDE2MzAwMzIsOTYzMjU2ODI5LC0xOTQxNDk1NzMzLC
-04NTI4MTY4NjksMjA3NDI1ODg1OSwyMDg1MzY4Nzg5XX0=
+eyJoaXN0b3J5IjpbLTcyOTU3NTE5OCwxNDMzMzYwODYzLDc2Nz
+I5MzI3NCwtNjY3NTM3MzQ3LDc4OTE1NDk4NywtMTk3ODc1Mjkz
+NCwtMTgwMTYzMDAzMiw5NjMyNTY4MjksLTE5NDE0OTU3MzMsLT
+g1MjgxNjg2OSwyMDc0MjU4ODU5LDIwODUzNjg3ODldfQ==
 -->
