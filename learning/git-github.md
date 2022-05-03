@@ -46,7 +46,10 @@ Retirar as alterações que não foram _commitadas_|`git restore <nome do arquiv
 Retirar as alterações que foram para _Staged Area_|`git restore --staged <nome do arquivo>`|
 Retirar as alterações que sofreram _commit_|`git revert <sha-1>`|Use `:x` para salvar
 Salvar alterações temporariamente|`git stash`|
-Pegar stash para dar continuidade|`git stash pop`|Pega o primeiro stash da lista
+Listar alterações temporariamente|`git stash list`|
+Aplicar alterações da stash definida|`git stash apply <number>`|
+Remover alterações da stash list|`git stash drop <number>`|
+Pegar stash para dar continuidade|`git stash pop`|Pegar o último stash da lista
 
 ## Merge vs Rebase
 
@@ -74,10 +77,10 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIzMDgxMDksMTk2NjExMTA2Myw1Nz
-c0OTUzODcsLTIwNDU1NTU3OCwtNzI5NTc1MTk4LDE0MzMzNjA4
-NjMsNzY3MjkzMjc0LC02Njc1MzczNDcsNzg5MTU0OTg3LC0xOT
-c4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5
-NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2ODc4OV
-19
+eyJoaXN0b3J5IjpbMTY1Njg1MTM5NiwtMTk2MjMwODEwOSwxOT
+Y2MTExMDYzLDU3NzQ5NTM4NywtMjA0NTU1NTc4LC03Mjk1NzUx
+OTgsMTQzMzM2MDg2Myw3NjcyOTMyNzQsLTY2NzUzNzM0Nyw3OD
+kxNTQ5ODcsLTE5Nzg3NTI5MzQsLTE4MDE2MzAwMzIsOTYzMjU2
+ODI5LC0xOTQxNDk1NzMzLC04NTI4MTY4NjksMjA3NDI1ODg1OS
+wyMDg1MzY4Nzg5XX0=
 -->
