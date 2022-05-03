@@ -34,7 +34,7 @@ Criar um repositório|`git init`|
 Analisar estado do repositório|`git status`|
 Adicionar arquivos da pasta atual ao *track* do git|`git add .`|
 Fazer commit|`git commit -m "Mensagem do commit"`|Recomenda-se adicionar uma mensagem descritiva do commit|
-Observar histórico de commits|`git log`|
+Observar histórico de commits|`git log`|O mais recente é o que aparece primeiro
 
 ## Git log
 
@@ -43,8 +43,8 @@ Objetivo|Comando|Comentários
 Observar histórico de commits|`git log`|
 Observar histórico de commits utiliznado uma linha cada|`git log --oneline`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzY2MjA5MCw3ODkxNTQ5ODcsLTE5Nz
-g3NTI5MzQsLTE4MDE2MzAwMzIsOTYzMjU2ODI5LC0xOTQxNDk1
-NzMzLC04NTI4MTY4NjksMjA3NDI1ODg1OSwyMDg1MzY4Nzg5XX
-0=
+eyJoaXN0b3J5IjpbLTE5MTc3MDg2MzgsNzg5MTU0OTg3LC0xOT
+c4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5
+NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2ODc4OV
+19
 -->
