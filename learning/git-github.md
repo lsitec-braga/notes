@@ -42,6 +42,7 @@ Fazer merge|`git merge nome-da-branch`|Mover-se antes para a branch base
 Fazer rebase|`git rebase nome-da-feature`|Mover-se antes para a branch base
 Retirar as alterações que não foram _commitadas_|`git reset --hard`|
 Retirar as alterações que não foram _commitadas_|`git restore <nome do arquivo>`|
+Retirar as alterações que foram para _Staged Area_|`git restore --staged <nome do arquivo>`|
 Observar histórico de commits|`git log`|O mais recente é o que aparece primeiro
 
 ## Merge vs Rebase
@@ -70,8 +71,9 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTU3NTE5OCwxNDMzMzYwODYzLDc2Nz
-I5MzI3NCwtNjY3NTM3MzQ3LDc4OTE1NDk4NywtMTk3ODc1Mjkz
-NCwtMTgwMTYzMDAzMiw5NjMyNTY4MjksLTE5NDE0OTU3MzMsLT
-g1MjgxNjg2OSwyMDc0MjU4ODU5LDIwODUzNjg3ODldfQ==
+eyJoaXN0b3J5IjpbLTIwNDU1NTU3OCwtNzI5NTc1MTk4LDE0Mz
+MzNjA4NjMsNzY3MjkzMjc0LC02Njc1MzczNDcsNzg5MTU0OTg3
+LC0xOTc4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMT
+k0MTQ5NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2
+ODc4OV19
 -->
