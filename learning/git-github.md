@@ -10,6 +10,10 @@
 -   `Working tree`: Local onde os arquivos realmente estão sendo armazenados e editados
 -   `index`: Local onde o Git armazena o que será  _commitado_, ou seja, o local entre a  _working tree_  e o repositório Git em si.
 
+## Ciclo de vida dos arquivos com git
+
+![The lifecycle of the status of your files.](https://git-scm.com/book/en/v2/images/lifecycle.png)
+
 ## Configuração do git
 
 ```bash
@@ -32,7 +36,7 @@ Adicionar arquivos da pasta atual ao *track* do git|`git add .`|
 Fazer commit|`git commit -m "Mensagem do commit"`|Recomenda-se adicionar uma mensagem descritiva do commit
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzI3NTM4NCwtMTgwMTYzMDAzMiw5Nj
-MyNTY4MjksLTE5NDE0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4
-ODU5LDIwODUzNjg3ODldfQ==
+eyJoaXN0b3J5IjpbLTE5Nzg3NTI5MzQsLTE4MDE2MzAwMzIsOT
+YzMjU2ODI5LC0xOTQxNDk1NzMzLC04NTI4MTY4NjksMjA3NDI1
+ODg1OSwyMDg1MzY4Nzg5XX0=
 -->
