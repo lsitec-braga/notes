@@ -14,7 +14,10 @@
 Hierarquia de uma aplicação
 
 - App
+	- Activity
+		- View
+		- Logica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Njg3NjM0LDc5MDUzODc0OCw3MzA5OT
+eyJoaXN0b3J5IjpbODY0NDAyNDgwLDc5MDUzODc0OCw3MzA5OT
 gxMTZdfQ==
 -->
