@@ -4,6 +4,12 @@
 
 - [Git for windows](https://git-scm.com/)
 
+## Conceitos teóricos
+
+-   `HEAD`: Estado atual do nosso código, ou seja, onde o Git os colocou
+-   `Working tree`: Local onde os arquivos realmente estão sendo armazenados e editados
+-   `index`: Local onde o Git armazena o que será  _commitado_, ou seja, o local entre a  _working tree_  e o repositório Git em si.
+
 ## Configuração do git
 
 ```bash
@@ -26,7 +32,7 @@ Adicionar arquivos da pasta atual ao *track* do git|`git add .`|
 Fazer commit|`git commit -m "Mensagem do commit"`|Recomenda-se adicionar uma mensagem descritiva do commit
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDk1ODIwMywtMTgwMTYzMDAzMiw5Nj
+eyJoaXN0b3J5IjpbMTI3NzI3NTM4NCwtMTgwMTYzMDAzMiw5Nj
 MyNTY4MjksLTE5NDE0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4
 ODU5LDIwODUzNjg3ODldfQ==
 -->
