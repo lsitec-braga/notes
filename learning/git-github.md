@@ -20,10 +20,11 @@ git config --local user.email "diego.braga@lsitec.org.br"
 
 Objetivo|Comando|Comentários
 -|-|-
-Iniciar versionamento com git|`git init`|
-Informações sobre o versionamento|`git status`|
+Criar um repositório|`git init`|
+Analisar estado do repositório|`git status`|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzMjU2ODI5LC0xOTQxNDk1NzMzLC04NT
-I4MTY4NjksMjA3NDI1ODg1OSwyMDg1MzY4Nzg5XX0=
+eyJoaXN0b3J5IjpbLTQ1OTQ4NjUyNCw5NjMyNTY4MjksLTE5ND
+E0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4ODU5LDIwODUzNjg3
+ODldfQ==
 -->
