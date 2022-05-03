@@ -54,12 +54,12 @@ Com detalhes das alterações|`git log -p`
 Arquivo `.gitignore`
 
 ```
-nome-do-arquivo-a-ser-ignorado.ext
-
+arquivo-a-ser-ignorado.ext
+pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAxODkyNTgsNzg5MTU0OTg3LC0xOT
-c4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5
-NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2ODc4OV
-19
+eyJoaXN0b3J5IjpbLTY2NzUzNzM0Nyw3ODkxNTQ5ODcsLTE5Nz
+g3NTI5MzQsLTE4MDE2MzAwMzIsOTYzMjU2ODI5LC0xOTQxNDk1
+NzMzLC04NTI4MTY4NjksMjA3NDI1ODg1OSwyMDg1MzY4Nzg5XX
+0=
 -->
