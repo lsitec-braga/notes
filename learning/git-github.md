@@ -34,6 +34,7 @@ Criar um repositório|`git init`|
 Analisar estado do repositório|`git status`|
 Adicionar arquivos da pasta atual ao *track* do git|`git add .`|
 Fazer commit|`git commit -m "Mensagem do commit"`|Recomenda-se adicionar uma mensagem descritiva do commit|
+Observar histórico de commits|`git log`|O mais recente é o que aparece primeiro
 Adicionar mudanças da origin para o repositório local|`git pull origin main`|
 Alterar branch|`git checkout nome-da-branch`|
 Criar uma branch|`git branch nome-da-branch`|
@@ -43,7 +44,7 @@ Fazer rebase|`git rebase nome-da-feature`|Mover-se antes para a branch base
 Retirar as alterações que não foram _commitadas_|`git reset --hard`|
 Retirar as alterações que não foram _commitadas_|`git restore <nome do arquivo>`|
 Retirar as alterações que foram para _Staged Area_|`git restore --staged <nome do arquivo>`|
-Observar histórico de commits|`git log`|O mais recente é o que aparece primeiro
+Retirar as alterações que sofreram _commit_|`git revert <sha-1>`|
 
 ## Merge vs Rebase
 
@@ -71,9 +72,9 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU1NTU3OCwtNzI5NTc1MTk4LDE0Mz
-MzNjA4NjMsNzY3MjkzMjc0LC02Njc1MzczNDcsNzg5MTU0OTg3
-LC0xOTc4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMT
-k0MTQ5NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2
-ODc4OV19
+eyJoaXN0b3J5IjpbNTc3NDk1Mzg3LC0yMDQ1NTU1NzgsLTcyOT
+U3NTE5OCwxNDMzMzYwODYzLDc2NzI5MzI3NCwtNjY3NTM3MzQ3
+LDc4OTE1NDk4NywtMTk3ODc1MjkzNCwtMTgwMTYzMDAzMiw5Nj
+MyNTY4MjksLTE5NDE0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4
+ODU5LDIwODUzNjg3ODldfQ==
 -->
