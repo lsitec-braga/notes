@@ -23,10 +23,10 @@ Objetivo|Comando|Comentários
 Criar um repositório|`git init`|
 Analisar estado do repositório|`git status`|
 Adicionar arquivos da pasta atual ao *track* do git|`git add .`|
-
+Fazer commit|`git commit -m "Mensagem do commit"`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTk0MTc2NCw5NjMyNTY4MjksLTE5ND
-E0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4ODU5LDIwODUzNjg3
-ODldfQ==
+eyJoaXN0b3J5IjpbLTEzNjY2NDE1NTcsOTYzMjU2ODI5LC0xOT
+QxNDk1NzMzLC04NTI4MTY4NjksMjA3NDI1ODg1OSwyMDg1MzY4
+Nzg5XX0=
 -->
