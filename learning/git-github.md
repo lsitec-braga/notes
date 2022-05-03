@@ -7,7 +7,7 @@
 ## Configuração do git
 
 ```bash
-# Genérico
+# Configs genéricas
 git config --local user.name "Seu nome do github aqui"
 git config --local user.email "seu@emailDoGithub.aqui"
 
@@ -24,6 +24,6 @@ Iniciar versionamento com git|`git init`|
 Informações sobre o versionamento|`git status`|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc3OTAyNzMsLTE5NDE0OTU3MzMsLT
-g1MjgxNjg2OSwyMDc0MjU4ODU5LDIwODUzNjg3ODldfQ==
+eyJoaXN0b3J5IjpbOTYzMjU2ODI5LC0xOTQxNDk1NzMzLC04NT
+I4MTY4NjksMjA3NDI1ODg1OSwyMDg1MzY4Nzg5XX0=
 -->
