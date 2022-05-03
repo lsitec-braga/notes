@@ -41,10 +41,12 @@ Observar histórico de commits|`git log`|O mais recente é o que aparece primeir
 Objetivo|Comando|Comentários
 -|-|-
 Observar histórico de commits|`git log`|
-Observar histórico de commits utiliznado uma linha cada|`git log --oneline`
+Enxuto em uma linha cada|`git log --oneline`|
+Com detalhes das alterações|`git log -p`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc3MDg2MzgsNzg5MTU0OTg3LC0xOT
-c4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5
-NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2ODc4OV
-19
+eyJoaXN0b3J5IjpbMTcxNzY0MzY3Niw3ODkxNTQ5ODcsLTE5Nz
+g3NTI5MzQsLTE4MDE2MzAwMzIsOTYzMjU2ODI5LC0xOTQxNDk1
+NzMzLC04NTI4MTY4NjksMjA3NDI1ODg1OSwyMDg1MzY4Nzg5XX
+0=
 -->
