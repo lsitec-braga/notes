@@ -37,8 +37,8 @@ Dentro do arquivo `app/src/main/AndroidManifest.xml`, adicione o código abaixo
 </application>
 ```
 
-> Esse código que foi adicionado serve para 
+> Esse código adicionado serve para que o arquivo `MainActivitie.java` seja identificada pelo Android como o arquivo a ser iniciado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDEzNTcxMyw4NjQ0MDI0ODAsNzkwNT
-M4NzQ4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTQ3MjIxMzgyLDg2NDQwMjQ4MCw3OTA1Mz
+g3NDgsNzMwOTk4MTE2XX0=
 -->
