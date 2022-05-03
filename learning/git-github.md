@@ -38,8 +38,10 @@ Observar histórico de commits|`git log`|O mais recente é o que aparece primeir
 
 ## Git log
 
-[Outras maneiras de organizar os histporicos do git](https://devhints.io/git-log)
-[Parâmetros do git log](https://devhints.io/git-log-format)
+Links úteis
+
+- [Outras maneiras de organizar os histporicos do git](https://devhints.io/git-log)
+- [Parâmetros do git log](https://devhints.io/git-log-format)
 
 Objetivo|Comando|Comentários
 -|-|-
@@ -47,9 +49,12 @@ Observar histórico de commits|`git log`|
 Enxuto em uma linha cada|`git log --oneline`|
 Com detalhes das alterações|`git log -p`
 
+## Git ignore
+
+````git```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDk2NTg0OCw3ODkxNTQ5ODcsLTE5Nz
-g3NTI5MzQsLTE4MDE2MzAwMzIsOTYzMjU2ODI5LC0xOTQxNDk1
-NzMzLC04NTI4MTY4NjksMjA3NDI1ODg1OSwyMDg1MzY4Nzg5XX
-0=
+eyJoaXN0b3J5IjpbLTExNTM5MDU5ODQsNzg5MTU0OTg3LC0xOT
+c4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5
+NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2ODc4OV
+19
 -->
