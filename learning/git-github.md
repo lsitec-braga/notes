@@ -50,7 +50,7 @@ Listar alterações temporariamente|`git stash list`|
 Aplicar alterações da stash definida|`git stash apply <number>`|
 Remover alterações da stash list|`git stash drop <number>`|
 Pegar stash para dar continuidade|`git stash pop`|Pegar o último stash da lista
-
+Conferir alterações feitas|`git diff`
 
 ## Merge vs Rebase
 
@@ -78,7 +78,7 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTc2NDMwMiwxNjU2ODUxMzk2LC0xOT
+eyJoaXN0b3J5IjpbMTY0MDcyOTY1MCwxNjU2ODUxMzk2LC0xOT
 YyMzA4MTA5LDE5NjYxMTEwNjMsNTc3NDk1Mzg3LC0yMDQ1NTU1
 NzgsLTcyOTU3NTE5OCwxNDMzMzYwODYzLDc2NzI5MzI3NCwtNj
 Y3NTM3MzQ3LDc4OTE1NDk4NywtMTk3ODc1MjkzNCwtMTgwMTYz
