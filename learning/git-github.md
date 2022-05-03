@@ -51,6 +51,7 @@ Aplicar alterações da stash definida|`git stash apply <number>`|
 Remover alterações da stash list|`git stash drop <number>`|
 Pegar stash para dar continuidade|`git stash pop`|Pegar o último stash da lista
 Conferir alterações feitas|`git diff`
+Definir tag no commit|`git tag`
 
 ## Merge vs Rebase
 
@@ -78,10 +79,10 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDcyOTY1MCwxNjU2ODUxMzk2LC0xOT
-YyMzA4MTA5LDE5NjYxMTEwNjMsNTc3NDk1Mzg3LC0yMDQ1NTU1
-NzgsLTcyOTU3NTE5OCwxNDMzMzYwODYzLDc2NzI5MzI3NCwtNj
-Y3NTM3MzQ3LDc4OTE1NDk4NywtMTk3ODc1MjkzNCwtMTgwMTYz
-MDAzMiw5NjMyNTY4MjksLTE5NDE0OTU3MzMsLTg1MjgxNjg2OS
-wyMDc0MjU4ODU5LDIwODUzNjg3ODldfQ==
+eyJoaXN0b3J5IjpbLTQ1MTQyMzA2OSwxNjQwNzI5NjUwLDE2NT
+Y4NTEzOTYsLTE5NjIzMDgxMDksMTk2NjExMTA2Myw1Nzc0OTUz
+ODcsLTIwNDU1NTU3OCwtNzI5NTc1MTk4LDE0MzMzNjA4NjMsNz
+Y3MjkzMjc0LC02Njc1MzczNDcsNzg5MTU0OTg3LC0xOTc4NzUy
+OTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5NTczMy
+wtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2ODc4OV19
 -->
