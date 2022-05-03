@@ -51,7 +51,8 @@ Aplicar alterações da stash definida|`git stash apply <number>`|
 Remover alterações da stash list|`git stash drop <number>`|
 Pegar stash para dar continuidade|`git stash pop`|Pegar o último stash da lista
 Conferir alterações feitas|`git diff`
-Definir tag no commit|`git tag`
+Definir tag no commit|`git tag -a v0.1.0 -m "Lançando a versão beta do aplicativo"`|
+Listar tags|`git tag`|
 
 ## Merge vs Rebase
 
@@ -79,7 +80,7 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTQyMzA2OSwxNjQwNzI5NjUwLDE2NT
+eyJoaXN0b3J5IjpbLTcyMzI1NzEzMiwxNjQwNzI5NjUwLDE2NT
 Y4NTEzOTYsLTE5NjIzMDgxMDksMTk2NjExMTA2Myw1Nzc0OTUz
 ODcsLTIwNDU1NTU3OCwtNzI5NTc1MTk4LDE0MzMzNjA4NjMsNz
 Y3MjkzMjc0LC02Njc1MzczNDcsNzg5MTU0OTg3LC0xOTc4NzUy
