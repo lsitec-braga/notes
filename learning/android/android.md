@@ -17,7 +17,21 @@ Hierarquia de uma aplicação
 	- Activity
 		- View
 		- Logica
+
+## Iniciando a criação de um App Android
+
+```java
+<application
+// código base adicionado
+>
+<activity android:name=".MainActivity">  
+ <intent-filter> <action android:name="android.intent.action.MAIN"/>  
+ <category android:name="android.intent.category.LAUNCHER"/>  
+</intent-filter>
+  </activity>
+</application>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NDAyNDgwLDc5MDUzODc0OCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbMTIxNDA2NzM1Miw4NjQ0MDI0ODAsNzkwNT
+M4NzQ4LDczMDk5ODExNl19
 -->
