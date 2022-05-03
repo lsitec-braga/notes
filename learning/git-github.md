@@ -37,7 +37,9 @@ Fazer commit|`git commit -m "Mensagem do commit"`|Recomenda-se adicionar uma men
 Adicionar mudanças da origin para o repositório local|`git pull origin main`|
 Alterar branch|`git checkout nome-da-branch`|
 Criar uma branch|`git branch nome-da-branch`|
-Criar nova branch e alterar para ela|`git che`
+Criar nova branch e alterar para ela|`git checkout -b nome-da-branch`|
+Fazer merge|`git merge nome-da-branch`|
+Fazer r
 Observar histórico de commits|`git log`|O mais recente é o que aparece primeiro
 
 ## Git Merge
@@ -64,8 +66,8 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMwOTA0MDEsLTY2NzUzNzM0Nyw3OD
-kxNTQ5ODcsLTE5Nzg3NTI5MzQsLTE4MDE2MzAwMzIsOTYzMjU2
-ODI5LC0xOTQxNDk1NzMzLC04NTI4MTY4NjksMjA3NDI1ODg1OS
-wyMDg1MzY4Nzg5XX0=
+eyJoaXN0b3J5IjpbMTk3NTM1MzI5NCwtNjY3NTM3MzQ3LDc4OT
+E1NDk4NywtMTk3ODc1MjkzNCwtMTgwMTYzMDAzMiw5NjMyNTY4
+MjksLTE5NDE0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4ODU5LD
+IwODUzNjg3ODldfQ==
 -->
