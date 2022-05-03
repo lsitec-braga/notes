@@ -1,7 +1,10 @@
+# Android
 
+## O que é?
 
+- Sistema operacional _open source_ baseado em Linux
+- Usado em sua maioria em celulares e tablets, mas também pode ser e
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTI5NTk4MjU5OCw3MzA5OTgxMTZdfQ==
 -->
