@@ -44,7 +44,7 @@ Observar histórico de commits|`git log`|O mais recente é o que aparece primeir
 
 ## Merge vs Rebase
 
-[]
+[Entendendo melhor Merge vs Rebase](https://medium.datadriveninvestor.com/git-rebase-vs-merge-cc5199edd77c)
 
 ## Git log
 
@@ -68,7 +68,7 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTMzNDEwNyw3NjcyOTMyNzQsLTY2Nz
+eyJoaXN0b3J5IjpbMTQzMzM2MDg2Myw3NjcyOTMyNzQsLTY2Nz
 UzNzM0Nyw3ODkxNTQ5ODcsLTE5Nzg3NTI5MzQsLTE4MDE2MzAw
 MzIsOTYzMjU2ODI5LC0xOTQxNDk1NzMzLC04NTI4MTY4NjksMj
 A3NDI1ODg1OSwyMDg1MzY4Nzg5XX0=
