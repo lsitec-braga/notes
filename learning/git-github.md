@@ -6,10 +6,11 @@
 
 ## Comandos básicos
 
-Comando|Objetivo|Comentários
+Objetivo|Comando|Comentários
 -|-|-
-`git init`|Iniciar versionamento com git
+Iniciar versionamento com git|`git init`|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDI1ODg1OSwyMDg1MzY4Nzg5XX0=
+eyJoaXN0b3J5IjpbLTg1MjgxNjg2OSwyMDc0MjU4ODU5LDIwOD
+UzNjg3ODldfQ==
 -->
