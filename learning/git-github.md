@@ -34,7 +34,10 @@ Criar um repositório|`git init`|
 Analisar estado do repositório|`git status`|
 Adicionar arquivos da pasta atual ao *track* do git|`git add .`|
 Fazer commit|`git commit -m "Mensagem do commit"`|Recomenda-se adicionar uma mensagem descritiva do commit|
+Adicionar mudanças 
 Observar histórico de commits|`git log`|O mais recente é o que aparece primeiro
+
+## Git Merge
 
 ## Git log
 
@@ -58,8 +61,8 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzUzNzM0Nyw3ODkxNTQ5ODcsLTE5Nz
-g3NTI5MzQsLTE4MDE2MzAwMzIsOTYzMjU2ODI5LC0xOTQxNDk1
-NzMzLC04NTI4MTY4NjksMjA3NDI1ODg1OSwyMDg1MzY4Nzg5XX
-0=
+eyJoaXN0b3J5IjpbMTI5ODUyMDIzMywtNjY3NTM3MzQ3LDc4OT
+E1NDk4NywtMTk3ODc1MjkzNCwtMTgwMTYzMDAzMiw5NjMyNTY4
+MjksLTE5NDE0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4ODU5LD
+IwODUzNjg3ODldfQ==
 -->
