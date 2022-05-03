@@ -39,7 +39,7 @@ Alterar branch|`git checkout nome-da-branch`|
 Criar uma branch|`git branch nome-da-branch`|
 Criar nova branch e alterar para ela|`git checkout -b nome-da-branch`|
 Fazer merge|`git merge nome-da-branch`|
-Fazer r
+Fazer rebase|`git rebase`
 Observar histórico de commits|`git log`|O mais recente é o que aparece primeiro
 
 ## Git Merge
@@ -66,8 +66,8 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTM1MzI5NCwtNjY3NTM3MzQ3LDc4OT
-E1NDk4NywtMTk3ODc1MjkzNCwtMTgwMTYzMDAzMiw5NjMyNTY4
-MjksLTE5NDE0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4ODU5LD
-IwODUzNjg3ODldfQ==
+eyJoaXN0b3J5IjpbNzY3MjkzMjc0LC02Njc1MzczNDcsNzg5MT
+U0OTg3LC0xOTc4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1Njgy
+OSwtMTk0MTQ5NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMj
+A4NTM2ODc4OV19
 -->
