@@ -51,9 +51,14 @@ Com detalhes das alterações|`git log -p`
 
 ## Git ignore
 
-````git```
+Arquivo `.gitignore`
+
+```
+nome-do-arquivo-a-ser-ignorado.ext
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM5MDU5ODQsNzg5MTU0OTg3LC0xOT
+eyJoaXN0b3J5IjpbLTE2NjAxODkyNTgsNzg5MTU0OTg3LC0xOT
 c4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5
 NTczMywtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2ODc4OV
 19
