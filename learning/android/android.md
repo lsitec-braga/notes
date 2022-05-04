@@ -120,9 +120,17 @@ BackEnd
 import android.widget.ArrayAdapter;  
 import android.widget.ListView;
 
+import java.util.ArrayList;  
+import java.util.Arrays;  
+import java.util.List;
+
 // Define a lista
 List<String> students = new ArrayList<>(Arrays.asList("Diego", "Carlos", "Bruno"));  
+
+// Atribui a Activity da Lista para uma variável
 ListView studentsList = findViewById(R.id.activity_main_students_list);  
+
+// Gera a lista dinâmicamente através do parâmetro passado
 studentsList.setAdapter(new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, students));
 ```
 
@@ -144,7 +152,7 @@ FrontEnd
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzAyODQ1MiwxNzA5MTcxNDUsLTU1OT
+eyJoaXN0b3J5IjpbMTUwNDYyNTEwNSwxNzA5MTcxNDUsLTU1OT
 Q4MzU2MSw0MDY2NjcyODksNTQ3MjIxMzgyLDg2NDQwMjQ4MCw3
 OTA1Mzg3NDgsNzMwOTk4MTE2XX0=
 -->
