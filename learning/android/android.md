@@ -54,11 +54,14 @@ Dentro do arquivo `app/src/main/AndroidManifest.xml`, adicione o código abaixo
 Mensagem de texto que aparece por um período na parte inferior da tela, geralmente refere-se a alguma ação que foi executada para o usuário
 
 ```java
-Toast.makeText(this, "Hello World!", Toast.LENGTH_LONG).show();
+import android.widget.Toast;
+
+// Toast.makeText(context, message, time).show()
+Toast.makeText(this, "Mensagem desejada", Toast.LENGTH_LONG).show();
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkyNTM1MjAsNDA2NjY3Mjg5LDU0Nz
-IyMTM4Miw4NjQ0MDI0ODAsNzkwNTM4NzQ4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTEzMzAxMjQ2MSw0MDY2NjcyODksNTQ3Mj
+IxMzgyLDg2NDQwMjQ4MCw3OTA1Mzg3NDgsNzMwOTk4MTE2XX0=
 
 -->
