@@ -69,6 +69,8 @@ Em seguida, é adicionado o seguinte método dentro da classe `MainActivity`
 setContentView(R.layout.activity_main);
 ```
 
+Como **boa prática**, os componentes são criados dentro de um arquivo de layout, geralmente localizado no caminho: `app/src/main/res/layout/nomeDoArquivo.xml`
+
 ### Toast
 
 Mensagem de texto que aparece por um período na parte inferior da tela, geralmente refere-se a alguma ação que foi executada para o usuário
@@ -85,7 +87,7 @@ Toast.makeText(this, "Mensagem desejada", Toast.LENGTH_LONG).show();
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTE4MDk0NSwtNTU5NDgzNTYxLDQwNj
+eyJoaXN0b3J5IjpbMTM2MjIxMDY3MCwtNTU5NDgzNTYxLDQwNj
 Y2NzI4OSw1NDcyMjEzODIsODY0NDAyNDgwLDc5MDUzODc0OCw3
 MzA5OTgxMTZdfQ==
 -->
