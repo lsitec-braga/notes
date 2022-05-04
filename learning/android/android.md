@@ -52,6 +52,7 @@ Dentro do arquivo `app/src/main/AndroidManifest.xml`, adicione o código abaixo
 Para adicionar componentes é necessário primeiro sobrescrever estados de ciclos de vida da Activity, nesse caso, o método a ser sobrescrito é chamado de  `onCreate()` 
 
 ```java
+// MainActivity.java
 import androidx.annotation.Nullable;
 
 @Override  
@@ -59,6 +60,8 @@ protected void onCreate(@Nullable Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
 }
 ```
+
+Em seguida, é adiciona
 
 ### Toast
 
@@ -76,7 +79,7 @@ Toast.makeText(this, "Mensagem desejada", Toast.LENGTH_LONG).show();
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTQ4MzU2MSw0MDY2NjcyODksNTQ3Mj
-IxMzgyLDg2NDQwMjQ4MCw3OTA1Mzg3NDgsNzMwOTk4MTE2XX0=
-
+eyJoaXN0b3J5IjpbNDE0OTYxNDE4LC01NTk0ODM1NjEsNDA2Nj
+Y3Mjg5LDU0NzIyMTM4Miw4NjQ0MDI0ODAsNzkwNTM4NzQ4LDcz
+MDk5ODExNl19
 -->
