@@ -114,6 +114,18 @@ FrontEnd
   android:layout_height="match_parent" />
 ```
 
+BackEnd
+
+```java
+import android.widget.ArrayAdapter;  
+import android.widget.ListView;
+
+// Define a lista
+List<String> students = new ArrayList<>(Arrays.asList("Diego", "Carlos", "Bruno"));  
+ListView studentsList = findViewById(R.id.activity_main_students_list);  
+studentsList.setAdapter(new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, students));
+```
+
 ### FloatingActionButton
 
 FrontEnd
@@ -132,7 +144,7 @@ FrontEnd
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1NTU3MTQwLDE3MDkxNzE0NSwtNTU5ND
-gzNTYxLDQwNjY2NzI4OSw1NDcyMjEzODIsODY0NDAyNDgwLDc5
-MDUzODc0OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ2NzAyODQ1MiwxNzA5MTcxNDUsLTU1OT
+Q4MzU2MSw0MDY2NjcyODksNTQ3MjIxMzgyLDg2NDQwMjQ4MCw3
+OTA1Mzg3NDgsNzMwOTk4MTE2XX0=
 -->
