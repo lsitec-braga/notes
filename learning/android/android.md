@@ -103,12 +103,36 @@ import android.widget.Toast;
 Toast.makeText(this, "Mensagem desejada", Toast.LENGTH_LONG).show();
 ```
 
-### View
+### ListView
 
+FrontEnd
 
+```xml
+<ListView  
+  android:id="@+id/activity_main_students_list"  
+  android:layout_width="match_parent"  
+  android:layout_height="match_parent" />
+```
+
+### FloatingActionButton
+
+FrontEnd
+
+```xml
+<com.google.android.material.floatingactionbutton.FloatingActionButton  
+  android:id="@+id/activity_main_add_student"  
+  android:layout_width="match_parent"  
+  android:layout_height="wrap_content"  
+  app:fabSize="normal"  
+  android:layout_alignParentEnd="true"  
+  android:layout_alignParentBottom="true"  
+  android:layout_marginEnd="24dp"  
+  android:layout_marginBottom="24dp"  
+  android:clickable="true" />
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTE3MTQ1LC01NTk0ODM1NjEsNDA2Nj
-Y3Mjg5LDU0NzIyMTM4Miw4NjQ0MDI0ODAsNzkwNTM4NzQ4LDcz
-MDk5ODExNl19
+eyJoaXN0b3J5IjpbODY1NTU3MTQwLDE3MDkxNzE0NSwtNTU5ND
+gzNTYxLDQwNjY2NzI4OSw1NDcyMjEzODIsODY0NDAyNDgwLDc5
+MDUzODc0OCw3MzA5OTgxMTZdfQ==
 -->
