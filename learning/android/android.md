@@ -71,8 +71,12 @@ import android.widget.Toast;
 Toast.makeText(this, "Mensagem desejada", Toast.LENGTH_LONG).show();
 ```
 
+### View
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczNTM5Mjk3LDQwNjY2NzI4OSw1NDcyMj
-EzODIsODY0NDAyNDgwLDc5MDUzODc0OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU1OTQ4MzU2MSw0MDY2NjcyODksNTQ3Mj
+IxMzgyLDg2NDQwMjQ4MCw3OTA1Mzg3NDgsNzMwOTk4MTE2XX0=
 
 -->
