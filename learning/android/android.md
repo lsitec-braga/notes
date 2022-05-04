@@ -4,7 +4,6 @@
 
 - Sistema operacional _open source_ baseado em Linux
 - Usado em sua maioria em celulares e tablets, mas também pode ser encontrado em TVs, Notebooks, carros, microcomputadores e _wearables_ (relógios e pulseiras inteligentes)
-- 
 
 ## Activities
 
@@ -46,8 +45,8 @@ Dentro do arquivo `app/src/main/AndroidManifest.xml`, adicione o código abaixo
 </application>
 ```
 
-> Esse código adicionado serve para que o arquivo `MainActivitie.java` seja identificada pelo Android como o arquivo a ser iniciado
+> Esse código adicionado serve para que o arquivo `MainActivity.java` seja identificada pelo Android como o arquivo a ser iniciado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODgyNzUzMSw1NDcyMjEzODIsODY0ND
-AyNDgwLDc5MDUzODc0OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDA2NjY3Mjg5LDU0NzIyMTM4Miw4NjQ0MD
+I0ODAsNzkwNTM4NzQ4LDczMDk5ODExNl19
 -->
