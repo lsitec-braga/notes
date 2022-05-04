@@ -49,7 +49,16 @@ Dentro do arquivo `app/src/main/AndroidManifest.xml`, adicione o código abaixo
 
 ## Componentes
 
-Para adicionar componentes é necessário primeiro adicionar o método herdado
+Para adicionar componentes é necessário primeiro adicionar o método herdado chamado `onCreate()` dentro do arquivo `MainActivity.java`
+
+```java
+import androidx.annotation.Nullable;
+
+@Override  
+protected void onCreate(@Nullable Bundle savedInstanceState) {  
+    super.onCreate(savedInstanceState);
+}
+```
 
 ### Toast
 
@@ -63,7 +72,7 @@ Toast.makeText(this, "Mensagem desejada", Toast.LENGTH_LONG).show();
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ0OTg2MjAsNDA2NjY3Mjg5LDU0Nz
+eyJoaXN0b3J5IjpbLTEzODc5NDAyNzMsNDA2NjY3Mjg5LDU0Nz
 IyMTM4Miw4NjQ0MDI0ODAsNzkwNTM4NzQ4LDczMDk5ODExNl19
 
 -->
