@@ -69,7 +69,28 @@ Em seguida, é adicionado o seguinte método dentro da classe `MainActivity`
 setContentView(R.layout.activity_main);
 ```
 
+---
+
 Como **boa prática**, os componentes são criados dentro de um arquivo de layout, geralmente localizado no caminho: `app/src/main/res/layout/nomeDoArquivo.xml`
+
+Aqui está um exemplo de como ficaria o código dentro desse arquivo
+
+```java
+<?xml version="1.0" encoding="utf-8"?>  
+<androidx.constraintlayout.widget.ConstraintLayout  
+  xmlns:android="http://schemas.android.com/apk/res/android"  
+  xmlns:tools="http://schemas.android.com/tools"  
+  android:layout_width="match_parent"  
+  android:layout_height="match_parent">  
+  
+ <TextView  android:id="@+id/textView"  
+  android:layout_width="wrap_content"  
+  android:layout_height="wrap_content"  
+  android:text="Diego Braga"  
+  tools:layout_editor_absoluteX="7dp"  
+  tools:layout_editor_absoluteY="120dp" />  
+</androidx.constraintlayout.widget.ConstraintLayout>
+```
 
 ### Toast
 
@@ -87,7 +108,7 @@ Toast.makeText(this, "Mensagem desejada", Toast.LENGTH_LONG).show();
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjIxMDY3MCwtNTU5NDgzNTYxLDQwNj
-Y2NzI4OSw1NDcyMjEzODIsODY0NDAyNDgwLDc5MDUzODc0OCw3
-MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTcwOTE3MTQ1LC01NTk0ODM1NjEsNDA2Nj
+Y3Mjg5LDU0NzIyMTM4Miw4NjQ0MDI0ODAsNzkwNTM4NzQ4LDcz
+MDk5ODExNl19
 -->
