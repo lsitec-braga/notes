@@ -61,7 +61,13 @@ protected void onCreate(@Nullable Bundle savedInstanceState) {
 }
 ```
 
-Em seguida, é adiciona
+Em seguida, é adicionado o seguinte método dentro da classe `MainActivity`
+
+```java
+// O argumento dentro do método é baseado no nome adicionado no
+// arquivo de layout
+setContentView(R.layout.activity_main);
+```
 
 ### Toast
 
@@ -79,7 +85,7 @@ Toast.makeText(this, "Mensagem desejada", Toast.LENGTH_LONG).show();
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0OTYxNDE4LC01NTk0ODM1NjEsNDA2Nj
-Y3Mjg5LDU0NzIyMTM4Miw4NjQ0MDI0ODAsNzkwNTM4NzQ4LDcz
-MDk5ODExNl19
+eyJoaXN0b3J5IjpbMTc5NTE4MDk0NSwtNTU5NDgzNTYxLDQwNj
+Y2NzI4OSw1NDcyMjEzODIsODY0NDAyNDgwLDc5MDUzODc0OCw3
+MzA5OTgxMTZdfQ==
 -->
