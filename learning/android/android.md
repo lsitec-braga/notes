@@ -9,7 +9,6 @@
 ## Activities
 
 - É a partir delas que o App é iniciado
--
 
 Hierarquia de uma aplicação
 
@@ -19,6 +18,16 @@ Hierarquia de uma aplicação
 		- Logica
 
 ## Iniciando a criação de um App Android
+
+Crie um arquivo chamado `MainActivity.java` e adicione o seguinte código:
+
+```java
+import android.app.Activity;  
+  
+public class MainActivity extends Activity {  
+  
+}
+```
 
 Dentro do arquivo `app/src/main/AndroidManifest.xml`, adicione o código abaixo
 
@@ -39,6 +48,6 @@ Dentro do arquivo `app/src/main/AndroidManifest.xml`, adicione o código abaixo
 
 > Esse código adicionado serve para que o arquivo `MainActivitie.java` seja identificada pelo Android como o arquivo a ser iniciado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MjIxMzgyLDg2NDQwMjQ4MCw3OTA1Mz
-g3NDgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM2ODgyNzUzMSw1NDcyMjEzODIsODY0ND
+AyNDgwLDc5MDUzODc0OCw3MzA5OTgxMTZdfQ==
 -->
