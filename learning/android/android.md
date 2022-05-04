@@ -49,6 +49,8 @@ Dentro do arquivo `app/src/main/AndroidManifest.xml`, adicione o código abaixo
 
 ## Componentes
 
+Para adicionar componentes é necessário primeiro adicionar o método herdado
+
 ### Toast
 
 Mensagem de texto que aparece por um período na parte inferior da tela, geralmente refere-se a alguma ação que foi executada para o usuário
@@ -61,7 +63,7 @@ Toast.makeText(this, "Mensagem desejada", Toast.LENGTH_LONG).show();
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzAxMjQ2MSw0MDY2NjcyODksNTQ3Mj
-IxMzgyLDg2NDQwMjQ4MCw3OTA1Mzg3NDgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxMDQ0OTg2MjAsNDA2NjY3Mjg5LDU0Nz
+IyMTM4Miw4NjQ0MDI0ODAsNzkwNTM4NzQ4LDczMDk5ODExNl19
 
 -->
