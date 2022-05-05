@@ -38,6 +38,7 @@ Observar histórico de commits|`git log`|O mais recente é o que aparece primeir
 Adicionar mudanças da origin para o repositório local|`git pull origin main`|
 Alterar branch|`git checkout nome-da-branch`|
 Criar uma branch|`git branch nome-da-branch`|
+Renomear _branch_|`git branch -M main`|
 Criar nova branch e alterar para ela|`git checkout -b nome-da-branch`|
 Fazer merge|`git merge nome-da-branch`|Mover-se antes para a branch base
 Fazer rebase|`git rebase nome-da-feature`|Mover-se antes para a branch base
@@ -80,10 +81,11 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzI1NzEzMiwxNjQwNzI5NjUwLDE2NT
-Y4NTEzOTYsLTE5NjIzMDgxMDksMTk2NjExMTA2Myw1Nzc0OTUz
-ODcsLTIwNDU1NTU3OCwtNzI5NTc1MTk4LDE0MzMzNjA4NjMsNz
-Y3MjkzMjc0LC02Njc1MzczNDcsNzg5MTU0OTg3LC0xOTc4NzUy
-OTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5NTczMy
-wtODUyODE2ODY5LDIwNzQyNTg4NTksMjA4NTM2ODc4OV19
+eyJoaXN0b3J5IjpbMzAxMjU2NDI0LC03MjMyNTcxMzIsMTY0MD
+cyOTY1MCwxNjU2ODUxMzk2LC0xOTYyMzA4MTA5LDE5NjYxMTEw
+NjMsNTc3NDk1Mzg3LC0yMDQ1NTU1NzgsLTcyOTU3NTE5OCwxND
+MzMzYwODYzLDc2NzI5MzI3NCwtNjY3NTM3MzQ3LDc4OTE1NDk4
+NywtMTk3ODc1MjkzNCwtMTgwMTYzMDAzMiw5NjMyNTY4MjksLT
+E5NDE0OTU3MzMsLTg1MjgxNjg2OSwyMDc0MjU4ODU5LDIwODUz
+Njg3ODldfQ==
 -->
