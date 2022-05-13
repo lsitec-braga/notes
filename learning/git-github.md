@@ -54,7 +54,8 @@ Pegar stash para dar continuidade|`git stash pop`|Pegar o último stash da lista
 Conferir alterações feitas|`git diff`
 Definir tag no commit|`git tag -a v0.1.0 -m "Lançando a versão beta do aplicativo"`|
 Listar tags|`git tag`|
-Mover commit específico para outra branch|`git cherry-pic <hash-commit>`
+Mover commit específico para outra branch|`git cherry-pic <hash-commit>`|
+Descobrir commit 
 
 ## Merge vs Rebase
 
@@ -82,11 +83,11 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDUwMDIxMSwzMDEyNTY0MjQsLTcyMz
-I1NzEzMiwxNjQwNzI5NjUwLDE2NTY4NTEzOTYsLTE5NjIzMDgx
-MDksMTk2NjExMTA2Myw1Nzc0OTUzODcsLTIwNDU1NTU3OCwtNz
-I5NTc1MTk4LDE0MzMzNjA4NjMsNzY3MjkzMjc0LC02Njc1Mzcz
-NDcsNzg5MTU0OTg3LC0xOTc4NzUyOTM0LC0xODAxNjMwMDMyLD
-k2MzI1NjgyOSwtMTk0MTQ5NTczMywtODUyODE2ODY5LDIwNzQy
-NTg4NTldfQ==
+eyJoaXN0b3J5IjpbLTU3NDUzMjU4MSwtMzY0NTAwMjExLDMwMT
+I1NjQyNCwtNzIzMjU3MTMyLDE2NDA3Mjk2NTAsMTY1Njg1MTM5
+NiwtMTk2MjMwODEwOSwxOTY2MTExMDYzLDU3NzQ5NTM4NywtMj
+A0NTU1NTc4LC03Mjk1NzUxOTgsMTQzMzM2MDg2Myw3NjcyOTMy
+NzQsLTY2NzUzNzM0Nyw3ODkxNTQ5ODcsLTE5Nzg3NTI5MzQsLT
+E4MDE2MzAwMzIsOTYzMjU2ODI5LC0xOTQxNDk1NzMzLC04NTI4
+MTY4NjldfQ==
 -->
