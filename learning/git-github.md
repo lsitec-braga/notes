@@ -56,6 +56,7 @@ Definir tag no commit|`git tag -a v0.1.0 -m "Lançando a versão beta do aplicat
 Listar tags|`git tag`|
 Mover commit específico para outra branch|`git cherry-pic <hash-commit>`|
 Descobrir commit de uma alteração|`git bisect start`|
+Saber quem fez alteração em cada linha|`git blame`
 
 ## Merge vs Rebase
 
@@ -83,11 +84,11 @@ arquivo-a-ser-ignorado.ext
 pasta-a-ser-ignorada/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4OTgzMTksLTM2NDUwMDIxMSwzMDEyNT
-Y0MjQsLTcyMzI1NzEzMiwxNjQwNzI5NjUwLDE2NTY4NTEzOTYs
-LTE5NjIzMDgxMDksMTk2NjExMTA2Myw1Nzc0OTUzODcsLTIwND
-U1NTU3OCwtNzI5NTc1MTk4LDE0MzMzNjA4NjMsNzY3MjkzMjc0
-LC02Njc1MzczNDcsNzg5MTU0OTg3LC0xOTc4NzUyOTM0LC0xOD
-AxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5NTczMywtODUyODE2
-ODY5XX0=
+eyJoaXN0b3J5IjpbLTEyMDk1NzI4MTcsNzY4OTgzMTksLTM2ND
+UwMDIxMSwzMDEyNTY0MjQsLTcyMzI1NzEzMiwxNjQwNzI5NjUw
+LDE2NTY4NTEzOTYsLTE5NjIzMDgxMDksMTk2NjExMTA2Myw1Nz
+c0OTUzODcsLTIwNDU1NTU3OCwtNzI5NTc1MTk4LDE0MzMzNjA4
+NjMsNzY3MjkzMjc0LC02Njc1MzczNDcsNzg5MTU0OTg3LC0xOT
+c4NzUyOTM0LC0xODAxNjMwMDMyLDk2MzI1NjgyOSwtMTk0MTQ5
+NTczM119
 -->
