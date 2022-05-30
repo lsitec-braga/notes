@@ -35,7 +35,7 @@ Dentro do arquivo `app/src/main/AndroidManifest.xml`, adicione o código abaixo
 // código base adicionado
 >
 // Adicione o código abaixo desse comentário
-  <activity android:name=".MainActivity">
+  <activity android:name=".MainActivity" android:exported="true">
     <intent-filter>
 	  <action android:name="android.intent.action.MAIN"/>
 	  <category android:name="android.intent.category.LAUNCHER"/>
@@ -152,7 +152,7 @@ FrontEnd
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDYyNTEwNSwxNzA5MTcxNDUsLTU1OT
-Q4MzU2MSw0MDY2NjcyODksNTQ3MjIxMzgyLDg2NDQwMjQ4MCw3
-OTA1Mzg3NDgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxNTczNTc5OCwxNTA0NjI1MTA1LDE3MD
+kxNzE0NSwtNTU5NDgzNTYxLDQwNjY2NzI4OSw1NDcyMjEzODIs
+ODY0NDAyNDgwLDc5MDUzODc0OCw3MzA5OTgxMTZdfQ==
 -->
