@@ -29,29 +29,32 @@ adb remount
 
 ## Remount para SDK >=29
 
-Root
+Fazer root no dispositivo
 
 ```bash
 adb root
 ```
+
+Desativar secure boot do adb
 
 ```bash
 adb shell avbctl disable-verification
 ```
 
+Reiniciar dispositivo
+
 ```bash
 adb reboot
 ```
 
-```bash
-adb root
-```
+Fazer root e 
 
 ```bash
+adb root
 adb remount
 ```
 
 ## Embarque do apk na system
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MDMxMDIzLDI1NTkwMTkzM119
+eyJoaXN0b3J5IjpbLTU3OTIxNTEyNSwyNTU5MDE5MzNdfQ==
 -->
