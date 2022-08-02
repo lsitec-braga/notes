@@ -1,4 +1,4 @@
-# Sellout - Principais comandos
+# Sellout
 
 ## Acesso ao root do AVD
 
@@ -14,7 +14,7 @@ emulator -list-avds
 Inicie um device de acordo com a lista apresentada
 
 ```bash
-emulator -avd <device_name> -writable-system
+emulator -avd Pixel_3_XL_API_31 -writable-system
 ```
 
 ## Remount para SDK menor ou igual a 28
@@ -83,5 +83,6 @@ adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0MDA0MzEyLDI1NTkwMTkzM119
+eyJoaXN0b3J5IjpbLTE4NDU4MTI3ODAsODk0MDA0MzEyLDI1NT
+kwMTkzM119
 -->
