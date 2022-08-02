@@ -83,11 +83,9 @@ adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\
 
 ## Adicionar permissões privilegiadas ao app
 
-Caso o apk possuir permissões privilegiadas o sistema ficará travado na tela de boot. Isso acontece porque tais permissões precisam estar definidas.
+Caso o apk possuir permissões privilegiadas o sistema ficará travado na tela de boot. Isso acontece porque tais permissões precisam estar definidas. Seguem os passos para resolver esse problema:
 
-Seguem os passos para resolver esse problema:
-
-Coletar o arquivo
+Pegue o arquivo para editá-lo
 
 ```bash
 adb pull system/etc/permissions/privapp-permissions-platform.xml
@@ -127,5 +125,5 @@ Reinicie o dispositivo
 adb reboot
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTM5MDMzOF19
+eyJoaXN0b3J5IjpbLTYwMDQyNzgxXX0=
 -->
