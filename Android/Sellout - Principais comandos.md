@@ -5,18 +5,18 @@
 Adicione o emulador ao path do windows com o caminho:
 `C:\Users\<seuUser>\AppData\Local\Android\Sdk\emulator`
 
-Listar emuladores
+Liste emuladores
 
 ```bash
 emulator -list-avds
 ```
 
-Iniciar um device de acordo com a lista apresentada
+Inicie um device de acordo com a lista apresentada
 
 ```bash
 emulator -avd <device_name> -writable-system
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkyNTM3MjVdfQ==
+eyJoaXN0b3J5IjpbMjU1OTAxOTMzXX0=
 -->
