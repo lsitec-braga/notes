@@ -1,6 +1,4 @@
-# Sellout - Principais comandos
-
-
+# Notas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjgxMDUwXX0=
+eyJoaXN0b3J5IjpbNDE1NTkzNjk2XX0=
 -->
