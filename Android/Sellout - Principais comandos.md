@@ -17,7 +17,7 @@ Inicie um device de acordo com a lista apresentada
 emulator -avd <device_name> -writable-system
 ```
 
-## Remount para SDK <= 28
+## Remount para SDK i 28
 
 Fazer root
 
@@ -60,7 +60,7 @@ adb remount
 
 ## Embarque do apk na system
 
-Seguir os passos do ![Remount]
+Seguir os passos do [Remount](#acesso-ao-root-do-avd)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODY3OTQ2NiwyNTU5MDE5MzNdfQ==
+eyJoaXN0b3J5IjpbLTk0NzM4OSwyNTU5MDE5MzNdfQ==
 -->
