@@ -121,12 +121,12 @@ Devolver arquivo editado
 adb push privapp-permissions-platform.xml /system/etc/permissions/
 ```
 
-Reiniciar
+Reinicie o dispositivo
     
 ```bash
 adb reboot
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjY1MzIzMiw4OTQwMDQzMTIsMjU1OT
+eyJoaXN0b3J5IjpbMTI1ODMzMzEyMiw4OTQwMDQzMTIsMjU1OT
 AxOTMzXX0=
 -->
