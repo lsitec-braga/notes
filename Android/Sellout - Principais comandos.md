@@ -17,6 +17,11 @@ Inicie um device de acordo com a lista apresentada
 emulator -avd <device_name> -writable-system
 ```
 
+## Remount para SDK <= 28
+
+## Remount para SDK >=29
+
+## Embarque do apk na system
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1OTAxOTMzXX0=
+eyJoaXN0b3J5IjpbMTg3MDk2MDAyNSwyNTU5MDE5MzNdfQ==
 -->
