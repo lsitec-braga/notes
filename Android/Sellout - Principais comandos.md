@@ -62,15 +62,19 @@ adb remount
 
 Seguir os passos de Remount para que seja possível manipular a pasta system do device e embarcar um apk com permissão de sistema.
 
-Acessar o terminal do Android e criar a pasta do app.  
-$ adb shell  
-$ mkdir system/priv-app/<pasta_do_app>  
+Acessar o terminal do Android e criar a pasta do app.
 
-Voltar ao terminal do Windows  
+```bash
+adb shell
+mkdir system/priv-app/<pasta_do_app>
+``` 
+
+Voltar ao terminal do Windows
+
 $ exit  
 
 Subir o apk:
 $ adb push <nome_do_app.apk> system/priv-app/<pasta_do_app>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzYxMTY5MCwyNTU5MDE5MzNdfQ==
+eyJoaXN0b3J5IjpbLTEyMjM5MDEyNTQsMjU1OTAxOTMzXX0=
 -->
