@@ -107,17 +107,26 @@ Alterar o arquivo, adicionando as seguintes tags/permissões relacionadas ao apk
 	<permission name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
 </privapp-permissions>
 ```
-    
--   Rootar e remontar
-    
--   Devolver arquivo editado  
-    $ adb push privapp-permissions-platform.xml /system/etc/permissions/
-    
--   Reiniciar
-    
 
-$ adb reboot
+Faça root e remonte o AVD
+
+```
+adb root
+adb remount
+```
+    
+Devolver arquivo editado
+
+```bash
+adb push privapp-permissions-platform.xml /system/etc/permissions/
+```
+
+Reiniciar
+    
+```bash
+adb reboot
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODc1NzY5LDg5NDAwNDMxMiwyNTU5MD
-E5MzNdfQ==
+eyJoaXN0b3J5IjpbLTc2MjY1MzIzMiw4OTQwMDQzMTIsMjU1OT
+AxOTMzXX0=
 -->
