@@ -19,9 +19,13 @@ emulator -avd <device_name> -writable-system
 
 ## Remount para SDK <= 28
 
+Fazer root
+
 ```bash
 adb root
 ```
+
+Fazer remount
 
 ```bash
 adb remount
@@ -47,7 +51,7 @@ Reiniciar dispositivo
 adb reboot
 ```
 
-Fazer root e 
+Fazer root e remontar dispositivo
 
 ```bash
 adb root
@@ -55,6 +59,8 @@ adb remount
 ```
 
 ## Embarque do apk na system
+
+Seguir os passos do ![Remount]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTIxNTEyNSwyNTU5MDE5MzNdfQ==
+eyJoaXN0b3J5IjpbLTQ3ODY3OTQ2NiwyNTU5MDE5MzNdfQ==
 -->
