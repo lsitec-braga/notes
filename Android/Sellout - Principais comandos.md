@@ -81,8 +81,35 @@ Subir o apk
 adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 ```
 
+## Adicionar permissões privilegiadas ao app
 
+Caso o apk possuir permissões privilegiadas o sistema ficará travado na tela de boot. Isso acontece porque tais permissões precisam estar definidas.
+
+Seguem os passos para resolver esse problema:
+
+Coletar o arquivo
+
+```bash
+
+```
+    $ adb pull system/etc/permissions/privapp-permissions-platform.xml
+    
+-   Alterar o arquivo, adicionando a entrada relacionada ao seu apk  
+    Exemplo:  
+    <privapp-permissions package="com.mscustomapp.multilaser">  
+    <permission name="android.permission.INSTALL_PACKAGES"/>  
+    </privapp-permissions>
+    
+-   Rootar e remontar
+    
+-   Devolver arquivo editado  
+    $ adb push privapp-permissions-platform.xml /system/etc/permissions/
+    
+-   Reiniciar
+    
+
+$ adb reboot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU4MTI3ODAsODk0MDA0MzEyLDI1NT
-kwMTkzM119
+eyJoaXN0b3J5IjpbNjQ4MjAxMTEsODk0MDA0MzEyLDI1NTkwMT
+kzM119
 -->
