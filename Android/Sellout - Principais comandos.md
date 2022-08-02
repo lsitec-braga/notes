@@ -3,7 +3,7 @@
 ## Acesso ao root do AVD
 
 Adicione o emulador ao path do windows com o caminho:
-`C:\Users\<seuUser>\AppData\Local\Android\Sdk\emulator`
+`C:\Users\diego.braga\AppData\Local\Android\Sdk\emulator`
 
 Liste emuladores
 
@@ -66,7 +66,7 @@ Acessar o terminal do Android e criar a pasta do app
 
 ```bash
 adb shell
-mkdir system/priv-app/<pasta_do_app>
+mkdir system/priv-app/Sellout
 ``` 
 
 Voltar ao terminal do Windows
@@ -78,10 +78,10 @@ exit
 Subir o apk
 
 ```bash
-adb push <nome_do_app.apk> system/priv-app/<pasta_do_app>
+adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk5MDg2OCwyNTU5MDE5MzNdfQ==
+eyJoaXN0b3J5IjpbODk0MDA0MzEyLDI1NTkwMTkzM119
 -->
