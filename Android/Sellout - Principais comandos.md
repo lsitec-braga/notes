@@ -60,7 +60,7 @@ adb remount
 
 ## Embarque do apk na system
 
-Seguir os passos do [Remount](#remount-para-sdk-maior-ou-igual-a-29)
+Seguir os passos do [a](#remount-para-sdk-maior-ou-igual-a-29)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA3MzYxOSwyNTU5MDE5MzNdfQ==
+eyJoaXN0b3J5IjpbLTQxNzUzNjk0MiwyNTU5MDE5MzNdfQ==
 -->
