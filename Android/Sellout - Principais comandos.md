@@ -29,6 +29,8 @@ adb remount
 
 ## Remount para SDK >=29
 
+Root
+
 ```bash
 adb root
 ```
@@ -51,5 +53,5 @@ adb remount
 
 ## Embarque do apk na system
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ3NDIwNTksMjU1OTAxOTMzXX0=
+eyJoaXN0b3J5IjpbNjY3MDMxMDIzLDI1NTkwMTkzM119
 -->
