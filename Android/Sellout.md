@@ -2,9 +2,10 @@
 
 ## Acesso ao root do AVD
 
-Edite a variável de ambiente do winfo
-Adicione o emulador ao path do windows com o caminho:
-`C:\Users\diego.braga\AppData\Local\Android\Sdk\emulator`
+Edite a variável do sistema `Path` e adicione os seguintes caminhos:
+- `C:\Users\diego.braga\AppData\Local\Android\Sdk\platform-tools\`
+- `C:\Users\diego.braga\AppData\Local\Android\Sdk\build-tools\32.0.0\`
+- `C:\Users\diego.braga\AppData\Local\Android\Sdk\emulator`
 
 Liste emuladores
 
@@ -126,5 +127,5 @@ Reinicie o dispositivo
 adb reboot
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg2NTc3MDcsLTYwMDQyNzgxXX0=
+eyJoaXN0b3J5IjpbMTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
 -->
