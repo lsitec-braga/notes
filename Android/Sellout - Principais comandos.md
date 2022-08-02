@@ -90,15 +90,23 @@ Seguem os passos para resolver esse problema:
 Coletar o arquivo
 
 ```bash
-
+adb pull system/etc/permissions/privapp-permissions-platform.xml
 ```
-    $ adb pull system/etc/permissions/privapp-permissions-platform.xml
     
--   Alterar o arquivo, adicionando a entrada relacionada ao seu apk  
-    Exemplo:  
-    <privapp-permissions package="com.mscustomapp.multilaser">  
-    <permission name="android.permission.INSTALL_PACKAGES"/>  
-    </privapp-permissions>
+Alterar o arquivo, adicionando as seguintes tags/permissões relacionadas ao apk
+
+```xml
+<privapp-permissions package="br.org.lsitec.training.sellout">
+	<permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+	<permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<permission name="android.permission.DELETE_PACKAGES"/>
+	<permission name="android.permission.INSTALL_PACKAGES"/>
+	<permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+	<permission name="android.permission.WRITE_SETTINGS"/>
+	<permission name="android.permission.INTERACT_ACROSS_USERS"/>
+	<permission name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+</privapp-permissions>
+```
     
 -   Rootar e remontar
     
@@ -110,6 +118,6 @@ Coletar o arquivo
 
 $ adb reboot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MjAxMTEsODk0MDA0MzEyLDI1NTkwMT
-kzM119
+eyJoaXN0b3J5IjpbMjExODc1NzY5LDg5NDAwNDMxMiwyNTU5MD
+E5MzNdfQ==
 -->
