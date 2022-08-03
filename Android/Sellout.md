@@ -134,32 +134,38 @@ Já que essa opção é travada por métodos convencionais, é necessário usar 
 ```bash
 adb root
 adb remount
-adb shell rm -rf data/data/br.org.lsitec.training.sellout
+adb shell pm clear br.org.lsitec.training.sellout
 ```
 
-Outra alternativa seria o comando abaixo
+Outra alternativa seria o comando abaixo (às vezes não funcionando conforme o esperado)
 
 ```bash
 adb root
 adb remount
-adb shell pm clear br.org.lsitec.training.sellout
+adb shell rm -rf data/data/br.org.lsitec.training.sellout
 ```
 
 ## Analisar DB local do app
+
+No terminal do windows
 
 ```bash
 adb root
 adb shell
 ```
 
+No terminal do Android
+
 ```bash
 sqlite3 data/data/br.org.lsitec.training.sellout/databases/sellout.db
 ```
+
+No terminal do sqlite3
 
 ```bash
 .dump
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzI1ODIwNSwxOTM1OTcxNjEwLC02MD
+eyJoaXN0b3J5IjpbLTgyMjMwODE0MCwxOTM1OTcxNjEwLC02MD
 A0Mjc4MV19
 -->
