@@ -203,7 +203,7 @@ adb shell pm clear br.org.lsitec.training.sellout
 
 ```bash
 ## Para Windows
-adb push C:\\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
+adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 
 ## Para Linux/Bash
 adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
@@ -213,7 +213,7 @@ adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/d
 4. Reinicie o dispositivo com `adb reboot`
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMzU5NDgxODg2LDEyNTY1MTk5
-NzAsLTExNjY0OTk3MjcsNDIxMjk0NTA0LDEyODIyNDA0MTksLT
-gyMjMwODE0MCwxOTM1OTcxNjEwLC02MDA0Mjc4MV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTExNDMxNjEzMywxMjU2NTE5
+OTcwLC0xMTY2NDk5NzI3LDQyMTI5NDUwNCwxMjgyMjQwNDE5LC
+04MjIzMDgxNDAsMTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
 -->
