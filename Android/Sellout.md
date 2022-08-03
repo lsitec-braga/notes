@@ -57,6 +57,9 @@ Fazer root e remontar dispositivo
 
 ```bash
 adb root
+```
+
+```bash
 adb remount
 ```
 
@@ -68,6 +71,9 @@ Acessar o terminal do Android e criar a pasta do app
 
 ```bash
 adb shell
+```
+
+```bash
 mkdir system/priv-app/Sellout
 ``` 
 
@@ -196,14 +202,14 @@ adb shell pm clear br.org.lsitec.training.sellout
 ```
 
 ```bash
-adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
+adb push %USERDATA%\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 ```
 
 3. Dê build no projeto `ctrl + F5`
 4. Reinicie o dispositivo com `adb reboot`
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstODE0MzIwMzI2LDQyMTI5NDUw
-NCwxMjgyMjQwNDE5LC04MjIzMDgxNDAsMTkzNTk3MTYxMCwtNj
-AwNDI3ODFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTE2NjQ5OTcyNyw0MjEyOTQ1
+MDQsMTI4MjI0MDQxOSwtODIyMzA4MTQwLDE5MzU5NzE2MTAsLT
+YwMDQyNzgxXX0=
 -->
