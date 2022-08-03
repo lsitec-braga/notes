@@ -129,8 +129,14 @@ adb reboot
 
 ## Apagar dados do app Sellout
 
-Já que essa opção é travada por métodos convencionais, é necessário usar os seguintes 
+Já que essa opção é travada por métodos convencionais, é necessário usar os seguintes comandos no terminal
+
+```bash
+adb root
+adb remount
+adb shell rm -rf data/data/br.org.lsitec.training.sellout
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM1Njk1MzcsMTkzNTk3MTYxMCwtNj
-AwNDI3ODFdfQ==
+eyJoaXN0b3J5IjpbMTk0MTM0Njc2NSwxOTM1OTcxNjEwLC02MD
+A0Mjc4MV19
 -->
