@@ -201,19 +201,26 @@ adb remount
 adb shell pm clear br.org.lsitec.training.sellout
 ```
 
-```bash
+```powershell
 ## Para Windows
 adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
+```
 
+```bash
 ## Para Linux/Bash
 adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
 ```
 
 3. Dê build no projeto `ctrl + F5`
-4. Reinicie o dispositivo com `adb reboot`
+4. Reinicie o dispositivo
+
+```
+adb reboot
+```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTExNDMxNjEzMywxMjU2NTE5
-OTcwLC0xMTY2NDk5NzI3LDQyMTI5NDUwNCwxMjgyMjQwNDE5LC
-04MjIzMDgxNDAsMTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxODAyMzk0MDQ3LC0xMTE0MzE2
+MTMzLDEyNTY1MTk5NzAsLTExNjY0OTk3MjcsNDIxMjk0NTA0LD
+EyODIyNDA0MTksLTgyMjMwODE0MCwxOTM1OTcxNjEwLC02MDA0
+Mjc4MV19
 -->
