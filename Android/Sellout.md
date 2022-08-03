@@ -202,14 +202,14 @@ adb shell pm clear br.org.lsitec.training.sellout
 ```
 
 ```bash
-adb push %USERDATA%\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
+adb push ~\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 ```
 
 3. Dê build no projeto `ctrl + F5`
 4. Reinicie o dispositivo com `adb reboot`
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTE2NjQ5OTcyNyw0MjEyOTQ1
-MDQsMTI4MjI0MDQxOSwtODIyMzA4MTQwLDE5MzU5NzE2MTAsLT
-YwMDQyNzgxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxMjU2NTE5OTcwLC0xMTY2NDk5
+NzI3LDQyMTI5NDUwNCwxMjgyMjQwNDE5LC04MjIzMDgxNDAsMT
+kzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
 -->
