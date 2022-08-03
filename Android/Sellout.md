@@ -126,6 +126,11 @@ Reinicie o dispositivo
 ```bash
 adb reboot
 ```
+
+## Apagar dados do app Sellout
+
+Já que essa opção é travada por métodos convencionais, é necessário usar os seguintes 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
+eyJoaXN0b3J5IjpbLTE2NzM1Njk1MzcsMTkzNTk3MTYxMCwtNj
+AwNDI3ODFdfQ==
 -->
