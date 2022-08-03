@@ -165,8 +165,16 @@ No terminal do sqlite3
 ```bash
 .dump
 ```
+
+## Recompilar app após mudança no código fonte
+
+1. Faça build do novo apk
+2. `adb root`
+3. `adb remount`
+4. `adb shell pm clear br.org.lsitec.training.sellout`
+5. `adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout`
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMjgyMjQwNDE5LC04MjIzMDgx
-NDAsMTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls0MDE5NTQyNTksMTI4MjI0MDQx
+OSwtODIyMzA4MTQwLDE5MzU5NzE2MTAsLTYwMDQyNzgxXX0=
 -->
