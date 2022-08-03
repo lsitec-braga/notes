@@ -201,13 +201,15 @@ adb remount
 adb shell pm clear br.org.lsitec.training.sellout
 ```
 
+> Para Windows/Powershell
+
 ```powershell
-## Para Windows
 adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 ```
 
+> Para Linux/Bash
+
 ```bash
-## Para Linux/Bash
 adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
 ```
 
@@ -219,8 +221,8 @@ adb reboot
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxODAyMzk0MDQ3LC0xMTE0MzE2
-MTMzLDEyNTY1MTk5NzAsLTExNjY0OTk3MjcsNDIxMjk0NTA0LD
-EyODIyNDA0MTksLTgyMjMwODE0MCwxOTM1OTcxNjEwLC02MDA0
-Mjc4MV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTY4MjE4NDExNywtMTExNDMx
+NjEzMywxMjU2NTE5OTcwLC0xMTY2NDk5NzI3LDQyMTI5NDUwNC
+wxMjgyMjQwNDE5LC04MjIzMDgxNDAsMTkzNTk3MTYxMCwtNjAw
+NDI3ODFdfQ==
 -->
