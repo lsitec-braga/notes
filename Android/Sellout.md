@@ -110,8 +110,11 @@ Alterar o arquivo, adicionando as seguintes tags/permissões relacionadas ao apk
 
 Faça root e remonte o AVD
 
-```
+```bash
 adb root
+```
+
+```bash
 adb remount
 ```
     
@@ -133,7 +136,13 @@ Já que essa opção é travada por métodos convencionais, é necessário usar 
 
 ```bash
 adb root
+```
+
+```bash
 adb remount
+```
+
+```bash
 adb shell pm clear br.org.lsitec.training.sellout
 ```
 
@@ -151,6 +160,9 @@ No terminal do windows
 
 ```bash
 adb root
+```
+
+```bash
 adb shell
 ```
 
@@ -173,8 +185,17 @@ No terminal do sqlite3
 
 ```bash
 adb root
+```
+
+```bash
 adb remount
+```
+
+```bash
 adb shell pm clear br.org.lsitec.training.sellout
+```
+
+```bash
 adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 ```
 
@@ -182,6 +203,7 @@ adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\
 4. Reinicie o dispositivo com `adb reboot`
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls0MjEyOTQ1MDQsMTI4MjI0MDQx
-OSwtODIyMzA4MTQwLDE5MzU5NzE2MTAsLTYwMDQyNzgxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlstODE0MzIwMzI2LDQyMTI5NDUw
+NCwxMjgyMjQwNDE5LC04MjIzMDgxNDAsMTkzNTk3MTYxMCwtNj
+AwNDI3ODFdfQ==
 -->
