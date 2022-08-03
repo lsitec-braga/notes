@@ -136,7 +136,11 @@ adb root
 adb remount
 adb shell rm -rf data/data/br.org.lsitec.training.sellout
 ```
+
+## Analisar DB local do app
+
+``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTM0Njc2NSwxOTM1OTcxNjEwLC02MD
-A0Mjc4MV19
+eyJoaXN0b3J5IjpbNTA5NDc0NDEsMTkzNTk3MTYxMCwtNjAwND
+I3ODFdfQ==
 -->
