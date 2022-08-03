@@ -166,6 +166,7 @@ No terminal do sqlite3
 .dump
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjMwODE0MCwxOTM1OTcxNjEwLC02MD
-A0Mjc4MV19
+eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
+BnZm1cbiIsImhpc3RvcnkiOlsxMjgyMjQwNDE5LC04MjIzMDgx
+NDAsMTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
 -->
