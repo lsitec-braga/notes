@@ -140,10 +140,10 @@ adb shell rm -rf data/data/br.org.lsitec.training.sellout
 Outra alternativa seria o comando abaixo
 
 ```bash
-adb shell pm clear br.org.lsitec.training.sellout**
+adb root
+adb remount
+adb shell pm clear br.org.lsitec.training.sellout
 ```
-
-
 
 ## Analisar DB local do app
 
@@ -160,6 +160,6 @@ sqlite3 data/data/br.org.lsitec.training.sellout/databases/sellout.db
 .dump
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxNjM2MzM5LDE5MzU5NzE2MTAsLTYwMD
-QyNzgxXX0=
+eyJoaXN0b3J5IjpbLTgzNzI1ODIwNSwxOTM1OTcxNjEwLC02MD
+A0Mjc4MV19
 -->
