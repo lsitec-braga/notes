@@ -1,5 +1,19 @@
 # Sellout
 
+## Template da descrição da Issue
+
+```markdown
+## Details of the issue:
+
+- WHAT:
+- HOW:
+- WHY:
+
+## Tasks:
+
+-   [ ] template…
+```
+
 ## Acesso ao root do AVD
 
 Edite a variável do sistema `Path` e adicione os seguintes caminhos:
@@ -221,8 +235,8 @@ adb reboot
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTY4MjE4NDExNywtMTExNDMx
-NjEzMywxMjU2NTE5OTcwLC0xMTY2NDk5NzI3LDQyMTI5NDUwNC
-wxMjgyMjQwNDE5LC04MjIzMDgxNDAsMTkzNTk3MTYxMCwtNjAw
-NDI3ODFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNjc4MzU4NDgzLC0xNjgyMTg0
+MTE3LC0xMTE0MzE2MTMzLDEyNTY1MTk5NzAsLTExNjY0OTk3Mj
+csNDIxMjk0NTA0LDEyODIyNDA0MTksLTgyMjMwODE0MCwxOTM1
+OTcxNjEwLC02MDA0Mjc4MV19
 -->
