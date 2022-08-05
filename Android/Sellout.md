@@ -11,7 +11,7 @@
 
 ## Tasks:
 
--   [ ] template…
+- [ ] template…
 ```
 
 ## Acesso ao root do AVD
@@ -235,8 +235,8 @@ adb reboot
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjc4MzU4NDgzLC0xNjgyMTg0
-MTE3LC0xMTE0MzE2MTMzLDEyNTY1MTk5NzAsLTExNjY0OTk3Mj
-csNDIxMjk0NTA0LDEyODIyNDA0MTksLTgyMjMwODE0MCwxOTM1
-OTcxNjEwLC02MDA0Mjc4MV19
+BnZm1cbiIsImhpc3RvcnkiOlstMzMxMjM0MjIxLDE2NzgzNTg0
+ODMsLTE2ODIxODQxMTcsLTExMTQzMTYxMzMsMTI1NjUxOTk3MC
+wtMTE2NjQ5OTcyNyw0MjEyOTQ1MDQsMTI4MjI0MDQxOSwtODIy
+MzA4MTQwLDE5MzU5NzE2MTAsLTYwMDQyNzgxXX0=
 -->
