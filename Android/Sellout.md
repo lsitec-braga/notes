@@ -33,6 +33,10 @@ Inicie um device de acordo com a lista apresentada
 emulator -avd Pixel_3a_XL_API_30 -writable-system
 ```
 
+```bash
+emulator -avd Pixel_3_XL_API_31 -writable-system
+```
+
 ## Remount para SDK menor ou igual a 28
 
 Fazer root
@@ -235,9 +239,9 @@ adb reboot
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjAwODg0NzI2MSw5ODc3NzQ1
-ODMsLTMzMTIzNDIyMSwxNjc4MzU4NDgzLC0xNjgyMTg0MTE3LC
-0xMTE0MzE2MTMzLDEyNTY1MTk5NzAsLTExNjY0OTk3MjcsNDIx
-Mjk0NTA0LDEyODIyNDA0MTksLTgyMjMwODE0MCwxOTM1OTcxNj
-EwLC02MDA0Mjc4MV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTk3NDQwMzkyMCwtMjAwODg0
+NzI2MSw5ODc3NzQ1ODMsLTMzMTIzNDIyMSwxNjc4MzU4NDgzLC
+0xNjgyMTg0MTE3LC0xMTE0MzE2MTMzLDEyNTY1MTk5NzAsLTEx
+NjY0OTk3MjcsNDIxMjk0NTA0LDEyODIyNDA0MTksLTgyMjMwOD
+E0MCwxOTM1OTcxNjEwLC02MDA0Mjc4MV19
 -->
