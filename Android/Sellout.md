@@ -14,7 +14,11 @@
 - [ ] Any task you want to add
 ```
 
-## Acessar diretório do pro
+## Acessar diretório do projeto
+
+```bash
+cd ~/Documents/Multilaser/Sellout/sellout-training
+```
 
 ## Acesso ao root do AVD
 
@@ -241,10 +245,10 @@ adb reboot
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTYwOTE1MDcxMywtMTk3NDQw
-MzkyMCwtMjAwODg0NzI2MSw5ODc3NzQ1ODMsLTMzMTIzNDIyMS
-wxNjc4MzU4NDgzLC0xNjgyMTg0MTE3LC0xMTE0MzE2MTMzLDEy
-NTY1MTk5NzAsLTExNjY0OTk3MjcsNDIxMjk0NTA0LDEyODIyND
-A0MTksLTgyMjMwODE0MCwxOTM1OTcxNjEwLC02MDA0Mjc4MV19
+BnZm1cbiIsImhpc3RvcnkiOlstMjAxMzI4MDc1LC0xOTc0NDAz
+OTIwLC0yMDA4ODQ3MjYxLDk4Nzc3NDU4MywtMzMxMjM0MjIxLD
+E2NzgzNTg0ODMsLTE2ODIxODQxMTcsLTExMTQzMTYxMzMsMTI1
+NjUxOTk3MCwtMTE2NjQ5OTcyNyw0MjEyOTQ1MDQsMTI4MjI0MD
+QxOSwtODIyMzA4MTQwLDE5MzU5NzE2MTAsLTYwMDQyNzgxXX0=
 
 -->
