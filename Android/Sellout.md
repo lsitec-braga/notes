@@ -14,6 +14,8 @@
 - [ ] Any task you want to add
 ```
 
+## Acessar diretório do pro
+
 ## Acesso ao root do AVD
 
 Edite a variável do sistema `Path` e adicione os seguintes caminhos:
@@ -239,9 +241,10 @@ adb reboot
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTk3NDQwMzkyMCwtMjAwODg0
-NzI2MSw5ODc3NzQ1ODMsLTMzMTIzNDIyMSwxNjc4MzU4NDgzLC
-0xNjgyMTg0MTE3LC0xMTE0MzE2MTMzLDEyNTY1MTk5NzAsLTEx
-NjY0OTk3MjcsNDIxMjk0NTA0LDEyODIyNDA0MTksLTgyMjMwOD
-E0MCwxOTM1OTcxNjEwLC02MDA0Mjc4MV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTYwOTE1MDcxMywtMTk3NDQw
+MzkyMCwtMjAwODg0NzI2MSw5ODc3NzQ1ODMsLTMzMTIzNDIyMS
+wxNjc4MzU4NDgzLC0xNjgyMTg0MTE3LC0xMTE0MzE2MTMzLDEy
+NTY1MTk5NzAsLTExNjY0OTk3MjcsNDIxMjk0NTA0LDEyODIyND
+A0MTksLTgyMjMwODE0MCwxOTM1OTcxNjEwLC02MDA0Mjc4MV19
+
 -->
