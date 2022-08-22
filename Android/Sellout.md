@@ -249,20 +249,24 @@ adb reboot
 1. Altere no arquivo `AndroidManifest.xml` o trecho do código contendo o main service
 
 ```xml
-
+<service  
+  android:name=".service.MainService"  
+  android:enabled="true"  
+  android:exported="true" />
 ```
 
-Iniciar o app no dispositivo físico
+2. Rode o aplicativo no Android Studio com o dispositivo físico conectado e habilitado para debug
+3. Inicie o app no dispositivo físico através do seguinte comando no terminal
 
 ```bash
 adb shell am start-foreground-service br.org.lsitec.training.sellout/.service.MainService
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjA4Njc1MjI5NCwyMTExOTY0
-MjQ1LC0yMDEzMjgwNzUsLTE5NzQ0MDM5MjAsLTIwMDg4NDcyNj
-EsOTg3Nzc0NTgzLC0zMzEyMzQyMjEsMTY3ODM1ODQ4MywtMTY4
-MjE4NDExNywtMTExNDMxNjEzMywxMjU2NTE5OTcwLC0xMTY2ND
-k5NzI3LDQyMTI5NDUwNCwxMjgyMjQwNDE5LC04MjIzMDgxNDAs
-MTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxODczMjUwNDY0LDIxMTE5NjQy
+NDUsLTIwMTMyODA3NSwtMTk3NDQwMzkyMCwtMjAwODg0NzI2MS
+w5ODc3NzQ1ODMsLTMzMTIzNDIyMSwxNjc4MzU4NDgzLC0xNjgy
+MTg0MTE3LC0xMTE0MzE2MTMzLDEyNTY1MTk5NzAsLTExNjY0OT
+k3MjcsNDIxMjk0NTA0LDEyODIyNDA0MTksLTgyMjMwODE0MCwx
+OTM1OTcxNjEwLC02MDA0Mjc4MV19
 -->
