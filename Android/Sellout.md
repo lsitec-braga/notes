@@ -243,12 +243,20 @@ adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/d
 ```
 adb reboot
 ```
+
+## Testar app no dispositivo físico
+
+Iniciar o app no dispositivo físico
+
+```bash
+adb shell am start-foreground-service br.org.lsitec.training.sellout/.service.MainService
+```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjAxMzI4MDc1LC0xOTc0NDAz
-OTIwLC0yMDA4ODQ3MjYxLDk4Nzc3NDU4MywtMzMxMjM0MjIxLD
-E2NzgzNTg0ODMsLTE2ODIxODQxMTcsLTExMTQzMTYxMzMsMTI1
-NjUxOTk3MCwtMTE2NjQ5OTcyNyw0MjEyOTQ1MDQsMTI4MjI0MD
-QxOSwtODIyMzA4MTQwLDE5MzU5NzE2MTAsLTYwMDQyNzgxXX0=
-
+BnZm1cbiIsImhpc3RvcnkiOlsyMTExOTY0MjQ1LC0yMDEzMjgw
+NzUsLTE5NzQ0MDM5MjAsLTIwMDg4NDcyNjEsOTg3Nzc0NTgzLC
+0zMzEyMzQyMjEsMTY3ODM1ODQ4MywtMTY4MjE4NDExNywtMTEx
+NDMxNjEzMywxMjU2NTE5OTcwLC0xMTY2NDk5NzI3LDQyMTI5ND
+UwNCwxMjgyMjQwNDE5LC04MjIzMDgxNDAsMTkzNTk3MTYxMCwt
+NjAwNDI3ODFdfQ==
 -->
