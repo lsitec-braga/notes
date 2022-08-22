@@ -256,17 +256,17 @@ adb reboot
 ```
 
 2. Rode o aplicativo no Android Studio com o dispositivo físico conectado e habilitado para debug
-3. Inicie o app no dispositivo físico através do seguinte comando no terminal
+3. Inicie o app no dispositivo físico através do seguinte comando no terminal do computador
 
 ```bash
 adb shell am start-foreground-service br.org.lsitec.training.sellout/.service.MainService
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxODczMjUwNDY0LDIxMTE5NjQy
-NDUsLTIwMTMyODA3NSwtMTk3NDQwMzkyMCwtMjAwODg0NzI2MS
-w5ODc3NzQ1ODMsLTMzMTIzNDIyMSwxNjc4MzU4NDgzLC0xNjgy
-MTg0MTE3LC0xMTE0MzE2MTMzLDEyNTY1MTk5NzAsLTExNjY0OT
-k3MjcsNDIxMjk0NTA0LDEyODIyNDA0MTksLTgyMjMwODE0MCwx
-OTM1OTcxNjEwLC02MDA0Mjc4MV19
+BnZm1cbiIsImhpc3RvcnkiOlsyNjIzMTE3MjEsMjExMTk2NDI0
+NSwtMjAxMzI4MDc1LC0xOTc0NDAzOTIwLC0yMDA4ODQ3MjYxLD
+k4Nzc3NDU4MywtMzMxMjM0MjIxLDE2NzgzNTg0ODMsLTE2ODIx
+ODQxMTcsLTExMTQzMTYxMzMsMTI1NjUxOTk3MCwtMTE2NjQ5OT
+cyNyw0MjEyOTQ1MDQsMTI4MjI0MDQxOSwtODIyMzA4MTQwLDE5
+MzU5NzE2MTAsLTYwMDQyNzgxXX0=
 -->
