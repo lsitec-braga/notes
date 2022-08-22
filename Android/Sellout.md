@@ -246,6 +246,12 @@ adb reboot
 
 ## Testar app no dispositivo físico
 
+1. Altere no arquivo `AndroidManifest.xml` o trecho do código contendo o main service
+
+```xml
+
+```
+
 Iniciar o app no dispositivo físico
 
 ```bash
@@ -253,10 +259,10 @@ adb shell am start-foreground-service br.org.lsitec.training.sellout/.service.Ma
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMTExOTY0MjQ1LC0yMDEzMjgw
-NzUsLTE5NzQ0MDM5MjAsLTIwMDg4NDcyNjEsOTg3Nzc0NTgzLC
-0zMzEyMzQyMjEsMTY3ODM1ODQ4MywtMTY4MjE4NDExNywtMTEx
-NDMxNjEzMywxMjU2NTE5OTcwLC0xMTY2NDk5NzI3LDQyMTI5ND
-UwNCwxMjgyMjQwNDE5LC04MjIzMDgxNDAsMTkzNTk3MTYxMCwt
-NjAwNDI3ODFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMjA4Njc1MjI5NCwyMTExOTY0
+MjQ1LC0yMDEzMjgwNzUsLTE5NzQ0MDM5MjAsLTIwMDg4NDcyNj
+EsOTg3Nzc0NTgzLC0zMzEyMzQyMjEsMTY3ODM1ODQ4MywtMTY4
+MjE4NDExNywtMTExNDMxNjEzMywxMjU2NTE5OTcwLC0xMTY2ND
+k5NzI3LDQyMTI5NDUwNCwxMjgyMjQwNDE5LC04MjIzMDgxNDAs
+MTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
 -->
