@@ -261,12 +261,18 @@ adb reboot
 ```bash
 adb shell am start-foreground-service br.org.lsitec.training.sellout/.service.MainService
 ```
+
+## Descobrir timer do Work
+
+```bash
+adb shell dumpsys jobscheduler | findstr br.org.training.sellout
+```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyNjIzMTE3MjEsMjExMTk2NDI0
-NSwtMjAxMzI4MDc1LC0xOTc0NDAzOTIwLC0yMDA4ODQ3MjYxLD
-k4Nzc3NDU4MywtMzMxMjM0MjIxLDE2NzgzNTg0ODMsLTE2ODIx
-ODQxMTcsLTExMTQzMTYxMzMsMTI1NjUxOTk3MCwtMTE2NjQ5OT
-cyNyw0MjEyOTQ1MDQsMTI4MjI0MDQxOSwtODIyMzA4MTQwLDE5
-MzU5NzE2MTAsLTYwMDQyNzgxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMjc3MjIyMDMxLDI2MjMxMTcy
+MSwyMTExOTY0MjQ1LC0yMDEzMjgwNzUsLTE5NzQ0MDM5MjAsLT
+IwMDg4NDcyNjEsOTg3Nzc0NTgzLC0zMzEyMzQyMjEsMTY3ODM1
+ODQ4MywtMTY4MjE4NDExNywtMTExNDMxNjEzMywxMjU2NTE5OT
+cwLC0xMTY2NDk5NzI3LDQyMTI5NDUwNCwxMjgyMjQwNDE5LC04
+MjIzMDgxNDAsMTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
 -->
