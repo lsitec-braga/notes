@@ -247,7 +247,7 @@ adb reboot
 Todos os comandos de uma só vez
 
 ```bash
-adb root | adb reboot | adb shell pm clear br.org.lsitec.training.sellout | adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
+adb root | adb remo| adb shell pm clear br.org.lsitec.training.sellout | adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
 ```
 
 ## Testar app no dispositivo físico
@@ -275,11 +275,11 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTc4MDMzMDk5NiwtMjc3MjIy
-MDMxLDI2MjMxMTcyMSwyMTExOTY0MjQ1LC0yMDEzMjgwNzUsLT
-E5NzQ0MDM5MjAsLTIwMDg4NDcyNjEsOTg3Nzc0NTgzLC0zMzEy
-MzQyMjEsMTY3ODM1ODQ4MywtMTY4MjE4NDExNywtMTExNDMxNj
-EzMywxMjU2NTE5OTcwLC0xMTY2NDk5NzI3LDQyMTI5NDUwNCwx
-MjgyMjQwNDE5LC04MjIzMDgxNDAsMTkzNTk3MTYxMCwtNjAwND
-I3ODFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTk4MDA5MTgxMiwtMTc4MDMz
+MDk5NiwtMjc3MjIyMDMxLDI2MjMxMTcyMSwyMTExOTY0MjQ1LC
+0yMDEzMjgwNzUsLTE5NzQ0MDM5MjAsLTIwMDg4NDcyNjEsOTg3
+Nzc0NTgzLC0zMzEyMzQyMjEsMTY3ODM1ODQ4MywtMTY4MjE4ND
+ExNywtMTExNDMxNjEzMywxMjU2NTE5OTcwLC0xMTY2NDk5NzI3
+LDQyMTI5NDUwNCwxMjgyMjQwNDE5LC04MjIzMDgxNDAsMTkzNT
+k3MTYxMCwtNjAwNDI3ODFdfQ==
 -->
