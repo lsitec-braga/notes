@@ -244,6 +244,12 @@ adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/d
 adb reboot
 ```
 
+Tudo de uma vez
+
+```bash
+adb root | adb reboot | adb shell pm clear br.org.lsitec.training.sellout | adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
+```
+
 ## Testar app no dispositivo físico
 
 1. Altere no arquivo `AndroidManifest.xml` o trecho do código contendo o main service
@@ -269,10 +275,11 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjc3MjIyMDMxLDI2MjMxMTcy
-MSwyMTExOTY0MjQ1LC0yMDEzMjgwNzUsLTE5NzQ0MDM5MjAsLT
-IwMDg4NDcyNjEsOTg3Nzc0NTgzLC0zMzEyMzQyMjEsMTY3ODM1
-ODQ4MywtMTY4MjE4NDExNywtMTExNDMxNjEzMywxMjU2NTE5OT
-cwLC0xMTY2NDk5NzI3LDQyMTI5NDUwNCwxMjgyMjQwNDE5LC04
-MjIzMDgxNDAsMTkzNTk3MTYxMCwtNjAwNDI3ODFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTMyMTIyODgxNSwtMjc3MjIy
+MDMxLDI2MjMxMTcyMSwyMTExOTY0MjQ1LC0yMDEzMjgwNzUsLT
+E5NzQ0MDM5MjAsLTIwMDg4NDcyNjEsOTg3Nzc0NTgzLC0zMzEy
+MzQyMjEsMTY3ODM1ODQ4MywtMTY4MjE4NDExNywtMTExNDMxNj
+EzMywxMjU2NTE5OTcwLC0xMTY2NDk5NzI3LDQyMTI5NDUwNCwx
+MjgyMjQwNDE5LC04MjIzMDgxNDAsMTkzNTk3MTYxMCwtNjAwND
+I3ODFdfQ==
 -->
