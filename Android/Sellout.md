@@ -244,7 +244,7 @@ adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/d
 adb reboot
 ```
 
-Tudo de uma vez
+Todos os comandos de uma só vez
 
 ```bash
 adb root | adb reboot | adb shell pm clear br.org.lsitec.training.sellout | adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
@@ -275,7 +275,7 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTMyMTIyODgxNSwtMjc3MjIy
+BnZm1cbiIsImhpc3RvcnkiOlstMTc4MDMzMDk5NiwtMjc3MjIy
 MDMxLDI2MjMxMTcyMSwyMTExOTY0MjQ1LC0yMDEzMjgwNzUsLT
 E5NzQ0MDM5MjAsLTIwMDg4NDcyNjEsOTg3Nzc0NTgzLC0zMzEy
 MzQyMjEsMTY3ODM1ODQ4MywtMTY4MjE4NDExNywtMTExNDMxNj
