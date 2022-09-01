@@ -13,6 +13,15 @@ Tópicos a serem autoavaliados:
 2. Relacionaemnto interpessoal
 3. Escuta ativa
 4. Comunicação
+5. Gestão de tempo
+6. Planejamento
+7. Delegação
+
+## Exercício de autoavaliação
+
+### Empatia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NDg2OTgwXX0=
+eyJoaXN0b3J5IjpbMTI1NjQ0NzE0MF19
 -->
