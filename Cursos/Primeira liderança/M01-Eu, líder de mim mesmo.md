@@ -19,9 +19,9 @@ Tópicos a serem autoavaliados:
 
 ## Exercício de autoavaliação
 
-### Empatia
+Empatia
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjQ0NzE0MF19
+eyJoaXN0b3J5IjpbMTAyNDA1MTY4N119
 -->
