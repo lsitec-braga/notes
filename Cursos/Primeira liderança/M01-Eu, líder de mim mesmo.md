@@ -35,7 +35,7 @@ Insights (aprendizados):
 
 Descrição: facilidade de interação com diversos públicos (equipe, pares e chefia) resultando em relações de confiança.
 
-Sua resposta:
+Sua resposta: Acima das expectativas.
 
 Feedback 1:
 
@@ -47,7 +47,7 @@ Insights (aprendizados):
 
 Descrição: capacidade de ouvir em detalhes enquanto o outro fala, sem julgamentos, estabelecendo um diálogo construtivo.
 
-Sua resposta:
+Sua resposta: Precisa melhorar. 
 
 Feedback 1:
 
@@ -57,5 +57,5 @@ Insights (aprendizados):
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzU5OTU2MF19
+eyJoaXN0b3J5IjpbMjAwMDAxMDY3MSwtNTUzNTk5NTYwXX0=
 -->
