@@ -55,7 +55,10 @@ Feedback 2:
 
 Insights (aprendizados):
 
+## Auto conhecimento
 
+### Por que eu tenho facilidade em realizar algumas coisas enquanto outras não?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDAxMDY3MSwtNTUzNTk5NTYwXX0=
+eyJoaXN0b3J5IjpbLTIwNzExMjEyNjcsMjAwMDAxMDY3MSwtNT
+UzNTk5NTYwXX0=
 -->
