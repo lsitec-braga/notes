@@ -57,8 +57,16 @@ Insights (aprendizados):
 
 ## Auto conhecimento
 
-### Por que eu tenho facilidade em realizar algumas coisas enquanto outras não?
+Q: Por que eu tenho facilidade em realizar algumas coisas e outras nem tanto?
+A: 
+
+## Mindset
+
+###: Quais situações eu me vejo tendo mindset fixo?
+A1:
+
+Q
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzExMjEyNjcsMjAwMDAxMDY3MSwtNT
-UzNTk5NTYwXX0=
+eyJoaXN0b3J5IjpbOTU2NzUyODI0LDIwMDAwMTA2NzEsLTU1Mz
+U5OTU2MF19
 -->
