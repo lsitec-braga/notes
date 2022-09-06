@@ -70,13 +70,13 @@ Outro fator importante é que eu tenho uma certa resistência quando coisas nova
 - Alterar meu padrão de comunicação para ser objetivo e menos prolixo
 - Focar em tecnologias ou problemas relacionados à Back End, principalmente em questões que envolvam estrutura de dados
 - Questões relacionadas à gestão de pessoas e tarefas, eu consigo ter um bom convívio diário com o time, mas quando preciso tomar decisões relacionadas à delegações de atividades e decidir o que outras pessoas devem fazer, tenho dificuldade em delegar pois sinto que não estou contribuindo de fato com o projeto e só estou dando ordens
-- Resolução de conflitos, meu método convencional é ignorar/fu
+- Resolução de conflitos, meu método convencional é ignorar/escapar para evitar estresse e desgaste nas relações
 
 ### Quais situações eu me vejo tendo mindset de crescimento?
 
 - Aprender novas tecnologias relacionadas à assuntos que tenho interesse, como a parte de Front End, UX/UI
 - Relacionamento interpessoal, eu gosto de conversar e entender a realidade de outras pessoas, contanto que também estejam confortáveis em conversar e compartilhar ideias de maneira pacífica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk0MDMxMDksLTQ3OTY2Mjc3NSwxNz
-E0NTc1MDMyLDIwMDAwMTA2NzEsLTU1MzU5OTU2MF19
+eyJoaXN0b3J5IjpbNzg3MDY5MzI3LC00Nzk2NjI3NzUsMTcxND
+U3NTAzMiwyMDAwMDEwNjcxLC01NTM1OTk1NjBdfQ==
 -->
