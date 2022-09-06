@@ -2,10 +2,14 @@
 
 ## Escolhendo o time
 
-- Mapear as posições
+- Mapear a equipe
 - Entender o que cada um pode fazer
 - Planejar o que pode ser feito através do conhecimento dos tópicos anteriores
-- 
+
+### Mapear equipe
+
+Montar uma planilha no Excel pode auxilia
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY0NDY5ODddfQ==
+eyJoaXN0b3J5IjpbMTI4NDk5NTk5MV19
 -->
