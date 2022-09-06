@@ -15,7 +15,10 @@
 Cada etapa exige 3 novos desafios:
 
 1. Obter novas habilidades
-2. 
+2. Aplicar bem o tempo
+3. Revisar os valores profissionais
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY3NzkwNzVdfQ==
+eyJoaXN0b3J5IjpbMTIyNTEwNDg1NSwtMTkxNjc3OTA3NV19
 -->
