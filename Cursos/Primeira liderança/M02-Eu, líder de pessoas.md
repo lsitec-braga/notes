@@ -5,8 +5,10 @@
 1. Gerenciar a si mesmo
 2. Gerenciar outros
 3. Gerenciar gestores
-4. Gerenciar funcional
-5. Gere
+4. Gerente funcional
+5. Gerente de negócio
+
+> Cada nível dirente, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MDI2NjIzXX0=
+eyJoaXN0b3J5IjpbLTgyNjMyMTU0NV19
 -->
