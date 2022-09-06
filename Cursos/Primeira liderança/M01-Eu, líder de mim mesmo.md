@@ -59,7 +59,9 @@ Insights (aprendizados):
 
 ### Por que eu tenho facilidade em realizar algumas coisas e outras nem tanto?
 
-Imagino que a questão de interesse pessoal pesa bastante nessa questão, coisas que tenho pouco ou nenhum interesse no momento, fazem com que eu tenha uma dificuldade acima do esperado, talvez por não 
+Imagino que a questão de interesse pessoal pesa bastante nessa questão, coisas que tenho pouco ou nenhum interesse no momento, fazem com que eu tenha uma dificuldade acima do esperado, talvez por não conseguir me dedicar 100% à atividade solicitada. 
+
+Outro fator importante é que eu tenho uma certa resistência quna
 
 ## Mindset
 
@@ -73,6 +75,6 @@ Imagino que a questão de interesse pessoal pesa bastante nessa questão, coisas
 - Aprender novas tecnologias relacionadas à assuntos que tenho interesse, como a parte de Front End, UX/UI
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ0OTk5MTQsLTQ3OTY2Mjc3NSwxNz
-E0NTc1MDMyLDIwMDAwMTA2NzEsLTU1MzU5OTU2MF19
+eyJoaXN0b3J5IjpbMTU5NjMzNTIwMSwtNDc5NjYyNzc1LDE3MT
+Q1NzUwMzIsMjAwMDAxMDY3MSwtNTUzNTk5NTYwXX0=
 -->
