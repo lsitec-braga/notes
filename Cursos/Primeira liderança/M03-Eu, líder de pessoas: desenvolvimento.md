@@ -8,8 +8,11 @@
 
 ### Mapear equipe
 
-Montar uma planilha no Excel pode auxilia
+Montar uma planilha no Excel pode auxiliar no mapeamento, seguem algumas dicas
+
+1. Integrante e suas experiência profissional
+2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDk5NTk5MV19
+eyJoaXN0b3J5IjpbMjA1OTAzODM0MV19
 -->
