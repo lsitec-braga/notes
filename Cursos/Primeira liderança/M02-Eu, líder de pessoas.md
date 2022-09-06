@@ -39,6 +39,12 @@ Cada etapa exige 3 novos desafios:
 3. Entenda o contexto. Ver quais colaboradores possuem uma boa relação, entender como funcionam as políticas da empresa, o que pode ser feito para melhorar a relação entre as áreas e setores
 4. Organize o tempo. Item prioritário, utilizar ferramentas tecnológicas para auxiliar nessa organização, dedicar-se um tempo à conversar com toda a equipe, para ter um panorama do que está acontecendo no momento
 5. Estabeleça uma boa comunicação. Criar envolvimento e participação da equipe como um todo
+
+## Estabelecendo confiança
+
+- Confiança é uma via de mão dupla, tanto o líder quanto os subordinados devem confiar que ambas as partes executarão suas atividades
+- Isso não significa que para atingir essa confiança seja necessário algum tipo de bajulação ou ser amigo da equi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTY0NDMwOSwtMTkxNjc3OTA3NV19
+eyJoaXN0b3J5IjpbMTk0NTUyNDI4NywtNzIxNjQ0MzA5LC0xOT
+E2Nzc5MDc1XX0=
 -->
