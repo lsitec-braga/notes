@@ -14,8 +14,8 @@ Montar uma planilha no Excel pode auxiliar no mapeamento, seguem algumas dicas
 2. Função e nível de cada profissional
 3. Descrição das atividades
 4. Requisitos técnicos
-5. Requisitos comportame
+5. Requisitos comportamentais
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkxNjM0NDMsMjA1OTAzODM0MV19
+eyJoaXN0b3J5IjpbMTA1ODIyNDczNCwyMDU5MDM4MzQxXX0=
 -->
