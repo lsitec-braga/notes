@@ -61,7 +61,7 @@ Insights (aprendizados):
 
 Imagino que a questão de interesse pessoal pesa bastante nessa questão, coisas que tenho pouco ou nenhum interesse no momento, fazem com que eu tenha uma dificuldade acima do esperado, talvez por não conseguir me dedicar 100% à atividade solicitada. 
 
-Outro fator importante é que eu tenho uma certa resistência quando coisas novas aparecem, principalmente se forem muito distintas de algo que eu já realizei anteriormente. Provável que essa resistência ocorra pelo medo/receio de falhar e decepcionar os outros que "dependem"
+Outro fator importante é que eu tenho uma certa resistência quando coisas novas aparecem, principalmente se forem muito distintas de algo que eu já realizei anteriormente. Provável que essa resistência ocorra pelo medo/receio de falhar e decepcionar os outros.
 
 ## Mindset
 
@@ -69,12 +69,13 @@ Outro fator importante é que eu tenho uma certa resistência quando coisas nova
 
 - Alterar meu padrão de comunicação para ser objetivo e menos prolixo
 - Focar em tecnologias ou problemas relacionados à Back End, principalmente em questões que envolvam estrutura de dados
+- Questões relacionadas à gestão de pessoas e tarefas, eu consigo ter um bom convívio diário com o time, mas quando preciso tomar decisões relacionadas à delegações de atividades, possu
 
 ### Quais situações eu me vejo tendo mindset de crescimento?
 
 - Aprender novas tecnologias relacionadas à assuntos que tenho interesse, como a parte de Front End, UX/UI
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMzkzNzY4LC00Nzk2NjI3NzUsMTcxND
-U3NTAzMiwyMDAwMDEwNjcxLC01NTM1OTk1NjBdfQ==
+eyJoaXN0b3J5IjpbNjA2MzUxOTgsLTQ3OTY2Mjc3NSwxNzE0NT
+c1MDMyLDIwMDAwMTA2NzEsLTU1MzU5OTU2MF19
 -->
