@@ -61,7 +61,7 @@ Insights (aprendizados):
 
 Imagino que a questão de interesse pessoal pesa bastante nessa questão, coisas que tenho pouco ou nenhum interesse no momento, fazem com que eu tenha uma dificuldade acima do esperado, talvez por não conseguir me dedicar 100% à atividade solicitada. 
 
-Outro fator importante é que eu tenho uma certa resistência quna
+Outro fator importante é que eu tenho uma certa resistência quando coisas novas aparecem, principalmente se forem muito distintas de algo que eu já realizei anteriormente. Provável que essa resistência ocorra pelo medo/receio de falhar e decepcionar os outros que "dependem"
 
 ## Mindset
 
@@ -75,6 +75,6 @@ Outro fator importante é que eu tenho uma certa resistência quna
 - Aprender novas tecnologias relacionadas à assuntos que tenho interesse, como a parte de Front End, UX/UI
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjMzNTIwMSwtNDc5NjYyNzc1LDE3MT
-Q1NzUwMzIsMjAwMDAxMDY3MSwtNTUzNTk5NTYwXX0=
+eyJoaXN0b3J5IjpbNzAzMzkzNzY4LC00Nzk2NjI3NzUsMTcxND
+U3NTAzMiwyMDAwMDEwNjcxLC01NTM1OTk1NjBdfQ==
 -->
