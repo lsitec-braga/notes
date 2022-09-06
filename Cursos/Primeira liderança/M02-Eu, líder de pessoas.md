@@ -28,7 +28,8 @@ Cada etapa exige 3 novos desafios:
 
 ### O que devo fazer para alcançar essas mudanças necessárias?
 
-1. 
+1. Realizar cursos para entender mais sobre gestão, para entender boas práticas e seguir metodologias já utilizadas anteriormente, para que seja um caminho mais "tranquilo" para se entender
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NDg5OTQ4LC0xOTE2Nzc5MDc1XX0=
+eyJoaXN0b3J5IjpbMzg1MjExNDY1LC0xOTE2Nzc5MDc1XX0=
 -->
