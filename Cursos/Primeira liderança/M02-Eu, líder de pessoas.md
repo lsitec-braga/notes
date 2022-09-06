@@ -43,8 +43,15 @@ Cada etapa exige 3 novos desafios:
 ## Estabelecendo confiança
 
 - Confiança é uma via de mão dupla, tanto o líder quanto os subordinados devem confiar que ambas as partes executarão suas atividades
-- Isso não significa que para atingir essa confiança seja necessário algum tipo de bajulação ou ser amigo da equi
+- Isso não significa que para atingir essa confiança seja necessário algum tipo de bajulação ou ser amigo da equipe
+
+### Tóp
+
+1. Honre sua palava
+2. Demonstre lealdade
+3. Demonstre empatia
+4. Seja transparente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTUyNDI4NywtNzIxNjQ0MzA5LC0xOT
-E2Nzc5MDc1XX0=
+eyJoaXN0b3J5IjpbLTIwMTg3MDQ3NjEsLTcyMTY0NDMwOSwtMT
+kxNjc3OTA3NV19
 -->
