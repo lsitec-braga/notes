@@ -34,7 +34,8 @@ Cada etapa exige 3 novos desafios:
 
 ## Estabelecer prioridades
 
-1. Conheça seu time. Veja os pontos fortes e fracos de cada integrante, focando em realocá-los nas funções e tarefas onde tenham um bom desempenho para assim se sentir confortável 
+1. Conheça seu time. Veja os pontos fortes e fracos de cada integrante, focando em realocá-los nas funções e tarefas onde tenham um bom desempenho para assim se sentir confortável e manter a entrega de resultados esperados
+2. Promova momentos de interação. Estabelecer cultura do feedback de mão dupla, onde todos podem se sentir livres em ajudar uns ao outros, apresentando pontos de destaque e de melhoria. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTc3MTI1MSwtMTkxNjc3OTA3NV19
+eyJoaXN0b3J5IjpbMTkzNDk1MDIwMSwtMTkxNjc3OTA3NV19
 -->
