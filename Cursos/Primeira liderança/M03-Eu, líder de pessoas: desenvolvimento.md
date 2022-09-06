@@ -16,6 +16,9 @@ Montar uma planilha no Excel pode auxiliar no mapeamento, seguem algumas dicas
 4. Requisitos técnicos
 5. Requisitos comportamentais
 
+## Definindo as regras do jogo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODIyNDczNCwyMDU5MDM4MzQxXX0=
+eyJoaXN0b3J5IjpbMTQ2MTI3MzgwNiwyMDU5MDM4MzQxXX0=
 -->
