@@ -7,8 +7,11 @@
 3. Gerenciar gestores
 4. Gerente funcional
 5. Gerente de negócio
+6. Gerente de grupo
+7. Gestor corporativo
 
-> Cada nível dirente, 
+> Cada nível diferente exige uma nova complexidade
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjMyMTU0NV19
+eyJoaXN0b3J5IjpbLTE4NDg3NjA0NDFdfQ==
 -->
