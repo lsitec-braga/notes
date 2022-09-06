@@ -30,7 +30,11 @@ Cada etapa exige 3 novos desafios:
 
 1. Realizar cursos para entender mais sobre gestão, para entender boas práticas e seguir metodologias já utilizadas anteriormente, para que seja um caminho mais "tranquilo" para se entender
 2. Planejar a semana ou os dias com antecedência, para evitar o estresse de resolver as coisas em cima da hora, podendo resultar em procrastinação e falta de foco durante a realização das atividades
-3. Vejo o sucesso de um líder o poder de engajar o time a realizar as tarefas minimizando qualquer tipo de conflito, reconhecendo o trabalho de todos, resultando em um ambiente 
+3. Vejo o sucesso de um líder o poder de engajar o time a realizar as tarefas minimizando qualquer tipo de conflito, reconhecendo o trabalho de todos, resultando em um ambiente em que todos gostam de trabalhar e como consequência disso, uma equipe mais fiel e que provavelmente se dedicará mais na entrega das atividades
+
+## Estabelecer prioridades
+
+1. Conheça seu time. Veja 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMjgxMDQxLC0xOTE2Nzc5MDc1XX0=
+eyJoaXN0b3J5IjpbLTU5MjA2Mzk3OSwtMTkxNjc3OTA3NV19
 -->
