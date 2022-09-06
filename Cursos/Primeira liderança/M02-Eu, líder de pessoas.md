@@ -45,13 +45,13 @@ Cada etapa exige 3 novos desafios:
 - Confiança é uma via de mão dupla, tanto o líder quanto os subordinados devem confiar que ambas as partes executarão suas atividades
 - Isso não significa que para atingir essa confiança seja necessário algum tipo de bajulação ou ser amigo da equipe
 
-### Tóp
+### Tópicos para estabelecer confiança
 
 1. Honre sua palava
 2. Demonstre lealdade
 3. Demonstre empatia
 4. Seja transparente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg3MDQ3NjEsLTcyMTY0NDMwOSwtMT
-kxNjc3OTA3NV19
+eyJoaXN0b3J5IjpbMTAyMzQ4ODgwMCwtNzIxNjQ0MzA5LC0xOT
+E2Nzc5MDc1XX0=
 -->
