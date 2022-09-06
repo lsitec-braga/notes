@@ -59,7 +59,7 @@ Insights (aprendizados):
 
 ### Por que eu tenho facilidade em realizar algumas coisas e outras nem tanto?
 
-
+Imagino que a questão de interesse pessoal pesa bastante nessa questão, coisas que tenho pouco ou nenhum interesse no momento, fazem com que eu tenha uma dificuldade acima do esperado, talvez por não 
 
 ## Mindset
 
@@ -73,6 +73,6 @@ Insights (aprendizados):
 - Aprender novas tecnologias relacionadas à assuntos que tenho interesse, como a parte de Front End, UX/UI
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTY2Mjc3NSwxNzE0NTc1MDMyLDIwMD
-AwMTA2NzEsLTU1MzU5OTU2MF19
+eyJoaXN0b3J5IjpbLTE0MzQ0OTk5MTQsLTQ3OTY2Mjc3NSwxNz
+E0NTc1MDMyLDIwMDAwMTA2NzEsLTU1MzU5OTU2MF19
 -->
