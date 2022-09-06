@@ -20,7 +20,7 @@ Cada etapa exige 3 novos desafios:
 
 ## Repensando o motivo de liderar
 
-
+||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjEwMTAwOSwtMTkxNjc3OTA3NV19
+eyJoaXN0b3J5IjpbMTUxMDE4NzY5NSwtMTkxNjc3OTA3NV19
 -->
