@@ -12,6 +12,10 @@
 
 > Cada nível diferente exige uma nova complexidade
 
+Cada etapa exige 3 novos desafios:
+
+1. Obter novas habilidades
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg3NjA0NDFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTY3NzkwNzVdfQ==
 -->
