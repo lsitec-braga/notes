@@ -34,7 +34,7 @@ Cada etapa exige 3 novos desafios:
 
 ## Estabelecer prioridades
 
-1. Conheça seu time. Veja 
+1. Conheça seu time. Veja os pontos fortes e fracos de cada integrante, focando em realocá-los nas funções e tarefas onde tenham um bom desempenho para assim se sentir confortável 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjA2Mzk3OSwtMTkxNjc3OTA3NV19
+eyJoaXN0b3J5IjpbLTkxNTc3MTI1MSwtMTkxNjc3OTA3NV19
 -->
