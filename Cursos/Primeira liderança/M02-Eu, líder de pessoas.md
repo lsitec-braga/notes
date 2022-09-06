@@ -21,12 +21,14 @@ Cada etapa exige 3 novos desafios:
 ## Repensando o motivo de liderar
 
 Índice|Mudanças necessárias|Descrição
--|-|-
+:-:|-|-
 1|Novas habilidades|Aprender novas competências como exemplo: delegar tarefas
 2|Aprender a aplicar o tempo|Organizar o tempo de forma eficaz como exemplo: direcionar tempo com a equipe, estabelecer parcerias com outras áreas, e etc
 3|Revisar valores profissionais|O que é realmente importante, como exemplo: o sucesso, reconhecimento,engajar pessoas, etc
 
+### O que devo fazer para alcançar essas mudanças necessárias?
 
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDI2MDY2LC0xOTE2Nzc5MDc1XX0=
+eyJoaXN0b3J5IjpbNDI3NDg5OTQ4LC0xOTE2Nzc5MDc1XX0=
 -->
