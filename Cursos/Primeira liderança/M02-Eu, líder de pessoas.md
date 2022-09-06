@@ -37,7 +37,8 @@ Cada etapa exige 3 novos desafios:
 1. Conheça seu time. Veja os pontos fortes e fracos de cada integrante, focando em realocá-los nas funções e tarefas onde tenham um bom desempenho para assim se sentir confortável e manter a entrega de resultados esperados
 2. Promova momentos de interação. Estabelecer cultura do feedback de mão dupla, onde todos podem se sentir livres em ajudar uns ao outros, apresentando pontos de destaque e de melhoria. Promover workshops, treinamentos, happy hours, para que todos da equipe possam interagir entre sim e dessa maneira melhorar a sinergia como um todo
 3. Entenda o contexto. Ver quais colaboradores possuem uma boa relação, entender como funcionam as políticas da empresa, o que pode ser feito para melhorar a relação entre as áreas e setores
-4. Organize o tempo. Item prioritário, utilizar ferramentas tecnológicas para auxiliar nessa organização, dedicar-se um tempo à conversar com toda a equipe, para ter um panorama 
+4. Organize o tempo. Item prioritário, utilizar ferramentas tecnológicas para auxiliar nessa organização, dedicar-se um tempo à conversar com toda a equipe, para ter um panorama do que está acontecendo no momento
+5. Estabeleça uma boa comunicação. Criar envolvimento e participação da equipe como um todo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTM2NzkzNCwtMTkxNjc3OTA3NV19
+eyJoaXN0b3J5IjpbLTcyMTY0NDMwOSwtMTkxNjc3OTA3NV19
 -->
