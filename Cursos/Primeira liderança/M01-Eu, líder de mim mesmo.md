@@ -67,7 +67,10 @@ Insights (aprendizados):
 
 
 ### Quais situações eu me vejo tendo mindset de crescimento?
+
+- Aprender novas tecnologias relacionadas à assuntos que tenho interesse, como a parte de Front End, UX/UI
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDU3NTAzMiwyMDAwMDEwNjcxLC01NT
-M1OTk1NjBdfQ==
+eyJoaXN0b3J5IjpbMTI2MDQ1MzY0NSwxNzE0NTc1MDMyLDIwMD
+AwMTA2NzEsLTU1MzU5OTU2MF19
 -->
