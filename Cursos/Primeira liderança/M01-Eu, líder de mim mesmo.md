@@ -65,12 +65,14 @@ Insights (aprendizados):
 
 ### Quais situações eu me vejo tendo mindset fixo?
 
+- Alterar meu padrão de comunicação para ser objetivo e menos prolixo
+- Focar em tecnologias ou problemas relacionados à Back End, principalmente em questões de CRUD e lista
 
 ### Quais situações eu me vejo tendo mindset de crescimento?
 
 - Aprender novas tecnologias relacionadas à assuntos que tenho interesse, como a parte de Front End, UX/UI
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDQ1MzY0NSwxNzE0NTc1MDMyLDIwMD
-AwMTA2NzEsLTU1MzU5OTU2MF19
+eyJoaXN0b3J5IjpbLTE3NDYwNTE4NDAsMTcxNDU3NTAzMiwyMD
+AwMDEwNjcxLC01NTM1OTk1NjBdfQ==
 -->
