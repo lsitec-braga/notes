@@ -35,7 +35,8 @@ Cada etapa exige 3 novos desafios:
 ## Estabelecer prioridades
 
 1. Conheça seu time. Veja os pontos fortes e fracos de cada integrante, focando em realocá-los nas funções e tarefas onde tenham um bom desempenho para assim se sentir confortável e manter a entrega de resultados esperados
-2. Promova momentos de interação. Estabelecer cultura do feedback de mão dupla, onde todos podem se sentir livres em ajudar uns ao outros, apresentando pontos de destaque e de melhoria. 
+2. Promova momentos de interação. Estabelecer cultura do feedback de mão dupla, onde todos podem se sentir livres em ajudar uns ao outros, apresentando pontos de destaque e de melhoria. Promover workshops, treinamentos, happy hours, para que todos da equipe possam interagir entre sim e dessa maneira melhorar a sinergia como um todo
+3. Entenda o contexto. Ver quais colaboradores possuem uma boa relação, entender como funcionam as políticas da empresa, o que pode ser feito para melhorar a relação entre as áreas, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDk1MDIwMSwtMTkxNjc3OTA3NV19
+eyJoaXN0b3J5IjpbMTc2MTg2MjQxNiwtMTkxNjc3OTA3NV19
 -->
