@@ -1,7 +1,6 @@
 # Flutter
 
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDIxMjQ5XX0=
+eyJoaXN0b3J5IjpbMjMzMzc4MDUzLDE1NDAyMTI0OV19
 -->
