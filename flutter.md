@@ -1,8 +1,8 @@
 # Flutter
 
-## Initial setup
+## Creating a new project
 
-(More info)
+[More info](https://docs.flutter.dev/get-started/install)
 
 ## Running flutter
 
@@ -12,6 +12,6 @@ Run Flutter in web browser
 flutter run -d chrome
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ1NDA4NDksMjMzMzc4MDUzLDE1ND
-AyMTI0OV19
+eyJoaXN0b3J5IjpbMTcxOTQ4NzcyMSwyMzMzNzgwNTMsMTU0MD
+IxMjQ5XX0=
 -->
