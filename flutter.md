@@ -14,6 +14,12 @@ flutter create --project-name my_app --org dev.flutter --android-language java -
 cd my_app
 ```
 
+## Update flutter dependecies
+
+```bash
+flutter pub get
+```
+
 ## Running flutter
 
 Run Flutter in web browser
@@ -21,7 +27,13 @@ Run Flutter in web browser
 ```bash
 flutter run -d chrome
 ```
+
+Run Flutter in emulator
+
+```bash
+flutter run
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA5ODMwNSwyMzMzNzgwNTMsMTU0MD
+eyJoaXN0b3J5IjpbMTQ3ODI5MTM4OCwyMzMzNzgwNTMsMTU0MD
 IxMjQ5XX0=
 -->
