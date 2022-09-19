@@ -8,8 +8,11 @@ A priori, as principais utilidades do RocketChat são:
 - Respostas automáticas ou atualizações através de bots
 - 
 
-## 
+## Área da saúde
+
+- Omnichannel
+- Colaboração da equ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDg0NTM5Nyw5MzQxMTg4ODcsMTA1OD
-EzMjUwNF19
+eyJoaXN0b3J5IjpbLTIxMTYzODkzMTIsLTQwNDg0NTM5Nyw5Mz
+QxMTg4ODcsMTA1ODEzMjUwNF19
 -->
