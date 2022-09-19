@@ -20,8 +20,9 @@ Tecnologias utilizadas
 
 1. O paciente entra em contato com o hospital através de uma das plataformas disponíveis de comunicação
 2. Uma pessoa responsável pelo atendimento ao cliente recebe as mensagens em um lugar unificado
-3. Para automatizar um pouco do atendimento, é possível criar chatbots 
+3. Para automatizar um pouco do atendimento, é possível criar chatbots para que assim possa obter informações úteis para um atendimento mais preciso e rápido
+4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzgzMTYxNSwtODAzNzAzOTYzLC00MD
-Q4NDUzOTcsOTM0MTE4ODg3LDEwNTgxMzI1MDRdfQ==
+eyJoaXN0b3J5IjpbLTEyMjE1NTU3NTcsLTgwMzcwMzk2MywtND
+A0ODQ1Mzk3LDkzNDExODg4NywxMDU4MTMyNTA0XX0=
 -->
