@@ -15,7 +15,11 @@ Tecnologias utilizadas
 1. Diálogo com os pacientes - Omnichannel
 2. Diálogo com colegas de trabalho interno ou externos - Team collaboration
 3. Integração com o aplicativo - Chat Engine
+
+### Exemplo Omnichannel
+
+1. O paciente entra em contat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzcwMzk2MywtNDA0ODQ1Mzk3LDkzND
-ExODg4NywxMDU4MTMyNTA0XX0=
+eyJoaXN0b3J5IjpbLTE1NDEwNDU0NTgsLTgwMzcwMzk2MywtND
+A0ODQ1Mzk3LDkzNDExODg4NywxMDU4MTMyNTA0XX0=
 -->
