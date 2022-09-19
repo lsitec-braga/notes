@@ -10,9 +10,11 @@ A priori, as principais utilidades do RocketChat são:
 
 ## Área da saúde
 
-- Omnichannel
-- Colaboração da equ
+Tecnologias utilizadas
+
+1. Diálogo com os pacientes - Omnichannel
+2. Diálogo com colegas de trabalho interno ou externos - Team collaboration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYzODkzMTIsLTQwNDg0NTM5Nyw5Mz
-QxMTg4ODcsMTA1ODEzMjUwNF19
+eyJoaXN0b3J5IjpbLTQ0Mjk5MTUyMiwtNDA0ODQ1Mzk3LDkzND
+ExODg4NywxMDU4MTMyNTA0XX0=
 -->
