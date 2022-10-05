@@ -3,10 +3,16 @@
 ## Rodar servidor local
 
 1. Abra o terminal
-2. Insira o seguinte comando `psql -U postgres`
-3. Insira a senha do servidor
-4. Agora com o servidor postgres ligado, na pasta raiz, insira o comando ``
+2. Insira o seguinte comando 
+```bash
+psql -U postgres
+```
+6. Insira a senha do servidor
+7. Agora com o servidor postgres ligado, na pasta raiz do projeto, insira o comando 
+```bash
+node server/src/server.js
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY2MTA2NV19
+eyJoaXN0b3J5IjpbMTQ0NTkzOTEzMl19
 -->
