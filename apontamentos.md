@@ -9,14 +9,9 @@
 
 1. Rode o executável do Postgres
 2. Siga o passo a passo da instalação preenchendo os campos necessários
-3. Após a instalação, adicione o seguinte caminho às variáveis do sistema
-```
-
-```
-5. Insira o seguinte comando 
-```bash
-psql -U postgres
-```
+3. Adicione o caminho `C:\Program Files\PostgreSQL\14\bin` às variáveis do sistema
+4. Insira o seguinte comando 
+5. 
 6. Insira a senha do servidor
 7. Agora com o servidor postgres ligado, na pasta raiz do projeto, insira o comando 
 ```bash
@@ -37,6 +32,6 @@ node server/src/server.js
 10.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1ODU5MTIyLDQ0NDc0MjM3NCwxMzEzNT
-g2NzE0LC0xMjI3OTg2MDg0XX0=
+eyJoaXN0b3J5IjpbMTE1OTkwMDU3OCw0NDQ3NDIzNzQsMTMxMz
+U4NjcxNCwtMTIyNzk4NjA4NF19
 -->
