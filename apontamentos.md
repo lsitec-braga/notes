@@ -1,8 +1,9 @@
-# Apontamentos
+# Apontamentos - Servidor
 
 ## Requisitos
 
-- Node.JS
+- [Node.JS](https://nodejs.org/en/download/)
+- [Postgres](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 ## Rodar servidor local
 
@@ -31,6 +32,6 @@ node server/src/server.js
 10.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg0MDQ0NDcsMTMxMzU4NjcxNCwtMT
-IyNzk4NjA4NF19
+eyJoaXN0b3J5IjpbMTk3ODY3MTc3MywxMzEzNTg2NzE0LC0xMj
+I3OTg2MDg0XX0=
 -->
