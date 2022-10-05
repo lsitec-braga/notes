@@ -1,5 +1,9 @@
 # Apontamentos
 
+## Requisitos
+
+- Node.JS
+
 ## Rodar servidor local
 
 1. Abra o terminal
@@ -13,6 +17,8 @@ psql -U postgres
 node server/src/server.js
 ```
 
+## Rodar servidor local
+
 1.  Ir até o diretório /server
 2.  Aplicar o comando  `npm install`
 3.  Instalar o banco de dados
@@ -25,5 +31,6 @@ node server/src/server.js
 10.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzU4NjcxNCwtMTIyNzk4NjA4NF19
+eyJoaXN0b3J5IjpbLTEzNjg0MDQ0NDcsMTMxMzU4NjcxNCwtMT
+IyNzk4NjA4NF19
 -->
