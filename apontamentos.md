@@ -5,7 +5,7 @@
 - [Node.JS](https://nodejs.org/en/download/)
 - [Postgres](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
-## Iniciar Postgres
+## Iniciar Postgres (Banco de dados)
 
 1. Rode o executável do Postgres
 2. Siga o passo a passo da instalação preenchendo os campos necessários
@@ -30,7 +30,7 @@
 12.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAwMzcyMjQsLTE1MTM2NzAzNiwtMj
-EzNDAzMzk2MCw0NDQ3NDIzNzQsMTMxMzU4NjcxNCwtMTIyNzk4
-NjA4NF19
+eyJoaXN0b3J5IjpbMTk2MzIxMjQwMCwtMTUxMzY3MDM2LC0yMT
+M0MDMzOTYwLDQ0NDc0MjM3NCwxMzEzNTg2NzE0LC0xMjI3OTg2
+MDg0XX0=
 -->
