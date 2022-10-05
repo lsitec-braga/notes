@@ -2,8 +2,8 @@
 
 ## Requisitos
 
-- [Node.JS](https://nodejs.org/en/download/)
-- [Postgres](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+- Instalar [Node.JS](https://nodejs.org/en/download/)
+- Instalar [Postgres](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 ## Iniciar Postgres (Banco de dados)
 
@@ -30,7 +30,7 @@
 12.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzIxMjQwMCwtMTUxMzY3MDM2LC0yMT
-M0MDMzOTYwLDQ0NDc0MjM3NCwxMzEzNTg2NzE0LC0xMjI3OTg2
-MDg0XX0=
+eyJoaXN0b3J5IjpbLTM2OTA4Njk4NiwxOTYzMjEyNDAwLC0xNT
+EzNjcwMzYsLTIxMzQwMzM5NjAsNDQ0NzQyMzc0LDEzMTM1ODY3
+MTQsLTEyMjc5ODYwODRdfQ==
 -->
