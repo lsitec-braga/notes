@@ -11,8 +11,8 @@
 2. Siga o passo a passo da instalação preenchendo os campos necessários
 3. Adicione o caminho `C:\Program Files\PostgreSQL\14\bin` às variáveis do sistema
 4. Insira o seguinte comando `psql -U postgres` (poistgress é o nome do usuário)
-5. Insira a senha do servidor
-6. Agora com o servidor postgres ligado, na pasta raiz do projeto, insira o comando `node server/src/server.js`
+5. Insira a senha do servidor que foi cadastrado na etapa de instalação
+6. Agora com o servidor postgres ligado, siga o passo a passo para iniciar o servidor local
 
 ## Rodar servidor local
 
@@ -22,13 +22,13 @@
 4.  Criar um banco, senha e usuário de testes com os devidos privilégios No diretório server editar o template arquivo example.env com as credenciais criadas no PostgreSQL Renomear o example.env para .env
 5.  No diretório server aplicar o comando  `npx prisma migrate dev`. Uma mensagem deve mostrar que o banco foi gerado com sucesso image
 6.  Ir para o diretório /src
-7.  Aplicar o comando  `node server.js`
-8.  Instalar o aplicativo  [Postman](https://dl.pstmn.io/download/latest/win64)
+7.  Aplicar o comando `node server.js`
+8.  Instalar o aplicativo [Postman](https://dl.pstmn.io/download/latest/win64)
 9.  Importar a collection no postman que está no diretório /server/tests
 10.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjIyOTcxNiwtMTUxMzY3MDM2LC0yMT
+eyJoaXN0b3J5IjpbMTI4OTQxMzQ4OSwtMTUxMzY3MDM2LC0yMT
 M0MDMzOTYwLDQ0NDc0MjM3NCwxMzEzNTg2NzE0LC0xMjI3OTg2
 MDg0XX0=
 -->
