@@ -16,19 +16,21 @@
 
 ## Rodar servidor local
 
-1.  Ir até o diretório /server
+1.  Ir até o diretório `/server`
 2.  Aplicar o comando  `npm install`
 3.  Instalar o banco de dados
-4.  Criar um banco, senha e usuário de testes com os devidos privilégios No diretório server editar o template arquivo example.env com as credenciais criadas no PostgreSQL Renomear o example.env para .env
-5.  No diretório server aplicar o comando  `npx prisma migrate dev`. Uma mensagem deve mostrar que o banco foi gerado com sucesso image
-6.  Ir para o diretório /src
-7.  Aplicar o comando `node server.js`
-8.  Instalar o aplicativo [Postman](https://dl.pstmn.io/download/latest/win64)
-9.  Importar a collection no postman que está no diretório /server/tests
-10.  Realizar requisições para api
+4.  Criar um banco, senha e usuário de testes com os devidos privilégios
+5.  No diretório `server` editar o template do arquivo `example.env` com as credenciais criadas no PostgreSQL
+6. Renomear o `example.env` para `.env`
+7.  No diretório `server` aplicar o comando  `npx prisma migrate dev`. Uma mensagem deve mostrar que o banco foi gerado com sucesso
+8.  Ir para o diretório `/src`
+9.  Aplicar o comando `node server.js`
+10.  Instalar o aplicativo [Postman](https://dl.pstmn.io/download/latest/win64)
+11.  Importar a collection no postman que está no diretório `/server/tests`
+12.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTQxMzQ4OSwtMTUxMzY3MDM2LC0yMT
-M0MDMzOTYwLDQ0NDc0MjM3NCwxMzEzNTg2NzE0LC0xMjI3OTg2
-MDg0XX0=
+eyJoaXN0b3J5IjpbLTEyMTAwMzcyMjQsLTE1MTM2NzAzNiwtMj
+EzNDAzMzk2MCw0NDQ3NDIzNzQsMTMxMzU4NjcxNCwtMTIyNzk4
+NjA4NF19
 -->
