@@ -5,7 +5,7 @@
 - [Node.JS](https://nodejs.org/en/download/)
 - [Postgres](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
-## Rodar servidor local
+## Iniciar Postgres
 
 1. Abra o terminal
 2. Insira o seguinte comando 
@@ -32,6 +32,6 @@ node server/src/server.js
 10.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODY3MTc3MywxMzEzNTg2NzE0LC0xMj
-I3OTg2MDg0XX0=
+eyJoaXN0b3J5IjpbNDQ0NzQyMzc0LDEzMTM1ODY3MTQsLTEyMj
+c5ODYwODRdfQ==
 -->
