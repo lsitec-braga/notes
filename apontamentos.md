@@ -7,13 +7,14 @@
 
 ## Iniciar Postgres
 
-1. Abra o terminal
-2. Insira o seguinte comando 
+1. Rode o executável do Postgres
+2. 
+3. Insira o seguinte comando 
 ```bash
 psql -U postgres
 ```
-3. Insira a senha do servidor
-4. Agora com o servidor postgres ligado, na pasta raiz do projeto, insira o comando 
+4. Insira a senha do servidor
+5. Agora com o servidor postgres ligado, na pasta raiz do projeto, insira o comando 
 ```bash
 node server/src/server.js
 ```
@@ -32,6 +33,6 @@ node server/src/server.js
 10.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NzQyMzc0LDEzMTM1ODY3MTQsLTEyMj
-c5ODYwODRdfQ==
+eyJoaXN0b3J5IjpbMjA0MTExMjEwNSw0NDQ3NDIzNzQsMTMxMz
+U4NjcxNCwtMTIyNzk4NjA4NF19
 -->
