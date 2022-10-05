@@ -9,7 +9,7 @@
 
 1. Rode o executável do Postgres
 2. Siga o passo a passo da instalação preenchendo os campos necessários
-3. Adicione o caminho `C:\Program Files\PostgreSQL\14\bin` às variáveis do sistema
+3. Adicione o caminho `C:\Program Files\PostgreSQL\14\bin` ao `Path` das variáveis do sistema
 4. Insira o seguinte comando `psql -U postgres` (postgres é o nome do usuário)
 5. Insira a senha do servidor que foi cadastrado na etapa de instalação
 6. Agora com o servidor postgres ligado, siga o passo a passo para iniciar o servidor local
@@ -30,7 +30,7 @@
 12.  Realizar requisições para api
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Njk4MDMzNCwtMzY5MDg2OTg2LDE5Nj
-MyMTI0MDAsLTE1MTM2NzAzNiwtMjEzNDAzMzk2MCw0NDQ3NDIz
-NzQsMTMxMzU4NjcxNCwtMTIyNzk4NjA4NF19
+eyJoaXN0b3J5IjpbNTgxNTM1ODI2LC0zNjkwODY5ODYsMTk2Mz
+IxMjQwMCwtMTUxMzY3MDM2LC0yMTM0MDMzOTYwLDQ0NDc0MjM3
+NCwxMzEzNTg2NzE0LC0xMjI3OTg2MDg0XX0=
 -->
