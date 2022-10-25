@@ -28,8 +28,11 @@ ickson94@gmail.com
 
 ## Gerir pontos
 
-1. 
+## Gráficos
+
+1. ChartJS
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjMwNzkxOCwtMTcxMDQxMjg1OSwtMT
-Y3MDc5NzQ3OF19
+eyJoaXN0b3J5IjpbMTk2NDc1NzU0MywxNDQ2MzA3OTE4LC0xNz
+EwNDEyODU5LC0xNjcwNzk3NDc4XX0=
 -->
