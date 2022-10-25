@@ -24,7 +24,8 @@ ickson94@gmail.com
 2. Cadastrar informações gerais da empresa
 3. Depois das informações gerais, devem ser cadastrado outros campos
 4. Dados complementares
-
+	5. filial deve ter ligação com a matriz (agrupador = matriz | agrupado = filial)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA3OTc0NzhdfQ==
+eyJoaXN0b3J5IjpbLTE3MTA0MTI4NTksLTE2NzA3OTc0NzhdfQ
+==
 -->
