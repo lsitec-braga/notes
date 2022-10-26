@@ -6,7 +6,7 @@
 
 ## Back End
 
-1. https://cursos.alura.com.br/formacao-amazon-web-services
+1. [Formação AWS](https://cursos.alura.com.br/formacao-amazon-web-services) - 43hrs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTQ0MzM3NiwtMTkxNjYzMDIyOF19
+eyJoaXN0b3J5IjpbLTIyNjcxOTU1MSwtMTkxNjYzMDIyOF19
 -->
