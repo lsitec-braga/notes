@@ -17,9 +17,9 @@
 
 - [EMQX](https://www.emqx.com/en)
 - [Node-RED](https://nodered.org/)
-- Paho
+- [Paho](https://www.eclipse.org/paho/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjMwMTc1OCwxMTM3ODQxMjU5LDEzNj
+eyJoaXN0b3J5IjpbMTYzMDAyNzcwMiwxMTM3ODQxMjU5LDEzNj
 czMTYyMzUsMTI0ODY0Mjc0NiwxNzA2MDcxMzg0LC0yMjY3MTk1
 NTEsLTE5MTY2MzAyMjhdfQ==
 -->
