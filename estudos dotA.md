@@ -12,7 +12,14 @@
 ## Back End
 
 - [ ] [Formação AWS](https://cursos.alura.com.br/formacao-amazon-web-services) - 43hrs
+
+## IoT
+
+- EMQX
+- Node-RED
+- Paho
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzMxNjIzNSwxMjQ4NjQyNzQ2LDE3MD
-YwNzEzODQsLTIyNjcxOTU1MSwtMTkxNjYzMDIyOF19
+eyJoaXN0b3J5IjpbMTEzNzg0MTI1OSwxMzY3MzE2MjM1LDEyND
+g2NDI3NDYsMTcwNjA3MTM4NCwtMjI2NzE5NTUxLC0xOTE2NjMw
+MjI4XX0=
 -->
