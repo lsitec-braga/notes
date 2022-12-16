@@ -1,6 +1,6 @@
 # Config Server
 
-## IoT
+## MQTT
 
 ### Broker MQTT
 
@@ -14,13 +14,15 @@
 
 ### Requisitos
 
+> SERIAL_NUMBER_DOTA é personalizado de acordo com o número de série do dota em questão
+
 1. dotA **publica** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
 2. dotA está **inscrito** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
-3. script está **inscrito** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
-4. script **publica** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
+3. listener-dota está **inscrito** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
+4. listener-dota **publica** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
 
 ### 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODgxNzI4MCwtNTcxMTgwNDQzXX0=
+eyJoaXN0b3J5IjpbMTM1NzU0OTM1MSwtNTcxMTgwNDQzXX0=
 -->
