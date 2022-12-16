@@ -2,8 +2,12 @@
 
 ## IoT
 
+### Broker MQTT
+
 - [EMQX](https://www.emqx.com/en)
-- [Node-RED](https://nodered.org/)
+
+### Client MQTT
+
 - [Paho](https://www.eclipse.org/paho/)
 
 ## Flow da conexão
@@ -15,8 +19,8 @@
 3. script está **inscrito** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
 4. script **publica** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
 
-
+### 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTAyOTMxMiwtNTcxMTgwNDQzXX0=
+eyJoaXN0b3J5IjpbLTk0ODgxNzI4MCwtNTcxMTgwNDQzXX0=
 -->
