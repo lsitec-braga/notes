@@ -16,6 +16,7 @@
 4. script **publica** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjQ1MzM5NCwtNTcxMTgwNDQzXX0=
+eyJoaXN0b3J5IjpbMTIyNTAyOTMxMiwtNTcxMTgwNDQzXX0=
 -->
