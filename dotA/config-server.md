@@ -18,8 +18,10 @@
 
 1. dotA faz **publish** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
 2. dotA **subscribe** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
-3. listener-dota **subscribe** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
-4. listener-dota faz **publish** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
+3. 2. dotA **subscribe** no tópico `STA/SERIAL_NUMBER_DOTA`
+4. listener-dota **subscribe** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
+5. listener-dota faz **publish** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
+6. listener-dota faz **publish** no tópico `STA/SERIAL_NUMBER_DOTA`
 
 ### Fluxo da conexão
 
@@ -28,5 +30,5 @@
 3. listener-dota ao perceber que foi adicionada uma informação no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`, irá enviar um *payload* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTgwNTMzMSwtNTcxMTgwNDQzXX0=
+eyJoaXN0b3J5IjpbLTc4NDk5ODg1NywtNTcxMTgwNDQzXX0=
 -->
