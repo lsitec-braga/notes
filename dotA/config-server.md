@@ -10,7 +10,7 @@
 
 - [Paho](https://www.eclipse.org/paho/)
 
-## Flow da conexão
+## Definição das conexões MQTT
 
 ### Requisitos
 
@@ -21,8 +21,10 @@
 3. listener-dota está **inscrito** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
 4. listener-dota **publica** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
 
-### 
+### Fluxo da conexão
+
+1. Dota 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzU0OTM1MSwtNTcxMTgwNDQzXX0=
+eyJoaXN0b3J5IjpbLTE2ODk2NDI2MDIsLTU3MTE4MDQ0M119
 -->
