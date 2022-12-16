@@ -17,7 +17,7 @@
 ## Acessar diretório do projeto
 
 ```bash
-cd ~/Documents/Multilaser/Sellout/sellout-training
+cd ~/Documents/Multilaser/Sellout/sellout
 ```
 
 ## Acesso ao root do AVD
@@ -110,7 +110,7 @@ exit
 Faça o build do APK pelo Android Studio e suba o apk para o device
 
 ```bash
-adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
+adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 ```
 
 ## Adicionar permissões privilegiadas ao app
@@ -228,13 +228,13 @@ adb shell pm clear br.org.lsitec.training.sellout
 > Para Windows/Powershell
 
 ```powershell
-adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout-training\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
+adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 ```
 
 > Para Linux/Bash
 
 ```bash
-adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
+adb push ~/Documents/Multilaser/sellout/sellout/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
 ```
 
 3. Dê build no projeto `ctrl + F5`
@@ -251,7 +251,7 @@ adb root | adb remount | adb shell pm clear br.org.lsitec.training.sellout
 ```
 
 ```bash
-adb push ~/Documents/Multilaser/sellout/sellout-training/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
+adb push ~/Documents/Multilaser/sellout/sellout/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
 ```
 
 ## Testar app no dispositivo físico
@@ -279,5 +279,6 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzg4MTk5NzU3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxMTc4ODI4NzM4LC03ODgxOTk3
+NTddfQ==
 -->
