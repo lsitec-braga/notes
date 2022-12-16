@@ -8,10 +8,14 @@
 
 ## Flow da conexão
 
-1. dotA **publica** no tópico CFG_PUB/SERIAL_NUMBER_DOTA
-2. script está **inscrito** no tópico CFG_PUB/SERIAL_NUMBER_DOTA
+### Requisitos
+
+1. dotA **publica** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
+2. dotA está **inscrito** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
+3. script está **inscrito** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`
+4. script **publica** no tópico `CFG_SUB/SERIAL_NUMBER_DOTA`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk5MjkxNjMsLTU3MTE4MDQ0M119
+eyJoaXN0b3J5IjpbMTE5MjQ1MzM5NCwtNTcxMTgwNDQzXX0=
 -->
