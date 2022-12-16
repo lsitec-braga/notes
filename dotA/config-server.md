@@ -29,7 +29,7 @@
 2. listener-dota está **subscribed** no tópico `CFG_PUB/SERIAL_NUMBER_DOTA` portanto recebe qualquer comando novo que aparecer no tópico
 3. listener-dota ao perceber que foi adicionada uma informação no tópico `CFG_PUB/SERIAL_NUMBER_DOTA`, irá enviar  para o tópico `CFG_SUB/SERIAL_NUMBER_DOTA` o seguinte *payload* `RCVOK:03`
 
-> Explicação do formato do *
+> [Documento](https://docs.google.com/document/d/1LJil1iZYlHuiEr4n8OyWY4aa7Qc4jffb/edit) explicando do formato do *payload*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzg0NDExNSwtNTcxMTgwNDQzXX0=
+eyJoaXN0b3J5IjpbLTE1Nzg1NTYzNDAsLTU3MTE4MDQ0M119
 -->
