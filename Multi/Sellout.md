@@ -36,7 +36,7 @@ emulator -list-avds
 Inicie um device de acordo com a lista apresentada
 
 ```bash
-emulator -avd Pixel_3a_XL_API_30 -writable-system
+emulator -avd Pixel_3_XL_API_30 -writable-system
 ```
 
 ```bash
@@ -279,6 +279,6 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMTc4ODI4NzM4LC03ODgxOTk3
-NTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTM2NTAwMzgwMSwxMTc4ODI4
+NzM4LC03ODgxOTk3NTddfQ==
 -->
