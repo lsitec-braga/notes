@@ -251,7 +251,7 @@ adb root | adb remount
 ```
 
 ```bash
-adb shell pm clear br.org.lsitec.training.sellout | adb reboot
+adb shell pm clear br.org.lsitec.training.sellout
 ```
 
 ```bash
@@ -283,7 +283,7 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5NjQ2MTgyNzUsMTU0NTE3ODYy
-NiwtMTM2NTAwMzgwMSwxMTc4ODI4NzM4LC03ODgxOTk3NTddfQ
-==
+BnZm1cbiIsImhpc3RvcnkiOlsxMDgxNDg2MTA3LDE1NDUxNzg2
+MjYsLTEzNjUwMDM4MDEsMTE3ODgyODczOCwtNzg4MTk5NzU3XX
+0=
 -->
