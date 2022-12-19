@@ -247,7 +247,7 @@ adb reboot
 Todos os comandos de uma só vez
 
 ```bash
-adb root | adb remount | adb shell pm clear br.org.lsitec.training.sellout
+adb root | adb remount
 ```
 
 ```bash
@@ -283,6 +283,7 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNTQ1MTc4NjI2LC0xMzY1MDAz
-ODAxLDExNzg4Mjg3MzgsLTc4ODE5OTc1N119
+BnZm1cbiIsImhpc3RvcnkiOls5NjQ2MTgyNzUsMTU0NTE3ODYy
+NiwtMTM2NTAwMzgwMSwxMTc4ODI4NzM4LC03ODgxOTk3NTddfQ
+==
 -->
