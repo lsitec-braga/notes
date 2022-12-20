@@ -10,6 +10,9 @@ Dota envia:
 ```
 
 Server envia:
+```bash
+{CFGOK}:00
+```
 
 ## Set Config
 
@@ -58,10 +61,10 @@ Passo 7 - Enviar `tipo de certificado`
 
 Passo 8 - Enviar comando de `Save to EEPROM`
 
-```mqtt
+```bash
 00:{dotA:D:U} 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzM2MDE3OCw0NTc2NDY1NDNdfQ==
+eyJoaXN0b3J5IjpbNzM1OTE2OTcwLDQ1NzY0NjU0M119
 -->
