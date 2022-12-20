@@ -261,20 +261,6 @@ Reiniciar o dispositivo
 adb reboot
 ```
 
-Todos os comandos de uma só vez
-
-```bash
-adb root | adb remount
-```
-
-```bash
-adb shell pm clear br.org.lsitec.training.sellout
-```
-
-```bash
-adb push ~/Documents/Multilaser/sellout/sellout/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
-```
-
 ## Testar app no dispositivo físico
 
 1. Altere no arquivo `AndroidManifest.xml` o trecho do código contendo o main service
@@ -300,8 +286,8 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNDEyNzM2MDc5LDkwOTIyODIz
-LC0xMzYwNDcxMjgzLDU4OTM5NjUwNSwxMDgxNDg2MTA3LDE1ND
-UxNzg2MjYsLTEzNjUwMDM4MDEsMTE3ODgyODczOCwtNzg4MTk5
-NzU3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxMzI4MjQ0MzE4LC00MTI3MzYw
+NzksOTA5MjI4MjMsLTEzNjA0NzEyODMsNTg5Mzk2NTA1LDEwOD
+E0ODYxMDcsMTU0NTE3ODYyNiwtMTM2NTAwMzgwMSwxMTc4ODI4
+NzM4LC03ODgxOTk3NTddfQ==
 -->
