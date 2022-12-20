@@ -221,15 +221,19 @@ No terminal do sqlite3
 ## Recompilar app após mudança no código fonte
 
 Fazer build do novo apk no Android Studio
-Fazer roRodar os comandos abaixo
+Fazer root no ADB
 
 ```bash
 adb root
 ```
 
+Fazer remount no ADB
+
 ```bash
 adb remount
 ```
+
+Limpar dados do projeto do Sellout
 
 ```bash
 adb shell pm clear br.org.lsitec.training.sellout
@@ -250,6 +254,7 @@ adb push ~/Documents/Multilaser/sellout/sellout/app/build/outputs/apk/debug/app-
 ```
 
 Fazer build no projeto `ctrl + F5`
+
 Reiniciar o dispositivo
 
 ```
@@ -295,7 +300,7 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDU0MDI3MDA5LC0xMzYwNDcx
-MjgzLDU4OTM5NjUwNSwxMDgxNDg2MTA3LDE1NDUxNzg2MjYsLT
-EzNjUwMDM4MDEsMTE3ODgyODczOCwtNzg4MTk5NzU3XX0=
+BnZm1cbiIsImhpc3RvcnkiOls5MDkyMjgyMywtMTM2MDQ3MTI4
+Myw1ODkzOTY1MDUsMTA4MTQ4NjEwNywxNTQ1MTc4NjI2LC0xMz
+Y1MDAzODAxLDExNzg4Mjg3MzgsLTc4ODE5OTc1N119
 -->
