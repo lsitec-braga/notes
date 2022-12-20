@@ -20,20 +20,20 @@
 cd ~/Documents/Multilaser/Sellout/sellout
 ```
 
-## Acesso ao root do AVD
+## Acessar ao root do AVD
 
-Edite a variável do sistema `Path` e adicione os seguintes caminhos:
+Editar a variável do sistema `Path` e adicione os seguintes caminhos:
 - `C:\Users\diego.braga\AppData\Local\Android\Sdk\platform-tools\`
 - `C:\Users\diego.braga\AppData\Local\Android\Sdk\build-tools\32.0.0\`
 - `C:\Users\diego.braga\AppData\Local\Android\Sdk\emulator`
 
-Liste emuladores
+Listar emuladores
 
 ```bash
 emulator -list-avds
 ```
 
-Inicie um device de acordo com a lista apresentada
+Iniciar um device de acordo com a lista apresentada
 
 ```bash
 emulator -avd Pixel_3_XL_API_30 -writable-system
@@ -300,7 +300,8 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5MDkyMjgyMywtMTM2MDQ3MTI4
-Myw1ODkzOTY1MDUsMTA4MTQ4NjEwNywxNTQ1MTc4NjI2LC0xMz
-Y1MDAzODAxLDExNzg4Mjg3MzgsLTc4ODE5OTc1N119
+BnZm1cbiIsImhpc3RvcnkiOlstNDEyNzM2MDc5LDkwOTIyODIz
+LC0xMzYwNDcxMjgzLDU4OTM5NjUwNSwxMDgxNDg2MTA3LDE1ND
+UxNzg2MjYsLTEzNjUwMDM4MDEsMTE3ODgyODczOCwtNzg4MTk5
+NzU3XX0=
 -->
