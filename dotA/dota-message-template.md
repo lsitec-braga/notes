@@ -3,52 +3,56 @@
 
 ## Get Config
 
-```mqtt
+Dota envia:
+
+```bash
 00:{dotA:X:F}
 ```
+
+Server envia:
 
 ## Set Config
 
 Passo 1 - Enviar `nome do host`
 
-```mqtt
+```bash
 00:{dotA:D:H:dota-broker.lsitec.org.br}
 ```
 
 Passo 2 - Enviar `usuario`
 
-```mqtt
+```bash
 00:{dotA:D:O:}
 ```
 
 Passo 3 - Enviar `senha`
 
-```mqtt
+```bash
 00:{dotA:D:A:}
 ```
 
 Passo 4 - Enviar `host port`
 
-```mqtt
+```bash
 00:{dotA:D:R:075B}
 ```
 
 Passo 5 - Enviar `SSL ON`
 
-```mqtt
+```bash
 00:{dotA:D:D:1}
 ```
 
 Passo 6 - Enviar `certificado`
 
-```mqtt
+```bash
 00:{dotA:D:C:XX:XXXXX-----(64)}
 ```
 
 Passo 7 - Enviar `tipo de certificado`
-0:CA, 1:Cert, 2:Private
+> 0:CA, 1:Cert, 2:Private
 
-```mqtt
+```bash
 00:{dotA:D:W:0}
 ```
 
@@ -59,5 +63,5 @@ Passo 8 - Enviar comando de `Save to EEPROM`
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NjQ2NTQzXX0=
+eyJoaXN0b3J5IjpbMTc5MzM2MDE3OCw0NTc2NDY1NDNdfQ==
 -->
