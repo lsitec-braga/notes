@@ -75,11 +75,8 @@ Desativar secure boot do adb
 adb shell avbctl disable-verification
 ```
 
-Reiniciar dispositivo
 
-```bash
-adb reboot
-```
+
 
 Fazer root e remontar dispositivo
 
@@ -91,9 +88,25 @@ adb root
 adb remount
 ```
 
+Reiniciar dispositivo
+
+```bash
+adb reboot
+```
+
 ## Embarque do apk na system
 
 Seguir os passos de Remount para que seja possível manipular a pasta system do device e embarcar um apk com permissão de sistema.
+
+Fazer root e remontar dispositivo
+
+```bash
+adb root
+```
+
+```bash
+adb remount
+```
 
 Acessar o terminal do Android e criar a pasta do app
 
@@ -287,7 +300,7 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls1ODkzOTY1MDUsMTA4MTQ4NjEw
-NywxNTQ1MTc4NjI2LC0xMzY1MDAzODAxLDExNzg4Mjg3MzgsLT
-c4ODE5OTc1N119
+BnZm1cbiIsImhpc3RvcnkiOlsyMDc2NDc4NTIzLDU4OTM5NjUw
+NSwxMDgxNDg2MTA3LDE1NDUxNzg2MjYsLTEzNjUwMDM4MDEsMT
+E3ODgyODczOCwtNzg4MTk5NzU3XX0=
 -->
