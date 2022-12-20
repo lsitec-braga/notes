@@ -75,14 +75,7 @@ Desativar secure boot do adb
 adb shell avbctl disable-verification
 ```
 
-
-
-
-Fazer root e remontar dispositivo
-
-```bash
-adb root
-```
+Fazer remount do dispositivo
 
 ```bash
 adb remount
@@ -124,7 +117,7 @@ Voltar ao terminal do Windows
 exit
 ```
 
-Faça o build do APK pelo Android Studio e suba o apk para o device
+Fazer o build do APK pelo Android Studio e suba o apk para o device
 
 ```bash
 adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
@@ -300,7 +293,7 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDc2NDc4NTIzLDU4OTM5NjUw
-NSwxMDgxNDg2MTA3LDE1NDUxNzg2MjYsLTEzNjUwMDM4MDEsMT
-E3ODgyODczOCwtNzg4MTk5NzU3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTM2MDQ3MTI4Myw1ODkzOTY1
+MDUsMTA4MTQ4NjEwNywxNTQ1MTc4NjI2LC0xMzY1MDAzODAxLD
+ExNzg4Mjg3MzgsLTc4ODE5OTc1N119
 -->
