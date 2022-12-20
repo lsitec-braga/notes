@@ -220,8 +220,8 @@ No terminal do sqlite3
 
 ## Recompilar app após mudança no código fonte
 
-1. Faça build do novo apk
-2. Rode os comandos abaixo
+Fazer build do novo apk no Android Studio
+Fazer roRodar os comandos abaixo
 
 ```bash
 adb root
@@ -235,6 +235,8 @@ adb remount
 adb shell pm clear br.org.lsitec.training.sellout
 ```
 
+Adicionar o .apk para o sistema
+
 > Para Windows/Powershell
 
 ```powershell
@@ -247,8 +249,8 @@ adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout\app\build\out
 adb push ~/Documents/Multilaser/sellout/sellout/app/build/outputs/apk/debug/app-debug.apk system/priv-app/Sellout
 ```
 
-3. Dê build no projeto `ctrl + F5`
-4. Reinicie o dispositivo
+Fazer build no projeto `ctrl + F5`
+Reiniciar o dispositivo
 
 ```
 adb reboot
@@ -293,7 +295,7 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTM2MDQ3MTI4Myw1ODkzOTY1
-MDUsMTA4MTQ4NjEwNywxNTQ1MTc4NjI2LC0xMzY1MDAzODAxLD
-ExNzg4Mjg3MzgsLTc4ODE5OTc1N119
+BnZm1cbiIsImhpc3RvcnkiOlsyMDU0MDI3MDA5LC0xMzYwNDcx
+MjgzLDU4OTM5NjUwNSwxMDgxNDg2MTA3LDE1NDUxNzg2MjYsLT
+EzNjUwMDM4MDEsMTE3ODgyODczOCwtNzg4MTk5NzU3XX0=
 -->
