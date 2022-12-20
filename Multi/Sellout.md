@@ -43,6 +43,10 @@ emulator -avd Pixel_3_XL_API_30 -writable-system
 emulator -avd Pixel_3_XL_API_31 -writable-system
 ```
 
+```bash
+emulator -avd Pixel_5_API_31 -writable-system
+```
+
 ## Remount para SDK menor ou igual a 28
 
 Fazer root
@@ -283,7 +287,7 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMDgxNDg2MTA3LDE1NDUxNzg2
-MjYsLTEzNjUwMDM4MDEsMTE3ODgyODczOCwtNzg4MTk5NzU3XX
-0=
+BnZm1cbiIsImhpc3RvcnkiOls1ODkzOTY1MDUsMTA4MTQ4NjEw
+NywxNTQ1MTc4NjI2LC0xMzY1MDAzODAxLDExNzg4Mjg3MzgsLT
+c4ODE5OTc1N119
 -->
