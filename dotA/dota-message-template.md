@@ -11,10 +11,16 @@ Dota envia:
 
 Server envia:
 ```bash
+{dotA:X:F:1}:00
+```
+
+Dota retorna:
+
+```bash
 {CFGOK}:00
 ```
 
-## Set Config
+## Set Config (server faz o envio)
 
 Passo 1 - Enviar `nome do host`
 
@@ -66,5 +72,5 @@ Passo 8 - Enviar comando de `Save to EEPROM`
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1OTE2OTcwLDQ1NzY0NjU0M119
+eyJoaXN0b3J5IjpbNzI0NzU3NjQzLDQ1NzY0NjU0M119
 -->
