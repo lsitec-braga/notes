@@ -10,6 +10,7 @@ Dota envia:
 ```
 
 Server envia:
+
 ```bash
 {dotA:X:F:1}:00
 ```
@@ -72,5 +73,6 @@ Passo 8 - Enviar comando de `Save to EEPROM`
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NzU3NjQzLDQ1NzY0NjU0M119
+eyJoaXN0b3J5IjpbMTEyNjc5ODYyMSw3MjQ3NTc2NDMsNDU3Nj
+Q2NTQzXX0=
 -->
