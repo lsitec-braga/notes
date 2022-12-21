@@ -36,15 +36,15 @@ emulator -list-avds
 Iniciar um device de acordo com a lista apresentada
 
 ```bash
-emulator -avd Pixel_3_XL_API_30 -writable-system -no-snapshot-load -no-boot-anim
+emulator -avd Pixel_3_XL_API_30 -writable-system -no-snapshot-load
 ```
 
 ```bash
-emulator -avd Pixel_3_XL_API_31 -writable-system -no-snapshot-load -no-boot-anim
+emulator -avd Pixel_3_XL_API_31 -writable-system -no-snapshot-load
 ```
 
 ```bash
-emulator -avd Pixel_5_API_31 -writable-system -no-snapshot-load -no-boot-anim
+emulator -avd Pixel_5_API_31 -writable-system -no-snapshot-load
 ```
 
 ## Remount para SDK menor ou igual a 28
@@ -286,8 +286,9 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMzY0ODc2MjI1LDEzMjgyNDQz
-MTgsLTQxMjczNjA3OSw5MDkyMjgyMywtMTM2MDQ3MTI4Myw1OD
-kzOTY1MDUsMTA4MTQ4NjEwNywxNTQ1MTc4NjI2LC0xMzY1MDAz
-ODAxLDExNzg4Mjg3MzgsLTc4ODE5OTc1N119
+BnZm1cbiIsImhpc3RvcnkiOlstMjEzMjU2NDUzMCwxMzY0ODc2
+MjI1LDEzMjgyNDQzMTgsLTQxMjczNjA3OSw5MDkyMjgyMywtMT
+M2MDQ3MTI4Myw1ODkzOTY1MDUsMTA4MTQ4NjEwNywxNTQ1MTc4
+NjI2LC0xMzY1MDAzODAxLDExNzg4Mjg3MzgsLTc4ODE5OTc1N1
+19
 -->
