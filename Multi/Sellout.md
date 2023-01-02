@@ -33,7 +33,7 @@ Listar emuladores
 emulator -list-avds
 ```
 
-Iniciar um device de acordo com a lista apresentada
+Iniciar um device de acordo com a lista apresentada com "Cold Boot"
 
 ```bash
 emulator -avd Pixel_3_XL_API_30 -writable-system -no-snapshot-load
@@ -286,9 +286,9 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjEzMjU2NDUzMCwxMzY0ODc2
-MjI1LDEzMjgyNDQzMTgsLTQxMjczNjA3OSw5MDkyMjgyMywtMT
-M2MDQ3MTI4Myw1ODkzOTY1MDUsMTA4MTQ4NjEwNywxNTQ1MTc4
-NjI2LC0xMzY1MDAzODAxLDExNzg4Mjg3MzgsLTc4ODE5OTc1N1
-19
+BnZm1cbiIsImhpc3RvcnkiOlsxNjc3Mjg0Nzk3LC0yMTMyNTY0
+NTMwLDEzNjQ4NzYyMjUsMTMyODI0NDMxOCwtNDEyNzM2MDc5LD
+kwOTIyODIzLC0xMzYwNDcxMjgzLDU4OTM5NjUwNSwxMDgxNDg2
+MTA3LDE1NDUxNzg2MjYsLTEzNjUwMDM4MDEsMTE3ODgyODczOC
+wtNzg4MTk5NzU3XX0=
 -->
