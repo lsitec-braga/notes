@@ -7,10 +7,12 @@
 - Reunião para alinhar sobre o EC2 com Victor, Alexandre e Jefferson
 - Estudo da plataforma do Dota 1 para assumir cargo de PO 
 
-## Will Do
+## A fazeres planejados
 
-- Continuar estudos sobre o "negócio" dotA
+- Continuar estudos sobre as regras de "negócio" dotA
 - 
+
+## Will do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NTc5NTU4XX0=
+eyJoaXN0b3J5IjpbLTkxNjU4Mzc0OF19
 -->
