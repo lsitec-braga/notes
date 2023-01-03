@@ -15,7 +15,8 @@
 
 - [ ] Seguir com o plano do Stress Test
 - [ ] Confirmar se o Saving Plan é possível apenas expandir
+- [ ] Conferir [métricas](https://docs.influxdata.com/influxdb/v1.8/guides/hardware_sizing/) do influx para ver o requisito do hardware
 - [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNzczMTc4XX0=
+eyJoaXN0b3J5IjpbLTgyOTA2NjIyLDIyMzc3MzE3OF19
 -->
