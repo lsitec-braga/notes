@@ -17,7 +17,7 @@
 ## Acessar diretório do projeto
 
 ```bash
-cd ~/Documents/Multilaser/Sellout/sellout
+cd ~/Documents/Multi/Sellout/sellout
 ```
 
 ## Acessar ao root do AVD
@@ -120,7 +120,7 @@ exit
 Fazer o build do APK pelo Android Studio e suba o apk para o device
 
 ```bash
-adb push C:\Users\diego.braga\Documents\Multilaser\sellout\sellout\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
+adb push C:\Users\diego.braga\Documents\Multi\sellout\sellout\app\build\outputs\apk\debug\app-debug.apk system/priv-app/Sellout
 ```
 
 ## Adicionar permissões privilegiadas ao app
@@ -286,9 +286,9 @@ adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjc3Mjg0Nzk3LC0yMTMyNTY0
-NTMwLDEzNjQ4NzYyMjUsMTMyODI0NDMxOCwtNDEyNzM2MDc5LD
-kwOTIyODIzLC0xMzYwNDcxMjgzLDU4OTM5NjUwNSwxMDgxNDg2
-MTA3LDE1NDUxNzg2MjYsLTEzNjUwMDM4MDEsMTE3ODgyODczOC
-wtNzg4MTk5NzU3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMjExNDcwNzAwNywxNjc3Mjg0
+Nzk3LC0yMTMyNTY0NTMwLDEzNjQ4NzYyMjUsMTMyODI0NDMxOC
+wtNDEyNzM2MDc5LDkwOTIyODIzLC0xMzYwNDcxMjgzLDU4OTM5
+NjUwNSwxMDgxNDg2MTA3LDE1NDUxNzg2MjYsLTEzNjUwMDM4MD
+EsMTE3ODgyODczOCwtNzg4MTk5NzU3XX0=
 -->
