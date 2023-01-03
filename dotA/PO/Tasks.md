@@ -11,7 +11,11 @@
 - [ ] Analisar a plataforma do dota 2
 - [ ] Entender o que se espera do produto para as próximas semanas, meses (visão do cliente/stakeholder) vou tentar te passar um resumo
 
-## 
+## TODO
+
+- [ ] Seguir com o plano do Stress Test
+- [ ] Confirmar se o Saving Plan é possível apenas expandir
+- [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzcyNDcyMTFdfQ==
+eyJoaXN0b3J5IjpbMjIzNzczMTc4XX0=
 -->
