@@ -2,7 +2,7 @@
 
 ## Plataforma
 
-
+Dúvidas referentes à cada parte do sistema do dotA 1
 
 ### Painel de Controle
 
@@ -20,5 +20,5 @@
 
 ### Cadastro de ponto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODU4MTUyXX0=
+eyJoaXN0b3J5IjpbNjY5Mjc5NTA2XX0=
 -->
