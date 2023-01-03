@@ -2,10 +2,10 @@
 
 ## Horas alocadas
 
-Projeto | Inicio | Fim
--|-|-
-Sellout | 09h00 | 12h30
-dotA | 14h00 | 17h30
+Projeto | Inicio | Fim | Total
+-|-|-|-
+Sellout | 09h00 | 12h30 | 3h30
+dotA | 14h00 | 17h30 | 3h30
 
 ## Feito
 
@@ -16,13 +16,13 @@ dotA | 14h00 | 17h30
 
 ## Afazeres planejados
 
-Continuar estudos sobre as regras de "negócio" dotA
-Acrescentar reenvio de mensagem em perda de conexão no script listener broker dota
-Criar algum testes de integração simples com o worker
-Coletar estado mesmo quando não for Brasileiro
+ - [ ] Continuar estudos sobre as regras de "negócio" dotA
+ - [ ] Acrescentar reenvio de mensagem em perda de conexão no script broker dota
+ - [ ] Criar algum testes de integração simples com o worker
+ - [ ] Coletar estado mesmo quando não for Brasileiro
 
 ## Afazeres não planejados
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA4NjAxMDAsOTc0OTgwMTQ1LC0xMz
-M5NjU2NjcyXX0=
+eyJoaXN0b3J5IjpbNDQyMzgwNzc3LDk3NDk4MDE0NSwtMTMzOT
+Y1NjY3Ml19
 -->
