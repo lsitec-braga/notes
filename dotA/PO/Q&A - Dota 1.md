@@ -15,10 +15,10 @@ Dúvidas referentes à cada parte do sistema do dotA 1
 2. Código de agrupamento =
 3. Agrupador = 
 4. Com camara = 
-5. Nome fantasia = Nome apresentado ao público
-6. Razão Social = Nome que 
+5. Nome fantasia = Nome apresentado ao público, exemplo, Mc Donalds
+6. Razão Social = Nome da empresa registrado no cartório, exemplo, Arcos Douradas Ltda
 
 ### Cadastro de ponto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5Mjc5NTA2XX0=
+eyJoaXN0b3J5IjpbLTE5NTQ4Mjk0ODYsNjY5Mjc5NTA2XX0=
 -->
