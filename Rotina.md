@@ -1,5 +1,12 @@
 # Rotina
 
+## Ideias
+
+Projeto | Inicio | Fim
+-|-|-
+Sellout | 09h00 | 12h00
+dotA | 14h00 | 17h00
+
 ## Feito
 
 - Review do PR do Eduardo
@@ -16,5 +23,6 @@
 
 ## Afazeres não planejados
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0OTgwMTQ1LC0xMzM5NjU2NjcyXX0=
+eyJoaXN0b3J5IjpbLTE2MTkwNzU1MCw5NzQ5ODAxNDUsLTEzMz
+k2NTY2NzJdfQ==
 -->
