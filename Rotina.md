@@ -12,8 +12,9 @@
 - Continuar estudos sobre as regras de "negócio" dotA
 - Acrescentar reenvio de mensagem em perda de conexão no script listener broker dota
 - Criar algum testes de integração simples com o worker
+- Coletar estado mesmo quando não for Brasileiro
 
 ## Afazeres não planejados
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk2NTY2NzJdfQ==
+eyJoaXN0b3J5IjpbOTc0OTgwMTQ1LC0xMzM5NjU2NjcyXX0=
 -->
