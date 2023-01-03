@@ -10,9 +10,10 @@
 ## Afazeres planejados
 
 - Continuar estudos sobre as regras de "negócio" dotA
-- Acrescentar script listener broker dota
+- Acrescentar reenvio de mensagem em perda de conexão no script listener broker dota
+- Criar algum testes de integração simples com o worker
 
 ## Afazeres não planejados
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMyMTg3NF19
+eyJoaXN0b3J5IjpbLTEzMzk2NTY2NzJdfQ==
 -->
