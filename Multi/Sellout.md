@@ -282,7 +282,7 @@ adb shell am start-foreground-service br.org.lsitec.training.sellout/.service.Ma
 ## Descobrir timer do Work
 
 ```bash
-adb shell dumpsys jobscheduler | findstr br.org.training.sellout
+adb shell dumpsys jobscheduler | findstr br.org.lsitec.training.sellout
 ```
 
 ## Algo
@@ -292,7 +292,7 @@ adb shell am broadcast -a "androidx.work.diagnostics.REQUEST_DIAGNOSTICS" -p br.
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxODMxNzY0NzIxLC0xMzA2MTc1
+BnZm1cbiIsImhpc3RvcnkiOlstOTc5MzYxMDMxLC0xMzA2MTc1
 MTY5LDE2NzcyODQ3OTcsLTIxMzI1NjQ1MzAsMTM2NDg3NjIyNS
 wxMzI4MjQ0MzE4LC00MTI3MzYwNzksOTA5MjI4MjMsLTEzNjA0
 NzEyODMsNTg5Mzk2NTA1LDEwODE0ODYxMDcsMTU0NTE3ODYyNi
