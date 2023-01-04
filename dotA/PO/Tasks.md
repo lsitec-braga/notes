@@ -25,9 +25,11 @@
 - [AWS](https://sa-east-1.console.aws.amazon.com/console/home?region=sa-east-1#)
 - [Main Database](http://dota-mysql.mobile.lsitec.intranet/phpmyadmin/index.php)
 - [Backup Database](https://dotabkp-mysql.mobile.lsitec.intranet/phpmyadmin/index.php)
-- [Server de ](http://10.0.160.47:18083/#/login?to=/dashboard/overview)
+- [Server de configuração](http://10.0.160.47:18083/#/login?to=/dashboard/overview)
 
 ## Assumindo projeto
+
+Ao assumir o projeto, os seguintes pontos devem ser executados
 
 - [ ] Analisar Product Backlog
 - [ ] Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
@@ -60,7 +62,7 @@ Obs: 100% dos testes executados
 - [ ] Conferir [métricas](https://docs.influxdata.com/influxdb/v1.8/guides/hardware_sizing/) do influx para ver o requisito do hardware
 - [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ5NDI3OSwyMDcxNjYxODA3LDExND
+eyJoaXN0b3J5IjpbMTcxMjY0ODg1NCwyMDcxNjYxODA3LDExND
 MxNzgzMzksMTc0MDE2Mzg5NCwtODI5MDY2MjIsMjIzNzczMTc4
 XX0=
 -->
