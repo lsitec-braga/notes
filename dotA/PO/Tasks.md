@@ -11,6 +11,17 @@
 - [ ] Analisar a plataforma do dota 2
 - [ ] Entender o que se espera do produto para as próximas semanas, meses (visão do cliente/stakeholder) vou tentar te passar um resumo
 
+## Tarefas diárias
+
+- [ ] Enviar um resumo no skype sobre o progresso da correção de bugs com a seguinte estrutura
+```
+Report 03/01/2023 #1
+24 issues abertas
+17 em validação
+7 corrigidas
+Obs: 100% dos testes executados
+```
+
 ## TODO
 
 - [ ] Seguir com o plano do Stress Test
@@ -18,5 +29,6 @@
 - [ ] Conferir [métricas](https://docs.influxdata.com/influxdb/v1.8/guides/hardware_sizing/) do influx para ver o requisito do hardware
 - [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTA2NjIyLDIyMzc3MzE3OF19
+eyJoaXN0b3J5IjpbNDc1ODkyNzg3LC04MjkwNjYyMiwyMjM3Nz
+MxNzhdfQ==
 -->
