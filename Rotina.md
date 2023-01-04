@@ -28,8 +28,11 @@ dotA    | 14h00 | 17h30 | 3h30
 ## Afazeres não planejados
 
 - [ ] Ajudar Felippe
+
+- [ ] Fazer resumo duas vezes ao dia sobre os bugs
+- [ ] acompanhar a planilha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE4MTY4MzYsMTE4MzU2ODI0NywtMT
-c5MDEzMTgzMiw0NDIzODA3NzcsOTc0OTgwMTQ1LC0xMzM5NjU2
-NjcyXX0=
+eyJoaXN0b3J5IjpbMTc5NDYyNjAxLC0xMDYxODE2ODM2LDExOD
+M1NjgyNDcsLTE3OTAxMzE4MzIsNDQyMzgwNzc3LDk3NDk4MDE0
+NSwtMTMzOTY1NjY3Ml19
 -->
