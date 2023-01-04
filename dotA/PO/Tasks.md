@@ -1,4 +1,4 @@
-# Tasks
+# 
 
 ## Links úteis
 
@@ -29,7 +29,7 @@
 
 ## Assumindo projeto
 
-Ao assumir o projeto, os seguintes pontos devem ser executados
+Ao assumir o projeto, os seguintes pontos devem ser dominados:
 
 - [ ] Entender o que se espera do produto para as próximas semanas, meses (visão do cliente/stakeholder)
 - [ ] Analisar Product Backlog
@@ -38,7 +38,6 @@ Ao assumir o projeto, os seguintes pontos devem ser executados
 - [ ] Analisar a plataforma do dota 2
 - [ ] Entender Infra do dota 1 (vou te passar um resumo e o acesso)
 - [ ] Entender Infra do dota 2 (pedir acesso admin para o Alexandre)
-
 
 ## Tarefas diárias
 
@@ -55,14 +54,8 @@ Obs: 100% dos testes executados
 - Após a daily, atualizar planilha do projeto de acordo com o que foi falado na daily e conferir o progresso das tasks
 - Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
 
-## TODO
-
-- [ ] Seguir com o plano do Stress Test
-- [ ] Confirmar se o Saving Plan é possível apenas expandir
-- [ ] Conferir [métricas](https://docs.influxdata.com/influxdb/v1.8/guides/hardware_sizing/) do influx para ver o requisito do hardware
-- [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NjY3MTY1LDIwNzE2NjE4MDcsMTE0Mz
+eyJoaXN0b3J5IjpbMjk5Njc2MDcxLDIwNzE2NjE4MDcsMTE0Mz
 E3ODMzOSwxNzQwMTYzODk0LC04MjkwNjYyMiwyMjM3NzMxNzhd
 fQ==
 -->
