@@ -13,7 +13,7 @@
 
 ## Tarefas diárias
 
-- [ ] Enviar um resumo no skype sobre o progresso da correção de bugs com a seguinte estrutura
+- Enviar um resumo no skype (no período da manhã e no final de tarde) sobre o progresso da correção de bugs com a seguinte estrutura
 ```
 Report 03/01/2023 #1
 24 issues abertas
@@ -29,6 +29,6 @@ Obs: 100% dos testes executados
 - [ ] Conferir [métricas](https://docs.influxdata.com/influxdb/v1.8/guides/hardware_sizing/) do influx para ver o requisito do hardware
 - [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1ODkyNzg3LC04MjkwNjYyMiwyMjM3Nz
-MxNzhdfQ==
+eyJoaXN0b3J5IjpbMTc0MDE2Mzg5NCwtODI5MDY2MjIsMjIzNz
+czMTc4XX0=
 -->
