@@ -26,7 +26,9 @@ dotA    | 14h00 | 17h30 | 3h30
  - [ ] Acrescentar reenvio de mensagem em perda de conexão no script broker dota
 
 ## Afazeres não planejados
+
+- [ ] Ajudar Felippe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAxMzE4MzIsNDQyMzgwNzc3LDk3ND
-k4MDE0NSwtMTMzOTY1NjY3Ml19
+eyJoaXN0b3J5IjpbMTE4MzU2ODI0NywtMTc5MDEzMTgzMiw0ND
+IzODA3NzcsOTc0OTgwMTQ1LC0xMzM5NjU2NjcyXX0=
 -->
