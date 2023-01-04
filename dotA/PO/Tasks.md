@@ -31,8 +31,8 @@
 
 Ao assumir o projeto, os seguintes pontos devem ser executados
 
+- [ ] Entender o que se espera do produto para as próximas semanas, meses (visão do cliente/stakeholder)
 - [ ] Analisar Product Backlog
-
 - [ ] Analisar os custos do AWS
 - [ ] Entender Infra do dota 1 (vou te passar um resumo e o acesso)
 - [ ] Analisar a plataforma do dota 1 (pegar acesso de admin com o Alexandre)
@@ -51,7 +51,7 @@ Report 04/01/2023 #1
 Obs: 100% dos testes executados
 ```
 
-- Após a daily, atualizar planilha para garantir que está existindo progresso
+- Após a daily, atualizar planilha do projeto de acordo com o que foi falado na daily e conferir o progresso das tasks
 - Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
 
 ## TODO
@@ -61,7 +61,7 @@ Obs: 100% dos testes executados
 - [ ] Conferir [métricas](https://docs.influxdata.com/influxdb/v1.8/guides/hardware_sizing/) do influx para ver o requisito do hardware
 - [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTIxMTM2NCwyMDcxNjYxODA3LDExND
+eyJoaXN0b3J5IjpbMTA3MTE5MDEyNSwyMDcxNjYxODA3LDExND
 MxNzgzMzksMTc0MDE2Mzg5NCwtODI5MDY2MjIsMjIzNzczMTc4
 XX0=
 -->
