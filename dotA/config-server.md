@@ -33,8 +33,18 @@
 
 ## Acessar servidor com script 
 
+Deixar script rodando mesmo ao fechar o PuTTY
 
+```bash
+nohup python3 broker-listener.py
+```
+
+Finalizar com o processo
+
+```bash
+kill -9 <serv>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1NzU0MTMwLC0xNTc4NTU2MzQwLC01Nz
-ExODA0NDNdfQ==
+eyJoaXN0b3J5IjpbLTk4Nzg4ODk0Miw3MjU3NTQxMzAsLTE1Nz
+g1NTYzNDAsLTU3MTE4MDQ0M119
 -->
