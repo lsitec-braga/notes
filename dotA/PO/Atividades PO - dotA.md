@@ -44,7 +44,7 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 - Enviar um resumo no skype (no final do expediente) sobre o progresso da correção de bugs com o seguinte template:
 
 ```
-Report 04/01/2023 #2
+Report 05/01/2023
 25 issues abertas
 13 em validação
 11 corrigidas
@@ -55,5 +55,6 @@ Obs: 100% dos testes executados
 - Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA1MTIyNTAsLTQ4NDIwMzk0OV19
+eyJoaXN0b3J5IjpbLTEyOTgyOTMwNjYsLTE4MzA1MTIyNTAsLT
+Q4NDIwMzk0OV19
 -->
