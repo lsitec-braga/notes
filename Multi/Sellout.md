@@ -284,11 +284,18 @@ adb shell am start-foreground-service br.org.lsitec.training.sellout/.service.Ma
 ```bash
 adb shell dumpsys jobscheduler | findstr br.org.training.sellout
 ```
+
+## Algo
+
+```bash
+adb shell am broadcast -a "androidx.work.diagnostics.REQUEST_DIAGNOSTICS" -p br.org.lsitec.training.sellout
+```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTMwNjE3NTE2OSwxNjc3Mjg0
-Nzk3LC0yMTMyNTY0NTMwLDEzNjQ4NzYyMjUsMTMyODI0NDMxOC
-wtNDEyNzM2MDc5LDkwOTIyODIzLC0xMzYwNDcxMjgzLDU4OTM5
-NjUwNSwxMDgxNDg2MTA3LDE1NDUxNzg2MjYsLTEzNjUwMDM4MD
-EsMTE3ODgyODczOCwtNzg4MTk5NzU3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxODMxNzY0NzIxLC0xMzA2MTc1
+MTY5LDE2NzcyODQ3OTcsLTIxMzI1NjQ1MzAsMTM2NDg3NjIyNS
+wxMzI4MjQ0MzE4LC00MTI3MzYwNzksOTA5MjI4MjMsLTEzNjA0
+NzEyODMsNTg5Mzk2NTA1LDEwODE0ODYxMDcsMTU0NTE3ODYyNi
+wtMTM2NTAwMzgwMSwxMTc4ODI4NzM4LC03ODgxOTk3NTddfQ==
+
 -->
