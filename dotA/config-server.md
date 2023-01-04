@@ -44,7 +44,14 @@ Finalizar com o processo
 ```bash
 kill -9 <service_id>
 ```
+
+Observar serviços relacionados ao broker-listener
+
+```bash
+while true: do ps fuxa | grep broker-listener.py | grep -v grep : sleep 10 : echo --------; done
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDgxMjU4NzIsLTUzODU3NTA5NCw3Mj
-U3NTQxMzAsLTE1Nzg1NTYzNDAsLTU3MTE4MDQ0M119
+eyJoaXN0b3J5IjpbNzgwMDEyNzU5LC0xNjQ4MTI1ODcyLC01Mz
+g1NzUwOTQsNzI1NzU0MTMwLC0xNTc4NTU2MzQwLC01NzExODA0
+NDNdfQ==
 -->
