@@ -22,7 +22,10 @@
 
 ### Infra
 
--
+- [AWS](https://sa-east-1.console.aws.amazon.com/console/home?region=sa-east-1#)
+- [Main Database](http://dota-mysql.mobile.lsitec.intranet/phpmyadmin/index.php)
+- [Backup Database](https://dotabkp-mysql.mobile.lsitec.intranet/phpmyadmin/index.php)
+- [Server de ](http://10.0.160.47:18083/#/login?to=/dashboard/overview)
 
 ## Assumindo projeto
 
@@ -57,7 +60,7 @@ Obs: 100% dos testes executados
 - [ ] Conferir [métricas](https://docs.influxdata.com/influxdb/v1.8/guides/hardware_sizing/) do influx para ver o requisito do hardware
 - [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYzNjcxNjIsMjA3MTY2MTgwNywxMT
-QzMTc4MzM5LDE3NDAxNjM4OTQsLTgyOTA2NjIyLDIyMzc3MzE3
-OF19
+eyJoaXN0b3J5IjpbLTEyMjQ5NDI3OSwyMDcxNjYxODA3LDExND
+MxNzgzMzksMTc0MDE2Mzg5NCwtODI5MDY2MjIsMjIzNzczMTc4
+XX0=
 -->
