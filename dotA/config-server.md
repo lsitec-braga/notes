@@ -36,15 +36,15 @@
 Deixar script rodando mesmo ao fechar o PuTTY
 
 ```bash
-nohup python3 broker-listener.py
+nohup python3 scripts/broker-listener.py
 ```
 
 Finalizar com o processo
 
 ```bash
-kill -9 <serv>
+kill -9 <service_id>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Nzg4ODk0Miw3MjU3NTQxMzAsLTE1Nz
+eyJoaXN0b3J5IjpbLTUzODU3NTA5NCw3MjU3NTQxMzAsLTE1Nz
 g1NTYzNDAsLTU3MTE4MDQ0M119
 -->
