@@ -3,7 +3,7 @@
 ## Horas alocadas
 
 Projeto | Inicio | Fim | Total
---------|--------|-----|------
+--------|-------|-------|------
 Sellout | 09h00 | 12h30 | 3h30
 dotA    | 14h00 | 17h30 | 3h30
 
@@ -29,7 +29,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 - [ ] Ajudar Felippe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTIwNjg3NSwxMTgzNTY4MjQ3LC0xNz
-kwMTMxODMyLDQ0MjM4MDc3Nyw5NzQ5ODAxNDUsLTEzMzk2NTY2
-NzJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjE4MTY4MzYsMTE4MzU2ODI0NywtMT
+c5MDEzMTgzMiw0NDIzODA3NzcsOTc0OTgwMTQ1LC0xMzM5NjU2
+NjcyXX0=
 -->
