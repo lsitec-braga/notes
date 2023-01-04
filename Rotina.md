@@ -9,7 +9,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Feito
 
-- [ ] Parar Worker assim que o device for ativado
+- [x] Parar Worker assim que o device for ativado
 - [x] Alterar para o endpoint correto na planilha sellout
 
 - [x] Estudar o product backlog
@@ -25,8 +25,8 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIzOTMyNDgsLTg2NDY4OTk5Miw5OD
-YzNTIyNCwxNzk0NjI2MDEsLTEwNjE4MTY4MzYsMTE4MzU2ODI0
-NywtMTc5MDEzMTgzMiw0NDIzODA3NzcsOTc0OTgwMTQ1LC0xMz
-M5NjU2NjcyXX0=
+eyJoaXN0b3J5IjpbMTUwMjU4ODg1NiwtMTQwMjM5MzI0OCwtOD
+Y0Njg5OTkyLDk4NjM1MjI0LDE3OTQ2MjYwMSwtMTA2MTgxNjgz
+NiwxMTgzNTY4MjQ3LC0xNzkwMTMxODMyLDQ0MjM4MDc3Nyw5Nz
+Q5ODAxNDUsLTEzMzk2NTY2NzJdfQ==
 -->
