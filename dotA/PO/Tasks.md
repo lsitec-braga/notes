@@ -4,7 +4,11 @@
 
 - [Drive Dota Público](https://drive.google.com/drive/folders/1El3wD3XIZfDskHNhqsmA-em18fU2ERw-)
 - [Planilha Dota](https://docs.google.com/spreadsheets/d/1vYYiKfqUQ9IWmB7hvXE9hFXUomil17JVDZPd0AwVaeI/edit#gid=1690275737)
-- [D
+- [Documentação Dota](https://docs.google.com/document/d/1Nxw7SmU_juwZ-bb-b6BexMMARycb0FtNFS4UaKzPIWA/edit#heading=h.rhj9rwtufcy)
+- [Repositório dota-web](https://github.com/lab-de-sistema-integraveis-tecnologico/dota-web)
+- [Repositório dota-aws](https://github.com/lab-de-sistema-integraveis-tecnologico/dota-aws)
+- [Repositório dota-configuration-server](https://github.com/lab-de-sistema-integraveis-tecnologico/dota-configuration-server)
+- [Kanban Dota](https://github.com/orgs/lab-de-sistema-integraveis-tecnologico/projects/7)
 
 ## Assumindo projeto
 
@@ -39,6 +43,6 @@ Obs: 100% dos testes executados
 - [ ] Conferir [métricas](https://docs.influxdata.com/influxdb/v1.8/guides/hardware_sizing/) do influx para ver o requisito do hardware
 - [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjE3NDg4OCwxMTQzMTc4MzM5LDE3ND
+eyJoaXN0b3J5IjpbMjA3MTY2MTgwNywxMTQzMTc4MzM5LDE3ND
 AxNjM4OTQsLTgyOTA2NjIyLDIyMzc3MzE3OF19
 -->
