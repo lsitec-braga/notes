@@ -34,10 +34,11 @@ Ao assumir o projeto, os seguintes pontos devem ser executados
 - [ ] Entender o que se espera do produto para as próximas semanas, meses (visão do cliente/stakeholder)
 - [ ] Analisar Product Backlog
 - [ ] Analisar os custos do AWS
-- [ ] Entender Infra do dota 1 (vou te passar um resumo e o acesso)
 - [ ] Analisar a plataforma do dota 1 (pegar acesso de admin com o Alexandre)
-- [ ] Entender Infra do dota 2 (pedir acesso admin para o Alexandre)
 - [ ] Analisar a plataforma do dota 2
+- [ ] Entender Infra do dota 1 (vou te passar um resumo e o acesso)
+- [ ] Entender Infra do dota 2 (pedir acesso admin para o Alexandre)
+
 
 ## Tarefas diárias
 
@@ -61,7 +62,7 @@ Obs: 100% dos testes executados
 - [ ] Conferir [métricas](https://docs.influxdata.com/influxdb/v1.8/guides/hardware_sizing/) do influx para ver o requisito do hardware
 - [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTE5MDEyNSwyMDcxNjYxODA3LDExND
-MxNzgzMzksMTc0MDE2Mzg5NCwtODI5MDY2MjIsMjIzNzczMTc4
-XX0=
+eyJoaXN0b3J5IjpbNzE4NjY3MTY1LDIwNzE2NjE4MDcsMTE0Mz
+E3ODMzOSwxNzQwMTYzODk0LC04MjkwNjYyMiwyMjM3NzMxNzhd
+fQ==
 -->
