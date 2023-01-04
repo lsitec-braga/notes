@@ -14,7 +14,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 - [x] Estudar o product backlog
 - [x] Continuar estudos sobre as regras de "negócio" dotA
-- [x] Deixar o script do listener-broker executando num
+- [x] Deixar o script do listener-broker executando num servidor 24/7
 
 ## Afazeres planejados
 
@@ -25,7 +25,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDI0MzI1MCw5ODYzNTIyNCwxNzk0Nj
+eyJoaXN0b3J5IjpbLTg2NDY4OTk5Miw5ODYzNTIyNCwxNzk0Nj
 I2MDEsLTEwNjE4MTY4MzYsMTE4MzU2ODI0NywtMTc5MDEzMTgz
 Miw0NDIzODA3NzcsOTc0OTgwMTQ1LC0xMzM5NjU2NjcyXX0=
 -->
