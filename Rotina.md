@@ -28,13 +28,14 @@ dotA    | 14h00 | 17h30 | 3h30
 - [ ] Ativar script listener broker
 - [ ] Testar alterações do Henrique
 - [x] Perguntar pro Ickson sobre o progresso da ferramenta de testes
-- [ ] Fazer call com o Victor para entender a documentação dos testes realizados
+- [x] Fazer call com o Victor para entender a documentação dos testes realizados
 - [ ] Confirmar se o Ickson já implementou tudo que estava acordado e está na parte de bugfix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc3Mzg5OCwxNjcyODAwNDQ3LDEyNj
-I4MDU3MjcsODczMTAyODYyLDE1MDI1ODg4NTYsLTE0MDIzOTMy
-NDgsLTg2NDY4OTk5Miw5ODYzNTIyNCwxNzk0NjI2MDEsLTEwNj
-E4MTY4MzYsMTE4MzU2ODI0NywtMTc5MDEzMTgzMiw0NDIzODA3
-NzcsOTc0OTgwMTQ1LC0xMzM5NjU2NjcyXX0=
+eyJoaXN0b3J5IjpbLTE3MDQ4OTA0ODIsLTExOTc3Mzg5OCwxNj
+cyODAwNDQ3LDEyNjI4MDU3MjcsODczMTAyODYyLDE1MDI1ODg4
+NTYsLTE0MDIzOTMyNDgsLTg2NDY4OTk5Miw5ODYzNTIyNCwxNz
+k0NjI2MDEsLTEwNjE4MTY4MzYsMTE4MzU2ODI0NywtMTc5MDEz
+MTgzMiw0NDIzODA3NzcsOTc0OTgwMTQ1LC0xMzM5NjU2NjcyXX
+0=
 -->
