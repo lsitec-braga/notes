@@ -25,11 +25,14 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Afazeres não planejados
 
+- [ ] Ativar script listener broker
+- [ ] Testar alterações do Henrique
+- [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjgwNTcyNyw4NzMxMDI4NjIsMTUwMj
-U4ODg1NiwtMTQwMjM5MzI0OCwtODY0Njg5OTkyLDk4NjM1MjI0
-LDE3OTQ2MjYwMSwtMTA2MTgxNjgzNiwxMTgzNTY4MjQ3LC0xNz
-kwMTMxODMyLDQ0MjM4MDc3Nyw5NzQ5ODAxNDUsLTEzMzk2NTY2
-NzJdfQ==
+eyJoaXN0b3J5IjpbMTY3MjgwMDQ0NywxMjYyODA1NzI3LDg3Mz
+EwMjg2MiwxNTAyNTg4ODU2LC0xNDAyMzkzMjQ4LC04NjQ2ODk5
+OTIsOTg2MzUyMjQsMTc5NDYyNjAxLC0xMDYxODE2ODM2LDExOD
+M1NjgyNDcsLTE3OTAxMzE4MzIsNDQyMzgwNzc3LDk3NDk4MDE0
+NSwtMTMzOTY1NjY3Ml19
 -->
