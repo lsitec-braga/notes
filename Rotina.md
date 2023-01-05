@@ -9,7 +9,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Retrospectiva
 
-- TÉCNICO NÃO PODE FICAR COMO CARGO DE PO. Motivo: equipe fica com um integrante a menos para executar as tasks
+- TÉCNICO NÃO PODE FICAR COM O CARGO DE PO. Motivo: equipe fica com um integrante a menos para executar as tasks
 
 ## Feito
 
@@ -35,10 +35,10 @@ dotA    | 14h00 | 17h30 | 3h30
 - [ ] Confirmar se o Ickson já implementou tudo que estava acordado e está na parte de bugfix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjYzMzk5NywtMTcwNDg5MDQ4MiwtMT
-E5NzczODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNyw4NzMxMDI4
-NjIsMTUwMjU4ODg1NiwtMTQwMjM5MzI0OCwtODY0Njg5OTkyLD
-k4NjM1MjI0LDE3OTQ2MjYwMSwtMTA2MTgxNjgzNiwxMTgzNTY4
-MjQ3LC0xNzkwMTMxODMyLDQ0MjM4MDc3Nyw5NzQ5ODAxNDUsLT
-EzMzk2NTY2NzJdfQ==
+eyJoaXN0b3J5IjpbMTExMTI4ODIwOSwtMzgyNjMzOTk3LC0xNz
+A0ODkwNDgyLC0xMTk3NzM4OTgsMTY3MjgwMDQ0NywxMjYyODA1
+NzI3LDg3MzEwMjg2MiwxNTAyNTg4ODU2LC0xNDAyMzkzMjQ4LC
+04NjQ2ODk5OTIsOTg2MzUyMjQsMTc5NDYyNjAxLC0xMDYxODE2
+ODM2LDExODM1NjgyNDcsLTE3OTAxMzE4MzIsNDQyMzgwNzc3LD
+k3NDk4MDE0NSwtMTMzOTY1NjY3Ml19
 -->
