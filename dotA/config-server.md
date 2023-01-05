@@ -36,13 +36,13 @@
 Deixar script rodando mesmo ao fechar o PuTTY
 
 ```bash
-nohup python3 scripts/broker-listener.py &
+cd scripts ; nohup python3 broker-listener.py &
 ```
 
 Finalizar com o processo
 
 ```bash
-kill -9 1105293
+kill -9 1105495
 ```
 
 Observar serviços relacionados ao broker-listener
@@ -51,7 +51,8 @@ Observar serviços relacionados ao broker-listener
 while true; do ps fuxa |grep broker-listener.py|grep -v grep ; sleep 10; echo ------------------; done
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MjUzMzk2LDE1MDEwODEwNDAsNzgwMD
-EyNzU5LC0xNjQ4MTI1ODcyLC01Mzg1NzUwOTQsNzI1NzU0MTMw
-LC0xNTc4NTU2MzQwLC01NzExODA0NDNdfQ==
+eyJoaXN0b3J5IjpbLTIxNDU1ODI4OTUsOTQ3MjUzMzk2LDE1MD
+EwODEwNDAsNzgwMDEyNzU5LC0xNjQ4MTI1ODcyLC01Mzg1NzUw
+OTQsNzI1NzU0MTMwLC0xNTc4NTU2MzQwLC01NzExODA0NDNdfQ
+==
 -->
