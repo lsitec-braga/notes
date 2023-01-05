@@ -47,7 +47,7 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 ```
 Report 05/01/2023
 14 issues abertas
-13 em validação
+10 em validação
 23 corrigidas
 Obs: 100% dos testes executados
 ```
@@ -56,7 +56,7 @@ Obs: 100% dos testes executados
 - Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMyMTY0NTgsLTE3NzE2NTMzODQsLT
+eyJoaXN0b3J5IjpbLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLT
 I3NDIwNzI3MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0
 MjAzOTQ5XX0=
 -->
