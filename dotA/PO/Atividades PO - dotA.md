@@ -23,6 +23,7 @@
 ### Infra
 
 - [AWS](https://sa-east-1.console.aws.amazon.com/console/home?region=sa-east-1#)
+- [Monitor AWS](https://sa-east-1.console.aws.amazon.com/cloudwatch/home?region=sa-east-1#dashboards:name=Monitora_Server)
 - [Main Database](http://dota-mysql.mobile.lsitec.intranet/phpmyadmin/index.php)
 - [Backup Database](https://dotabkp-mysql.mobile.lsitec.intranet/phpmyadmin/index.php)
 - [Server de configuração](http://10.0.160.47:18083/#/login?to=/dashboard/overview)
@@ -55,6 +56,6 @@ Obs: 100% dos testes executados
 - Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgyOTMwNjYsLTE4MzA1MTIyNTAsLT
-Q4NDIwMzk0OV19
+eyJoaXN0b3J5IjpbLTI3NDIwNzI3MywtMTI5ODI5MzA2NiwtMT
+gzMDUxMjI1MCwtNDg0MjAzOTQ5XX0=
 -->
