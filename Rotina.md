@@ -20,15 +20,16 @@ dotA    | 14h00 | 17h30 | 3h30
 
 - [ ] Realizar testes finais para ver se o Worker realmente está parando
 
-- [ ] Analisar a plataforma do dota 2
+- [ ] Fazer os testes das issues de bugfix que estão no github
 - [ ] Acrescentar reenvio de mensagem em perda de conexão no script broker dota
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczMTAyODYyLDE1MDI1ODg4NTYsLTE0MD
-IzOTMyNDgsLTg2NDY4OTk5Miw5ODYzNTIyNCwxNzk0NjI2MDEs
-LTEwNjE4MTY4MzYsMTE4MzU2ODI0NywtMTc5MDEzMTgzMiw0ND
-IzODA3NzcsOTc0OTgwMTQ1LC0xMzM5NjU2NjcyXX0=
+eyJoaXN0b3J5IjpbMTI2MjgwNTcyNyw4NzMxMDI4NjIsMTUwMj
+U4ODg1NiwtMTQwMjM5MzI0OCwtODY0Njg5OTkyLDk4NjM1MjI0
+LDE3OTQ2MjYwMSwtMTA2MTgxNjgzNiwxMTgzNTY4MjQ3LC0xNz
+kwMTMxODMyLDQ0MjM4MDc3Nyw5NzQ5ODAxNDUsLTEzMzk2NTY2
+NzJdfQ==
 -->
