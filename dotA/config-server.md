@@ -42,7 +42,7 @@ nohup python3 scripts/broker-listener.py &
 Finalizar com o processo
 
 ```bash
-kill -9 <service_id>
+kill -9 1105293
 ```
 
 Observar serviços relacionados ao broker-listener
@@ -51,7 +51,7 @@ Observar serviços relacionados ao broker-listener
 while true; do ps fuxa |grep broker-listener.py|grep -v grep ; sleep 10; echo ------------------; done
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTA4MTA0MCw3ODAwMTI3NTksLTE2ND
-gxMjU4NzIsLTUzODU3NTA5NCw3MjU3NTQxMzAsLTE1Nzg1NTYz
-NDAsLTU3MTE4MDQ0M119
+eyJoaXN0b3J5IjpbOTQ3MjUzMzk2LDE1MDEwODEwNDAsNzgwMD
+EyNzU5LC0xNjQ4MTI1ODcyLC01Mzg1NzUwOTQsNzI1NzU0MTMw
+LC0xNTc4NTU2MzQwLC01NzExODA0NDNdfQ==
 -->
