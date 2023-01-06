@@ -45,18 +45,20 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 - Enviar um resumo no skype (no final do expediente) sobre o progresso da correção de bugs com o seguinte template:
 
 ```
-Report 05/01/2023
-14 issues abertas
-10 em validação
-23 corrigidas
-Obs: 100% dos testes executados
+Report 06/01/2023
+-----------------
+total de issues abertas: X
+issues abertas: X, sendo Y novas adicionadas hoje
+X issues reabertas
+X em validação
+X em corrigidas
 ```
 
 - Após a daily, atualizar planilha do projeto de acordo com o que foi falado na daily e conferir o progresso das tasks
 - Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLT
-I3NDIwNzI3MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0
-MjAzOTQ5XX0=
+eyJoaXN0b3J5IjpbNjc5MzM5NzE2LC0xMDA2MDU3MDM3LC0xNz
+cxNjUzMzg0LC0yNzQyMDcyNzMsLTEyOTgyOTMwNjYsLTE4MzA1
+MTIyNTAsLTQ4NDIwMzk0OV19
 -->
