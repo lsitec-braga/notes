@@ -77,7 +77,7 @@ X em corrigidas
 - Botão de filtrar por período disponível sem a necessidade de expandir o ponto no painel de controle
 - Tooltip ao deixar o mouse em cima dos botões presentes nos cards dos pontos no painel de controle
 - Manter o mesmo padrão de cores da legenda dos gráficos
-- A
+- O ponto que estiver sem conexão nos últimos dias ao ser expandido, deve apresentar gráficos de seus sensores, mesmo que vazio. Mesmo seTambém deve possibilitar a filtragem de dados por período
 3. Garantir que funcionalidades que funcionavam na plataforma Dota 1 estão funcionando na Dota 2
 4. Auxiliar na avaliação pós teste de estresse sobre a infra.
 
@@ -94,8 +94,8 @@ Funcionalidades referentes no item 2:
 - Download dos dados gerados nos gráficos
 - Perfis de usuários
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDY3MzY1OSw5NTk3MDI4MDEsNDY0NT
-czOTU5LDY3OTMzOTcxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4
-NCwtMjc0MjA3MjczLC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC
-00ODQyMDM5NDldfQ==
+eyJoaXN0b3J5IjpbLTE4MjYzOTA1ODEsOTU5NzAyODAxLDQ2ND
+U3Mzk1OSw2NzkzMzk3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMz
+ODQsLTI3NDIwNzI3MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MC
+wtNDg0MjAzOTQ5XX0=
 -->
