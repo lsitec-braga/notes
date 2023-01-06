@@ -57,8 +57,20 @@ X em corrigidas
 - Após a daily, atualizar planilha do projeto de acordo com o que foi falado na daily e conferir o progresso das tasks
 - Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
 
+## Pontos de teste
+
+- [ ] Painel de controle
+- [ ] Ativar alarmes
+- [ ] Tratar alarmes
+- [ ] gráficos, (ontem a gente viu que só tinha pontos no gráfico, sem linhas)
+- [ ] gráfico de porta,
+- [ ] filtros de estado junto como os filtros de empresa (pelo que eu vi tem problemas nesses filtros)
+- [ ] ver se os sensores estão aparecendo corretamente,
+- [ ] histórico de alarmes,
+- [ ] ver se o card novo apresenta corretamente múltiplos alarmes (temperatura, porta, tensão e pânico ao mesmo tempo)
+- [ ] Consulta de informações adicionais da tratativa de alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5MzM5NzE2LC0xMDA2MDU3MDM3LC0xNz
-cxNjUzMzg0LC0yNzQyMDcyNzMsLTEyOTgyOTMwNjYsLTE4MzA1
-MTIyNTAsLTQ4NDIwMzk0OV19
+eyJoaXN0b3J5IjpbNDY0NTczOTU5LDY3OTMzOTcxNiwtMTAwNj
+A1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3MjczLC0xMjk4Mjkz
+MDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ==
 -->
