@@ -15,10 +15,9 @@ dotA    | 14h00 | 17h30 | 3h30
 
 - [x] Realizar testes finais para ver se o Worker realmente está parando
 
-- [x] Testar alterações do Henrique sobre o listener broker
-- [x] Call com o Victor para entender a documentação dos testes realizados
-- [x] Validar bugs reportados pelo Welington no github
-- [x] Report de alguns bugs encontrados durante os testes
+- [x] Call com o Alexandre para resolver questões de bu
+- [x] Call com o Ickson para alinhar tarefas restantes a serem executadas
+- [x] 
 
 ## Afazeres planejados
 
@@ -30,11 +29,11 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODMwMDcwNiwtMjU5MTc0MjkzLC05ND
-UyNjI2MTEsMTQzMjgyMjU3MCwtMTQzOTczMzg5MiwxNTg4MDI5
-MjIwLC0zODI2MzM5OTcsLTE3MDQ4OTA0ODIsLTExOTc3Mzg5OC
-wxNjcyODAwNDQ3LDEyNjI4MDU3MjcsODczMTAyODYyLDE1MDI1
-ODg4NTYsLTE0MDIzOTMyNDgsLTg2NDY4OTk5Miw5ODYzNTIyNC
-wxNzk0NjI2MDEsLTEwNjE4MTY4MzYsMTE4MzU2ODI0NywtMTc5
-MDEzMTgzMl19
+eyJoaXN0b3J5IjpbLTQzNzI4NDE3MywtNjU4MzAwNzA2LC0yNT
+kxNzQyOTMsLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMz
+ODkyLDE1ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5MDQ4Mi
+wtMTE5NzczODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNyw4NzMx
+MDI4NjIsMTUwMjU4ODg1NiwtMTQwMjM5MzI0OCwtODY0Njg5OT
+kyLDk4NjM1MjI0LDE3OTQ2MjYwMSwtMTA2MTgxNjgzNiwxMTgz
+NTY4MjQ3XX0=
 -->
