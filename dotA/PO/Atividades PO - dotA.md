@@ -74,10 +74,10 @@ X em corrigidas
 
 1. Resolver issues que foram/estão sendo reportadas no github (As novas issues criadas são referentes à bugs encontrados no sistema, performance e funcionalidades que não estão tendo o comportamento esperado de acordo com o documento de requisitos)
 2. Ajustes simples para melhorar a qualidade de vida do sistema
-- Botão de filtrar por período disponível sem a necessidade de expandir o ponto no painel de controle
-- Tooltip ao deixar o mouse em cima dos botões presentes nos cards dos pontos no painel de controle
-- Manter o mesmo padrão de cores da legenda dos gráficos
-- O ponto que estiver sem conexão nos últimos dias ao ser expandido, deve apresentar gráficos de seus sensores, mesmo que vazio. Mesmo que o ponto esteja sem conexão nos últimos dias, deve ser possível a filtragem de dados por período
+	2.1. Botão de filtrar por período disponível sem a necessidade de expandir o ponto no painel de controle
+	2.2. Tooltip ao deixar o mouse em cima dos botões presentes nos cards dos pontos no painel de controle
+	2.3. Manter o mesmo padrão de cores da legenda dos gráficos
+	2.4. O ponto que estiver sem conexão nos últimos dias ao ser expandido, deve apresentar gráficos de seus sensores, mesmo que vazio. Mesmo que o ponto esteja sem conexão nos últimos dias, deve ser possível a filtragem de dados por período
 3. Garantir que funcionalidades que funcionavam na plataforma Dota 1 estão funcionando na Dota 2
 4. Auxiliar na avaliação pós teste de estresse sobre a infra.
 
@@ -94,7 +94,7 @@ Funcionalidades referentes no item 4:
 - Download dos dados gerados nos gráficos
 - Perfis de usuários
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTk1NTg0LDk1OTcwMjgwMSw0NjQ1Nz
+eyJoaXN0b3J5IjpbMjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1Nz
 M5NTksNjc5MzM5NzE2LC0xMDA2MDU3MDM3LC0xNzcxNjUzMzg0
 LC0yNzQyMDcyNzMsLTEyOTgyOTMwNjYsLTE4MzA1MTIyNTAsLT
 Q4NDIwMzk0OV19
