@@ -23,7 +23,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Afazeres planejados
 
--
+- [ ] Testar se worker é cancelado em todos os casos de ativação (Worker atingiu o limite de execuções, localização foi permitida, localização
 
 - [ ] Seguir com os testes na plataforma dota2, validando se os requisitos estão sendo atendidos
 
@@ -32,7 +32,7 @@ dotA    | 14h00 | 17h30 | 3h30
 - [ ] Confirmar se o Ickson já implementou tudo que estava acordado e está na parte de bugfix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDAyMjk5MiwxNDMyODIyNTcwLC0xND
+eyJoaXN0b3J5IjpbLTE2NjQ4MzExNywxNDMyODIyNTcwLC0xND
 M5NzMzODkyLDE1ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5
 MDQ4MiwtMTE5NzczODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNy
 w4NzMxMDI4NjIsMTUwMjU4ODg1NiwtMTQwMjM5MzI0OCwtODY0
