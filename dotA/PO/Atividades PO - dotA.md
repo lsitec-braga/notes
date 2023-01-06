@@ -74,7 +74,10 @@ X em corrigidas
 
 1. Resolver issues que foram/estão sendo reportadas no github (As novas issues criadas são referentes à bugs encontrados no sistema, performance e funcionalidades que não estão tendo o comportamento esperado de acordo com o documento de requisitos)
 2. Pequenas melhorias de qualidade de vida do sistema
-- botão de filtrar por período aparec
+- botão de filtrar por período disponível sem a necessidade de expandir o ponto no painel de controle
+- tooltip ao deixar o mouse em cima dos botões presentes nos cards dos pontos no painel de controle
+- manter o mesmo padrão de cores da legenda dos gráficos
+- 
 3. Auxiliar na avaliação pós teste de estresse sobre a infra.
 4. Garantir que funcionalidades que funcionavam na plataforma Dota 1 estão funcionando na Dota 2
 
@@ -91,8 +94,8 @@ Funcionalidades referentes no item 2:
 - Download dos dados gerados nos gráficos
 - Perfis de usuários
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYxMjI4ODgsOTU5NzAyODAxLDQ2ND
-U3Mzk1OSw2NzkzMzk3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMz
-ODQsLTI3NDIwNzI3MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MC
-wtNDg0MjAzOTQ5XX0=
+eyJoaXN0b3J5IjpbLTc1MzEzNzM2OCw5NTk3MDI4MDEsNDY0NT
+czOTU5LDY3OTMzOTcxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4
+NCwtMjc0MjA3MjczLC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC
+00ODQyMDM5NDldfQ==
 -->
