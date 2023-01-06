@@ -69,8 +69,27 @@ X em corrigidas
 - [ ] histórico de alarmes,
 - [ ] ver se o card novo apresenta corretamente múltiplos alarmes (temperatura, porta, tensão e pânico ao mesmo tempo)
 - [ ] Consulta de informações adicionais da tratativa de alarme
+
+## Acordo com o Ickson
+
+1. Resolver issues que foram/estão sendo reportadas no github (As novas issues criadas são referentes à bugs encontrados no sistema, performance e funcionalidades que não estão tendo o comportamento esperado de acordo com o documento de requisitos)
+2. Garantir que funcionalidades que funcionavam na plataforma Dota 1 estão funcionando na Dota 2
+
+Funcionalidades referentes no item 2:
+- Conexão com os dotAs
+- Painel de controle
+- Gerenciamento e conexão com os pontos
+- Filtragem de pontos
+- Gerenciamento de empresas
+- Ativação e tratamento de alarmes
+- Geração dos gráficos dentro do painel de controle
+- Filtragem dos dados dentro dos gráficos que serão gerados
+- Visualização dos gráficos de todos os sensores (temperatura, porta, tensão, pânico)
+- Download dos dados gerados nos gráficos
+- Perfis de usuários
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NTczOTU5LDY3OTMzOTcxNiwtMTAwNj
-A1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3MjczLC0xMjk4Mjkz
-MDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ==
+eyJoaXN0b3J5IjpbOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMz
+k3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3
+MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0MjAzOTQ5XX
+0=
 -->
