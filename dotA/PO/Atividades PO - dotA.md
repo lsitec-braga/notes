@@ -73,13 +73,13 @@ X em corrigidas
 ## Acordo com o Ickson
 
 1. Resolver issues que foram/estão sendo reportadas no github (As novas issues criadas são referentes à bugs encontrados no sistema, performance e funcionalidades que não estão tendo o comportamento esperado de acordo com o documento de requisitos)
-2. Pequenas melhorias de qualidade de vida do sistema
-- botão de filtrar por período disponível sem a necessidade de expandir o ponto no painel de controle
-- tooltip ao deixar o mouse em cima dos botões presentes nos cards dos pontos no painel de controle
-- manter o mesmo padrão de cores da legenda dos gráficos
-- 
-3. Auxiliar na avaliação pós teste de estresse sobre a infra.
-4. Garantir que funcionalidades que funcionavam na plataforma Dota 1 estão funcionando na Dota 2
+2. Ajustes simples para melhorar a qualidade de vida do sistema
+- Botão de filtrar por período disponível sem a necessidade de expandir o ponto no painel de controle
+- Tooltip ao deixar o mouse em cima dos botões presentes nos cards dos pontos no painel de controle
+- Manter o mesmo padrão de cores da legenda dos gráficos
+- A
+3. Garantir que funcionalidades que funcionavam na plataforma Dota 1 estão funcionando na Dota 2
+4. Auxiliar na avaliação pós teste de estresse sobre a infra.
 
 Funcionalidades referentes no item 2:
 - Conexão com os dotAs
@@ -94,7 +94,7 @@ Funcionalidades referentes no item 2:
 - Download dos dados gerados nos gráficos
 - Perfis de usuários
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzEzNzM2OCw5NTk3MDI4MDEsNDY0NT
+eyJoaXN0b3J5IjpbMTY1NDY3MzY1OSw5NTk3MDI4MDEsNDY0NT
 czOTU5LDY3OTMzOTcxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4
 NCwtMjc0MjA3MjczLC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC
 00ODQyMDM5NDldfQ==
