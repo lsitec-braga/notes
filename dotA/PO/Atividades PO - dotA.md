@@ -54,6 +54,15 @@ X em validação
 X em corrigidas
 ```
 
+- Enviar um resumo das atividades restantes para o Ickson
+
+```
+segue a lista resumida das atividades pendentes:
+- Corrigir Bugs: #38, #43, #57, #58, #59
+- Fazer itens de qualidade de vida: #61, #62, #63
+- Auxiliar na avaliação pós teste de estresse sobre a infra. 
+```
+
 - Após a daily, atualizar planilha do projeto de acordo com o que foi falado na daily e conferir o progresso das tasks
 - Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
 
@@ -97,8 +106,8 @@ Funcionalidades referentes no item 3:
 - Download dos dados gerados nos gráficos
 - Perfis de usuários
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMTE3MzUsMjQyMDA5MzgwLDk1OTcwMj
-gwMSw0NjQ1NzM5NTksNjc5MzM5NzE2LC0xMDA2MDU3MDM3LC0x
-NzcxNjUzMzg0LC0yNzQyMDcyNzMsLTEyOTgyOTMwNjYsLTE4Mz
-A1MTIyNTAsLTQ4NDIwMzk0OV19
+eyJoaXN0b3J5IjpbLTM3MDQ4MjI4OCw1ODMxMTczNSwyNDIwMD
+kzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMzk3MTYsLTEw
+MDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3MywtMTI5OD
+I5MzA2NiwtMTgzMDUxMjI1MCwtNDg0MjAzOTQ5XX0=
 -->
