@@ -15,7 +15,6 @@ dotA    | 14h00 | 17h30 | 3h30
 
 - [x] Realizar testes finais para ver se o Worker realmente está parando
 
-- [x] Ativar script listener broker no server
 - [x] Testar alterações do Henrique sobre o listener broker
 - [x] Call com o Victor para entender a documentação dos testes realizados
 - [x] Validar bugs reportados pelo Welington no github
@@ -32,11 +31,11 @@ dotA    | 14h00 | 17h30 | 3h30
 - [ ] Confirmar se o Ickson já implementou tudo que estava acordado e está na parte de bugfix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xND
-M5NzMzODkyLDE1ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5
-MDQ4MiwtMTE5NzczODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNy
-w4NzMxMDI4NjIsMTUwMjU4ODg1NiwtMTQwMjM5MzI0OCwtODY0
-Njg5OTkyLDk4NjM1MjI0LDE3OTQ2MjYwMSwtMTA2MTgxNjgzNi
-wxMTgzNTY4MjQ3LC0xNzkwMTMxODMyLDQ0MjM4MDc3Nyw5NzQ5
-ODAxNDVdfQ==
+eyJoaXN0b3J5IjpbLTI1OTE3NDI5MywtOTQ1MjYyNjExLDE0Mz
+I4MjI1NzAsLTE0Mzk3MzM4OTIsMTU4ODAyOTIyMCwtMzgyNjMz
+OTk3LC0xNzA0ODkwNDgyLC0xMTk3NzM4OTgsMTY3MjgwMDQ0Ny
+wxMjYyODA1NzI3LDg3MzEwMjg2MiwxNTAyNTg4ODU2LC0xNDAy
+MzkzMjQ4LC04NjQ2ODk5OTIsOTg2MzUyMjQsMTc5NDYyNjAxLC
+0xMDYxODE2ODM2LDExODM1NjgyNDcsLTE3OTAxMzE4MzIsNDQy
+MzgwNzc3XX0=
 -->
