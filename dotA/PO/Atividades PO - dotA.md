@@ -125,8 +125,12 @@ Ickson, seguem as atividades para conclusão:
 ### Objetivos
 
 - Encontrar a quantidade limite de dotas simultâneas que o sistema aguenta
-- O teste será iniciado com 500 dotas simultâneos, ficando assim, 100 dotas para cada tester
+- Definir se a infraestrutura atual é o su
 
+### Procedimento do teste
+
+- O teste será iniciado com 500 dotas simultâneos, ficando assim, 100 dotas para cada tester
+	- Se o sistema suportar 500 dotas, dobrar a quantia
 
 ### Papéis
 
@@ -137,9 +141,10 @@ Ickson, seguem as atividades para conclusão:
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3NDAxNDg3LC0yMDQzNDEwMzczLDM1Nj
-YzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUs
-MjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5Nz
-E2LC0xMDA2MDU3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcyNzMs
-LTEyOTgyOTMwNjYsLTE4MzA1MTIyNTAsLTQ4NDIwMzk0OV19
+eyJoaXN0b3J5IjpbMTQ5MDY5MzQwMCwtMjA0MzQxMDM3MywzNT
+Y2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4MzExNzM1
+LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3OTMzOT
+cxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3Mjcz
+LC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ
+==
 -->
