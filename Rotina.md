@@ -15,7 +15,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 - [x] Testar se worker é cancelado em todos os casos de ativação (Worker atingiu o limite de execuções, localização foi permitida, localização não foi permitida)
 - [x] Review da PR de update na UI
-- [x] OBS: o device é ativado novamente ao trocar o tema do dispositivo na tela em que o device mostra que deu certo a ativação e mostra a localiza
+- [x] OBS: o device é ativado novamente ao trocar o tema do dispositivo na tela em que o device mostra que deu certo a ativação e mostra a localização
 
 - [x] Call com o Alexandre para resolver questões de bugs encontrados no sistema
 - [x] Call com o Ickson para alinhar tarefas restantes a serem executadas
@@ -32,7 +32,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY2NjU2NDAsLTE0OTAxMDA4ODEsMT
+eyJoaXN0b3J5IjpbLTE3ODE4MjgyMzcsLTE0OTAxMDA4ODEsMT
 E3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOTMsLTk0NTI2
 MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMzODkyLDE1ODgwMjkyMj
 AsLTM4MjYzMzk5NywtMTcwNDg5MDQ4MiwtMTE5NzczODk4LDE2
