@@ -122,20 +122,24 @@ Ickson, seguem as atividades para conclusão:
 
 ## Plano teste de estresse
 
+### Objetivos
 
-### Responsabilidades
+- Encontrar a quantidade limite de dotas simultâneas que o sistema aguenta
+- O teste será iniciado com 500 dotas simultâneos, ficando assim, 100 dotas para cada tester
+
+
+### Papéis
 
 - Responsável pelo script de estresse: Ickson
-- Responsável por adaptar o script: Diego, Victor e Henrique
+- Responsável por adaptar o script de estresse: Diego, Victor e Henrique
 - Responsáveis por estressar o sistema: Alexandre, Diego, Victor, Henrique e Welington
 - Responsáveis por monitorar o sistema: Jefferson 
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ1MDM3NjEsLTIwNDM0MTAzNzMsMz
-U2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTcz
-NSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMz
-k3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3
-MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0MjAzOTQ5XX
-0=
+eyJoaXN0b3J5IjpbNDE3NDAxNDg3LC0yMDQzNDEwMzczLDM1Nj
+YzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUs
+MjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5Nz
+E2LC0xMDA2MDU3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcyNzMs
+LTEyOTgyOTMwNjYsLTE4MzA1MTIyNTAsLTQ4NDIwMzk0OV19
 -->
