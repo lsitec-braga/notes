@@ -125,16 +125,16 @@ Ickson, seguem as atividades para conclusão:
 ### Objetivos
 
 - Encontrar a quantidade limite de dotas simultâneas que o sistema aguenta
-- Definir se a infraestrutura atual é o suficiente para suportar o sistema
+- Definir se a infraestrutura atual é o suficiente para suportar o sistema como um todo
 
 ### Procedimento do teste
 
 1. O teste será iniciado com 500 dotas simultâneos, ficando assim, 100 dotas para cada tester
-2. Se o sistema suportar a quantidade testada, vamos aumentar em 50% sua quantidade para averiguar se segue suportando
-3. Se o sistema não suportar a quantidade testada, vamos reduzir em 50% da sua quantidade e ver se o valor reduzido suporta
+2. Se o sistema suportar a quantidade testada, vamos aumentar em 50% de sua quantidade para averiguar se segue suportando
+3. Se o sistema não suportar a quantidade testada, vamos reduzir em 50% de sua quantidade e ver se o valor reduzido suporta
 4. Seguir os passos 2 e 3 até chegar próximo do valor limite que define se o sistema vai continuar funcionando ou não
 
-Obs.: Por ser um teste de e
+Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos custos da AWS, portanto, devemos definir um limite de X% para que não ocorra cobrança adicional.
 
 ### Papéis
 
@@ -145,9 +145,10 @@ Obs.: Por ser um teste de e
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MzMwNDE4LC0yMDQzNDEwMzczLDM1Nj
-YzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUs
-MjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5Nz
-E2LC0xMDA2MDU3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcyNzMs
-LTEyOTgyOTMwNjYsLTE4MzA1MTIyNTAsLTQ4NDIwMzk0OV19
+eyJoaXN0b3J5IjpbLTE1MjQ1MTQxMjksLTIwNDM0MTAzNzMsMz
+U2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTcz
+NSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMz
+k3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3
+MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0MjAzOTQ5XX
+0=
 -->
