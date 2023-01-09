@@ -58,7 +58,7 @@ Abertas: 19, sendo 6 novas adicionadas hoje e 2 reabertas hoje
 
 ```
 segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #38, #43, #57, #58, #59
+- Corrigir Bugs: #30, #31, #40, #57, #59, 
 - Fazer itens de qualidade de vida: #61, #62, #63
 - Migrar processamento do influxDB para AWS lambda
 - 
@@ -147,11 +147,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTA5NDAwMCwxODA4NzIxNDI0LC0xMj
-gxMjMwODc0LDE3MTc0MjAyMSw1MjM4ODc3OTQsMTQ5MTUwNTU2
-NSwtMjA0MzQxMDM3MywzNTY2Mzc2MzEsLTY2NTk1NTg0MCwtMz
-cwNDgyMjg4LDU4MzExNzM1LDI0MjAwOTM4MCw5NTk3MDI4MDEs
-NDY0NTczOTU5LDY3OTMzOTcxNiwtMTAwNjA1NzAzNywtMTc3MT
-Y1MzM4NCwtMjc0MjA3MjczLC0xMjk4MjkzMDY2LC0xODMwNTEy
-MjUwXX0=
+eyJoaXN0b3J5IjpbMTI5OTYxNzU2MCwxOTc5MDk0MDAwLDE4MD
+g3MjE0MjQsLTEyODEyMzA4NzQsMTcxNzQyMDIxLDUyMzg4Nzc5
+NCwxNDkxNTA1NTY1LC0yMDQzNDEwMzczLDM1NjYzNzYzMSwtNj
+Y1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUsMjQyMDA5Mzgw
+LDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5NzE2LC0xMDA2MD
+U3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcyNzMsLTEyOTgyOTMw
+NjZdfQ==
 -->
