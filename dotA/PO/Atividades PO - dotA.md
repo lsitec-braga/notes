@@ -45,10 +45,10 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 - Enviar um resumo no skype (no final do expediente) sobre o progresso da correção de bugs com o seguinte template:
 
 ```
-Report 06/01/2023
------------------ 
-TOTAL DE ISSUES: 47  
-Fechadas: 30  
+Report 09/01/2023
+-----------------
+TOTAL DE ISSUES: 47
+Fechadas: 30
 Abertas: 17, sendo 4 novas adicionadas hoje e 3 reabertas hoje
 > Em validação: 8
 > Em desenvolvimento: 9
@@ -147,11 +147,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDQ0NDA3NCwxMTYzMTE3NjA1LDE5Nz
-kwOTQwMDAsMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIw
-MjEsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIwNDM0MTAzNzMsMz
-U2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTcz
-NSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMz
-k3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3
-M119
+eyJoaXN0b3J5IjpbLTEyOTUwMjgyOTcsMTE2MzExNzYwNSwxOT
+c5MDk0MDAwLDE4MDg3MjE0MjQsLTEyODEyMzA4NzQsMTcxNzQy
+MDIxLDUyMzg4Nzc5NCwxNDkxNTA1NTY1LC0yMDQzNDEwMzczLD
+M1NjYzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3
+MzUsMjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5Mz
+M5NzE2LC0xMDA2MDU3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcy
+NzNdfQ==
 -->
