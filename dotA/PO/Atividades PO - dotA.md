@@ -46,22 +46,12 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 
 ```
 Report 06/01/2023
------------------
-Total de issues abertas: X
-Issues abertas: 19, sendo 6 novas adicionadas hoje
-2 issues reabertas
-10 issues em validação
-X issues corrigidas
-```
-
-```
-Report 06/01/2023
------------------
-Total de issues relacionadas a bugfix: 43
-Issues fechadas: 24
-Issues ainda abertas: 19, sendo 6 novas adicionadas e 2 reabertas hoje
-10 issues em validação
-9 issues em desenvolvimento
+----------------- 
+TOTAL DE ISSUES: 43  
+Fechadas: 24  
+Abertas: 19, sendo 6 novas adicionadas hoje e 2 reabertas hoje  
+> Em validação: 10  
+> Em desenvolvimento: 9
 ```
 
 - Enviar um resumo das atividades restantes para o Ickson
@@ -116,9 +106,9 @@ Funcionalidades referentes no item 3:
 - Download dos dados gerados nos gráficos
 - Perfis de usuários
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NjM3NjMxLC02NjU5NTU4NDAsLTM3MD
-Q4MjI4OCw1ODMxMTczNSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2
-NDU3Mzk1OSw2NzkzMzk3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NT
-MzODQsLTI3NDIwNzI3MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1
-MCwtNDg0MjAzOTQ5XX0=
+eyJoaXN0b3J5IjpbLTIwNDM0MTAzNzMsMzU2NjM3NjMxLC02Nj
+U5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTczNSwyNDIwMDkzODAs
+OTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMzk3MTYsLTEwMDYwNT
+cwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3MywtMTI5ODI5MzA2
+NiwtMTgzMDUxMjI1MCwtNDg0MjAzOTQ5XX0=
 -->
