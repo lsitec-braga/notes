@@ -120,17 +120,17 @@ Ickson, seguem as atividades para conclusão:
 23/01 - Preparação para a Review
 24/01 - Review dotA2 - Sprint3
 
-## Plano teste de estresse
+## Teste de estresse
 
 ### Objetivos
 
 - Encontrar a quantidade limite de dotas simultâneas que o sistema aguenta
-- Definir se a infraestrutura atual é o su
+- Definir se a infraestrutura atual é o suficiente para suportar o sistema
 
 ### Procedimento do teste
 
-- O teste será iniciado com 500 dotas simultâneos, ficando assim, 100 dotas para cada tester
-	- Se o sistema suportar 500 dotas, dobrar a quantia
+1. O teste será iniciado com 500 dotas simultâneos, ficando assim, 100 dotas para cada tester
+2. Quando o sistema suportar a quantidade testada, 
 
 ### Papéis
 
@@ -141,7 +141,7 @@ Ickson, seguem as atividades para conclusão:
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDY5MzQwMCwtMjA0MzQxMDM3MywzNT
+eyJoaXN0b3J5IjpbLTk2Njk0NzY5NCwtMjA0MzQxMDM3MywzNT
 Y2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4MzExNzM1
 LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3OTMzOT
 cxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3Mjcz
