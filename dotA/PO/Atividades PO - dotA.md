@@ -85,15 +85,15 @@ Garantir que as seguintes funcionalidades funcionem no Dota 2 por funcionarem no
 
 - [ ] Conexão com os dotAs
 - [ ] Painel de controle
-- Gerenciamento e conexão com os pontos
-- Filtragem de pontos
-- Gerenciamento de empresas
-- Ativação e tratamento de alarmes
-- Geração dos gráficos dentro do painel de controle
-- Filtragem dos dados dentro dos gráficos que serão gerados
-- Visualização dos gráficos de todos os sensores (temperatura, porta, tensão, pânico)
-- Download dos dados gerados nos gráficos
-- Perfis de usuários
+- [ ] Gerenciamento e conexão com os pontos
+- [ ] Filtragem de pontos
+- [ ] Gerenciamento de empresas
+- [ ] Ativação e tratamento de alarmes
+- [ ] Geração dos gráficos dentro do painel de controle
+- [ ] Filtragem dos dados dentro dos gráficos que serão gerados
+- [ ] Visualização dos gráficos de todos os sensores (temperatura, porta, tensão, pânico)
+- [ ] Download dos dados gerados nos gráficos
+- [ ] Perfis de usuários
 
 ## Acordo com o Ickson
 
@@ -124,10 +124,10 @@ Ickson, seguem as atividades para conclusão:
 
 - alocar a maioria dos membros da equipe para 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc5MjQxMDEsLTIwNDM0MTAzNzMsMz
-U2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTcz
-NSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMz
-k3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3
-MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0MjAzOTQ5XX
-0=
+eyJoaXN0b3J5IjpbMTg5NDUwNzMxNSwtMjA0MzQxMDM3MywzNT
+Y2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4MzExNzM1
+LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3OTMzOT
+cxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3Mjcz
+LC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ
+==
 -->
