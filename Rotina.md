@@ -14,6 +14,7 @@ dotA    | 14h00 | 17h30 | 3h30
 ## Feito
 
 - [x] Testar se worker é cancelado em todos os casos de ativação (Worker atingiu o limite de execuções, localização foi permitida, localização não foi permitida)
+- [x] Review d
 
 - [x] Call com o Alexandre para resolver questões de bugs encontrados no sistema
 - [x] Call com o Ickson para alinhar tarefas restantes a serem executadas
@@ -30,11 +31,11 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAxMDA4ODEsMTE3NTQ0NzkxMiwtNj
-U4MzAwNzA2LC0yNTkxNzQyOTMsLTk0NTI2MjYxMSwxNDMyODIy
-NTcwLC0xNDM5NzMzODkyLDE1ODgwMjkyMjAsLTM4MjYzMzk5Ny
-wtMTcwNDg5MDQ4MiwtMTE5NzczODk4LDE2NzI4MDA0NDcsMTI2
-MjgwNTcyNyw4NzMxMDI4NjIsMTUwMjU4ODg1NiwtMTQwMjM5Mz
-I0OCwtODY0Njg5OTkyLDk4NjM1MjI0LDE3OTQ2MjYwMSwtMTA2
-MTgxNjgzNl19
+eyJoaXN0b3J5IjpbMTI4Njc0OTI5NiwtMTQ5MDEwMDg4MSwxMT
+c1NDQ3OTEyLC02NTgzMDA3MDYsLTI1OTE3NDI5MywtOTQ1MjYy
+NjExLDE0MzI4MjI1NzAsLTE0Mzk3MzM4OTIsMTU4ODAyOTIyMC
+wtMzgyNjMzOTk3LC0xNzA0ODkwNDgyLC0xMTk3NzM4OTgsMTY3
+MjgwMDQ0NywxMjYyODA1NzI3LDg3MzEwMjg2MiwxNTAyNTg4OD
+U2LC0xNDAyMzkzMjQ4LC04NjQ2ODk5OTIsOTg2MzUyMjQsMTc5
+NDYyNjAxXX0=
 -->
