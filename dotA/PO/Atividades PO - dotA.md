@@ -34,8 +34,8 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 
 - [ ] Entender o que se espera do produto para as próximas semanas, meses (visão do cliente/stakeholder)
 - [x] Analisar Product Backlog
-- [ ] Analisar os custos do AWS
-- [ ] Analisar a plataforma do dota 1 (pegar acesso de admin com o Alexandre)
+- [x] Analisar os custos do AWS
+- [x] Analisar a plataforma do dota 1 (pegar acesso de admin com o Alexandre)
 - [ ] Analisar a plataforma do dota 2
 - [ ] Entender Infra do dota 1 (vou te passar um resumo e o acesso)
 - [ ] Entender Infra do dota 2 (pedir acesso admin para o Alexandre)
@@ -79,6 +79,22 @@ segue a lista resumida das atividades pendentes:
 - [ ] ver se o card novo apresenta corretamente múltiplos alarmes (temperatura, porta, tensão e pânico ao mesmo tempo)
 - [ ] Consulta de informações adicionais da tratativa de alarme
 
+## Funcionalidades Dota1 = Dota2
+
+Garantir que as seguintes funcionalidades funcionem no Dota 2 por funcionarem no Dota 1:
+
+- [ ] Conexão com os dotAs
+- [ ] Painel de controle
+- Gerenciamento e conexão com os pontos
+- Filtragem de pontos
+- Gerenciamento de empresas
+- Ativação e tratamento de alarmes
+- Geração dos gráficos dentro do painel de controle
+- Filtragem dos dados dentro dos gráficos que serão gerados
+- Visualização dos gráficos de todos os sensores (temperatura, porta, tensão, pânico)
+- Download dos dados gerados nos gráficos
+- Perfis de usuários
+
 ## Acordo com o Ickson
 
 Ickson, seguem as atividades para conclusão:
@@ -108,10 +124,10 @@ Ickson, seguem as atividades para conclusão:
 
 - alocar a maioria dos membros da equipe para 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTI3MDYwMSwtMjA0MzQxMDM3MywzNT
-Y2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4MzExNzM1
-LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3OTMzOT
-cxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3Mjcz
-LC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ
-==
+eyJoaXN0b3J5IjpbLTEzMzc5MjQxMDEsLTIwNDM0MTAzNzMsMz
+U2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTcz
+NSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMz
+k3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3
+MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0MjAzOTQ5XX
+0=
 -->
