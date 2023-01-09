@@ -131,7 +131,10 @@ Ickson, seguem as atividades para conclusão:
 
 1. O teste será iniciado com 500 dotas simultâneos, ficando assim, 100 dotas para cada tester
 2. Se o sistema suportar a quantidade testada, vamos aumentar em 50% sua quantidade para averiguar se segue suportando
-3. Se o sistema não suportar a quantidade testada, vamos reduzir e
+3. Se o sistema não suportar a quantidade testada, vamos reduzir em 50% da sua quantidade e ver se o valor reduzido suporta
+4. Seguir os passos 2 e 3 até chegar próximo do valor limite que define se o sistema vai continuar funcionando ou não
+
+Obs.: Por ser um teste de e
 
 ### Papéis
 
@@ -142,7 +145,7 @@ Ickson, seguem as atividades para conclusão:
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1ODE4MTExLC0yMDQzNDEwMzczLDM1Nj
+eyJoaXN0b3J5IjpbODY4MzMwNDE4LC0yMDQzNDEwMzczLDM1Nj
 YzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUs
 MjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5Nz
 E2LC0xMDA2MDU3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcyNzMs
