@@ -57,11 +57,11 @@ Abertas: 19, sendo 6 novas adicionadas hoje e 2 reabertas hoje
 - Enviar um resumo das atividades restantes para o Ickson
 
 ```
-segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #30, #31, #40, #57, #59, 
-- Fazer itens de qualidade de vida: #61, #62, #63
+, segue a lista resumida das atividades pendentes:
+- Corrigir Bugs: #30, #31, #40, #57, #59, #64, #65, #67
+- Fazer itens de qualidade de vida: #66
 - Migrar processamento do influxDB para AWS lambda
-- 
+- Fazer script para o teste de estresse
 - Auxiliar na avaliação pós teste de estresse sobre a infra. 
 ```
 
@@ -147,7 +147,7 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTYxNzU2MCwxOTc5MDk0MDAwLDE4MD
+eyJoaXN0b3J5IjpbMTE2MzExNzYwNSwxOTc5MDk0MDAwLDE4MD
 g3MjE0MjQsLTEyODEyMzA4NzQsMTcxNzQyMDIxLDUyMzg4Nzc5
 NCwxNDkxNTA1NTY1LC0yMDQzNDEwMzczLDM1NjYzNzYzMSwtNj
 Y1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUsMjQyMDA5Mzgw
