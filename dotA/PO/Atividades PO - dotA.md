@@ -33,7 +33,7 @@
 Ao assumir o projeto, os seguintes pontos devem ser dominados:
 
 - [ ] Entender o que se espera do produto para as próximas semanas, meses (visão do cliente/stakeholder)
-- [ ] Analisar Product Backlog
+- [x] Analisar Product Backlog
 - [ ] Analisar os custos do AWS
 - [ ] Analisar a plataforma do dota 1 (pegar acesso de admin com o Alexandre)
 - [ ] Analisar a plataforma do dota 2
@@ -81,8 +81,6 @@ segue a lista resumida das atividades pendentes:
 
 ## Acordo com o Ickson
 
-
-
 Ickson, seguem as atividades para conclusão:
 1. Resolver issues que foram/estão sendo reportadas no github (As novas issues criadas são referentes à bugs encontrados no sistema, performance e funcionalidades que não estão tendo o comportamento esperado de acordo com o documento de requisitos)
 2. Ajustes simples para melhorar a qualidade de vida do sistema
@@ -90,25 +88,30 @@ Ickson, seguem as atividades para conclusão:
 	2.2. Tooltip ao deixar o mouse em cima dos botões presentes nos cards dos pontos no painel de controle
 	2.3. Manter o mesmo padrão de cores da legenda dos gráficos
 	2.4. O ponto que estiver sem conexão nos últimos dias, ao ser expandido, deve apresentar gráficos de seus sensores, mesmo que vazio. Além disso, deve ser possível a filtragem de dados por período, para resgatar dados enquanto havia conexão
-3. Garantir que funcionalidades que funcionavam na plataforma Dota 1 estão funcionando na Dota 2
-4. Auxiliar na avaliação pós teste de estresse sobre a infra.
+3. Auxiliar na avaliação pós teste de estresse sobre a infra.
 
-Funcionalidades referentes no item 3:
-- Conexão com os dotAs
-- Painel de controle
-- Gerenciamento e conexão com os pontos
-- Filtragem de pontos
-- Gerenciamento de empresas
-- Ativação e tratamento de alarmes
-- Geração dos gráficos dentro do painel de controle
-- Filtragem dos dados dentro dos gráficos que serão gerados
-- Visualização dos gráficos de todos os sensores (temperatura, porta, tensão, pânico)
-- Download dos dados gerados nos gráficos
-- Perfis de usuários
+## Marcos dotA
+
+09/01 - Testes gerais na plataforma e confirmar correção dos bugs reportados anteriormente
+11/01 - Migração do site para um serviço de hospedagem
+12/01 - Dia do Teste de estresse
+13/01 - Avaliação dos resultados do teste de estresse
+
+17/01 - Início da migração de dados do dotA1 para o dotA2
+19/01 - Fim da migração de dados do dotA1 para o dotA2
+20/01 - Conferência do sistema final com os dados migrados
+
+23/01 - Preparação para a Review
+24/01 - Review dotA2 - Sprint3
+
+## Plano teste de estresse
+
+- alocar a maioria dos membros da equipe para 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM0MTAzNzMsMzU2NjM3NjMxLC02Nj
-U5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTczNSwyNDIwMDkzODAs
-OTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMzk3MTYsLTEwMDYwNT
-cwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3MywtMTI5ODI5MzA2
-NiwtMTgzMDUxMjI1MCwtNDg0MjAzOTQ5XX0=
+eyJoaXN0b3J5IjpbMTg0OTI3MDYwMSwtMjA0MzQxMDM3MywzNT
+Y2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4MzExNzM1
+LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3OTMzOT
+cxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3Mjcz
+LC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ
+==
 -->
