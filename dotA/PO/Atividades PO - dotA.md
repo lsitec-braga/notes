@@ -129,7 +129,7 @@ Ickson, seguem as atividades para conclusão:
 
 ### Procedimento do teste
 
-1. O teste será iniciado com 100 dotas simultâneos, ficando assim, 20 dotas para cada tester
+1. O teste será iniciado com 50 dotas simultâneos, ficando assim, 10 dotas para cada tester
 2. Se o sistema suportar a quantidade testada, vamos aumentar em 50% de sua quantidade para averiguar se segue suportando
 3. Se o sistema não suportar a quantidade testada, vamos reduzir em 50% da quantidade de aumento e ver se o valor reduzido suporta
 4. Seguir os passos 2 e 3, ajustando conforme a necessidade, até chegar próximo do valor limite que define se o sistema vai continuar funcionando ou não
@@ -145,10 +145,10 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzQyMDIxLDUyMzg4Nzc5NCwxNDkxNT
-A1NTY1LC0yMDQzNDEwMzczLDM1NjYzNzYzMSwtNjY1OTU1ODQw
-LC0zNzA0ODIyODgsNTgzMTE3MzUsMjQyMDA5MzgwLDk1OTcwMj
-gwMSw0NjQ1NzM5NTksNjc5MzM5NzE2LC0xMDA2MDU3MDM3LC0x
-NzcxNjUzMzg0LC0yNzQyMDcyNzMsLTEyOTgyOTMwNjYsLTE4Mz
-A1MTIyNTAsLTQ4NDIwMzk0OV19
+eyJoaXN0b3J5IjpbLTEyODEyMzA4NzQsMTcxNzQyMDIxLDUyMz
+g4Nzc5NCwxNDkxNTA1NTY1LC0yMDQzNDEwMzczLDM1NjYzNzYz
+MSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUsMjQyMD
+A5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5NzE2LC0x
+MDA2MDU3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcyNzMsLTEyOT
+gyOTMwNjYsLTE4MzA1MTIyNTAsLTQ4NDIwMzk0OV19
 -->
