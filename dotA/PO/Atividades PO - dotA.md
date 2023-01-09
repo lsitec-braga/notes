@@ -130,7 +130,8 @@ Ickson, seguem as atividades para conclusão:
 ### Procedimento do teste
 
 1. O teste será iniciado com 500 dotas simultâneos, ficando assim, 100 dotas para cada tester
-2. Quando o sistema suportar a quantidade testada, 
+2. Se o sistema suportar a quantidade testada, vamos aumentar em 50% sua quantidade para averiguar se segue suportando
+3. Se o sistema não suportar a quantidade testada, vamos reduzir e
 
 ### Papéis
 
@@ -141,10 +142,9 @@ Ickson, seguem as atividades para conclusão:
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Njk0NzY5NCwtMjA0MzQxMDM3MywzNT
-Y2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4MzExNzM1
-LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3OTMzOT
-cxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3Mjcz
-LC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ
-==
+eyJoaXN0b3J5IjpbNzM1ODE4MTExLC0yMDQzNDEwMzczLDM1Nj
+YzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUs
+MjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5Nz
+E2LC0xMDA2MDU3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcyNzMs
+LTEyOTgyOTMwNjYsLTE4MzA1MTIyNTAsLTQ4NDIwMzk0OV19
 -->
