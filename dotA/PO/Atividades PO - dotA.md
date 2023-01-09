@@ -108,7 +108,7 @@ Ickson, seguem as atividades para conclusão:
 
 ## Marcos dotA
 
-09/01 - Testes gerais na plataforma e confirmar correção dos bugs reportados anteriormente
+10/01 - Testes gerais na plataforma e confirmar correção dos bugs reportados anteriormente
 11/01 - Migração do site para um serviço de hospedagem
 12/01 - Dia do Teste de estresse
 13/01 - Avaliação dos resultados do teste de estresse
@@ -145,10 +145,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEyMzA4NzQsMTcxNzQyMDIxLDUyMz
-g4Nzc5NCwxNDkxNTA1NTY1LC0yMDQzNDEwMzczLDM1NjYzNzYz
-MSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUsMjQyMD
-A5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5NzE2LC0x
-MDA2MDU3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcyNzMsLTEyOT
-gyOTMwNjYsLTE4MzA1MTIyNTAsLTQ4NDIwMzk0OV19
+eyJoaXN0b3J5IjpbMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNz
+E3NDIwMjEsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIwNDM0MTAz
+NzMsMzU2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1OD
+MxMTczNSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2
+NzkzMzk3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3ND
+IwNzI3MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0MjAz
+OTQ5XX0=
 -->
