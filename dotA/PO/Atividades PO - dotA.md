@@ -60,6 +60,8 @@ Abertas: 19, sendo 6 novas adicionadas hoje e 2 reabertas hoje
 segue a lista resumida das atividades pendentes:
 - Corrigir Bugs: #38, #43, #57, #58, #59
 - Fazer itens de qualidade de vida: #61, #62, #63
+- Migrar processamento do influxDB para AWS lambda
+- 
 - Auxiliar na avaliação pós teste de estresse sobre a infra. 
 ```
 
@@ -129,7 +131,7 @@ Ickson, seguem as atividades para conclusão:
 
 ### Procedimento do teste
 
-1. O teste será iniciado com 50 dotas simultâneos, ficando assim, 10 dotas para cada tester
+1. O teste será iniciado com 5 dotas simultâneos, ficando assim, 1 dotas para cada tester
 2. Se o sistema suportar a quantidade testada, vamos aumentar em 50% de sua quantidade para averiguar se segue suportando
 3. Se o sistema não suportar a quantidade testada, vamos reduzir em 50% da quantidade de aumento e ver se o valor reduzido suporta
 4. Seguir os passos 2 e 3, ajustando conforme a necessidade, até chegar próximo do valor limite que define se o sistema vai continuar funcionando ou não
@@ -145,11 +147,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNz
-E3NDIwMjEsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIwNDM0MTAz
-NzMsMzU2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1OD
-MxMTczNSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2
-NzkzMzk3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3ND
-IwNzI3MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0MjAz
-OTQ5XX0=
+eyJoaXN0b3J5IjpbMTk3OTA5NDAwMCwxODA4NzIxNDI0LC0xMj
+gxMjMwODc0LDE3MTc0MjAyMSw1MjM4ODc3OTQsMTQ5MTUwNTU2
+NSwtMjA0MzQxMDM3MywzNTY2Mzc2MzEsLTY2NTk1NTg0MCwtMz
+cwNDgyMjg4LDU4MzExNzM1LDI0MjAwOTM4MCw5NTk3MDI4MDEs
+NDY0NTczOTU5LDY3OTMzOTcxNiwtMTAwNjA1NzAzNywtMTc3MT
+Y1MzM4NCwtMjc0MjA3MjczLC0xMjk4MjkzMDY2LC0xODMwNTEy
+MjUwXX0=
 -->
