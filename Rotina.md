@@ -21,7 +21,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Afazeres planejados
 
-- [ ] Testar se worker é cancelado em todos os casos de ativação (Worker atingiu o limite de execuções, localização foi permitida, localização não foi permitida)
+- [ ] Fazer ajustes nos dados da planilha
 
 - [ ] Seguir com os testes na plataforma dota2, validando se os requisitos estão sendo atendidos
 - [ ] Preparar estratégia para testes de estresse
@@ -30,11 +30,11 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNT
-kxNzQyOTMsLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMz
-ODkyLDE1ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5MDQ4Mi
-wtMTE5NzczODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNyw4NzMx
-MDI4NjIsMTUwMjU4ODg1NiwtMTQwMjM5MzI0OCwtODY0Njg5OT
-kyLDk4NjM1MjI0LDE3OTQ2MjYwMSwtMTA2MTgxNjgzNiwxMTgz
-NTY4MjQ3XX0=
+eyJoaXN0b3J5IjpbLTE0OTAxMDA4ODEsMTE3NTQ0NzkxMiwtNj
+U4MzAwNzA2LC0yNTkxNzQyOTMsLTk0NTI2MjYxMSwxNDMyODIy
+NTcwLC0xNDM5NzMzODkyLDE1ODgwMjkyMjAsLTM4MjYzMzk5Ny
+wtMTcwNDg5MDQ4MiwtMTE5NzczODk4LDE2NzI4MDA0NDcsMTI2
+MjgwNTcyNyw4NzMxMDI4NjIsMTUwMjU4ODg1NiwtMTQwMjM5Mz
+I0OCwtODY0Njg5OTkyLDk4NjM1MjI0LDE3OTQ2MjYwMSwtMTA2
+MTgxNjgzNl19
 -->
