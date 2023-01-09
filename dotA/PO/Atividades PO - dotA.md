@@ -122,12 +122,17 @@ Ickson, seguem as atividades para conclusão:
 
 ## Plano teste de estresse
 
-- alocar a maioria dos membros da equipe para estressar o sistema
+
+### Responsabilidades
+
+- Responsável pelo script de estresse: Ickson
+- Responsável por adaptar o script: Diego, Victor e Henrique
 - Responsáveis por estressar o sistema: Alexandre, Diego, Victor, Henrique e Welington
 - Responsáveis por monitorar o sistema: Jefferson 
-- Opcionais: Jake e Ickson
+- Opcionais: Jake
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY0NjY0ODgsLTIwNDM0MTAzNzMsMz
+eyJoaXN0b3J5IjpbLTE3NzQ1MDM3NjEsLTIwNDM0MTAzNzMsMz
 U2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTcz
 NSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMz
 k3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3
