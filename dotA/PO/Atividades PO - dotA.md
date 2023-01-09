@@ -54,6 +54,16 @@ Issues abertas: 19, sendo 6 novas adicionadas hoje
 X issues corrigidas
 ```
 
+```
+Report 06/01/2023
+-----------------
+Total de issues relacionadas a bugfix: 43
+Issues fechadas: 24
+Issues ainda abertas: 19, sendo 6 novas adicionadas e 2 reabertas hoje
+10 issues em validação
+9 issues em desenvolvimento
+```
+
 - Enviar um resumo das atividades restantes para o Ickson
 
 ```
@@ -106,9 +116,9 @@ Funcionalidades referentes no item 3:
 - Download dos dados gerados nos gráficos
 - Perfis de usuários
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4Mz
-ExNzM1LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3
-OTMzOTcxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0Mj
-A3MjczLC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC00ODQyMDM5
-NDldfQ==
+eyJoaXN0b3J5IjpbMzU2NjM3NjMxLC02NjU5NTU4NDAsLTM3MD
+Q4MjI4OCw1ODMxMTczNSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2
+NDU3Mzk1OSw2NzkzMzk3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NT
+MzODQsLTI3NDIwNzI3MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1
+MCwtNDg0MjAzOTQ5XX0=
 -->
