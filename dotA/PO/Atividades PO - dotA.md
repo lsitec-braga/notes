@@ -23,7 +23,7 @@
 ### Infra
 
 - [AWS](https://sa-east-1.console.aws.amazon.com/console/home?region=sa-east-1#)
-- [Monitor AWS](https://sa-east-1.console.aws.amazon.com/cloudwatch/home?region=sa-east-1#dashboards:name=Monitora_Server)
+- [Monitor AWS](https://sa-east-1.console.aws.amazon.com/cloudwatch/home?region=sa-east-1#dashboards:name=Monitora_Server_EC2)
 - [Main Database](http://dota-mysql.mobile.lsitec.intranet/phpmyadmin/index.php)
 - [Backup Database](https://dotabkp-mysql.mobile.lsitec.intranet/phpmyadmin/index.php)
 - [Server de configuração](http://10.0.160.47:18083/#/login?to=/dashboard/overview)
@@ -145,10 +145,10 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTUwNTU2NSwtMjA0MzQxMDM3MywzNT
-Y2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4MzExNzM1
-LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3OTMzOT
-cxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3Mjcz
-LC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ
-==
+eyJoaXN0b3J5IjpbNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIwND
+M0MTAzNzMsMzU2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4
+OCw1ODMxMTczNSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mz
+k1OSw2NzkzMzk3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQs
+LTI3NDIwNzI3MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtND
+g0MjAzOTQ5XX0=
 -->
