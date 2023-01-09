@@ -134,7 +134,7 @@ Ickson, seguem as atividades para conclusão:
 3. Se o sistema não suportar a quantidade testada, vamos reduzir em 50% da quantidade de aumento e ver se o valor reduzido suporta
 4. Seguir os passos 2 e 3, ajustando conforme a necessidade, até chegar próximo do valor limite que define se o sistema vai continuar funcionando ou não
 
-Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos custos da AWS, portanto, devemos definir um limite de X% para que não ocorra cobrança adicional.
+Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos custos da AWS, portanto, devemos definir um limite de X% que pode ser cobrado adicionalmente.
 
 ### Papéis
 
@@ -145,9 +145,10 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NTM3MDc5LC0yMDQzNDEwMzczLDM1Nj
-YzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3MzUs
-MjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5Nz
-E2LC0xMDA2MDU3MDM3LC0xNzcxNjUzMzg0LC0yNzQyMDcyNzMs
-LTEyOTgyOTMwNjYsLTE4MzA1MTIyNTAsLTQ4NDIwMzk0OV19
+eyJoaXN0b3J5IjpbMTQ5MTUwNTU2NSwtMjA0MzQxMDM3MywzNT
+Y2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4MzExNzM1
+LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3OTMzOT
+cxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3Mjcz
+LC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ
+==
 -->
