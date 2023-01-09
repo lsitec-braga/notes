@@ -122,12 +122,15 @@ Ickson, seguem as atividades para conclusão:
 
 ## Plano teste de estresse
 
-- alocar a maioria dos membros da equipe para 
+- alocar a maioria dos membros da equipe para estressar o sistema
+- Responsáveis por estressar o sistema: Alexandre, Diego, Victor, Henrique e Welington
+- Responsáveis por monitorar o sistema: Jefferson 
+- Opcionais: Jake e Ickson
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDUwNzMxNSwtMjA0MzQxMDM3MywzNT
-Y2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4MzExNzM1
-LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTczOTU5LDY3OTMzOT
-cxNiwtMTAwNjA1NzAzNywtMTc3MTY1MzM4NCwtMjc0MjA3Mjcz
-LC0xMjk4MjkzMDY2LC0xODMwNTEyMjUwLC00ODQyMDM5NDldfQ
-==
+eyJoaXN0b3J5IjpbLTIxMjY0NjY0ODgsLTIwNDM0MTAzNzMsMz
+U2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTcz
+NSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMz
+k3MTYsLTEwMDYwNTcwMzcsLTE3NzE2NTMzODQsLTI3NDIwNzI3
+MywtMTI5ODI5MzA2NiwtMTgzMDUxMjI1MCwtNDg0MjAzOTQ5XX
+0=
 -->
