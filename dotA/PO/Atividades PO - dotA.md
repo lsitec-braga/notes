@@ -58,11 +58,11 @@ Obs: 2 issues duplicadas, que estavam na contagem total de issues, foram descons
 - Enviar um resumo das atividades restantes para o Ickson
 
 ```
-, segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #31, #40, #57, #59, #64, #65, #68, #69, #70, #71
+Ickson, segue a lista resumida das atividades pendentes:
+- Corrigir Bugs: #31, #40, #52, #57, #59, #64, #65, #68, #69, #70, #71
 - Fazer itens de qualidade de vida: #66
-- Terminar script para o teste de estresse
-- Auxiliar na avaliação pós teste de estresse sobre a infra. 
+- Fazer script para o teste de estresse
+- Auxiliar na avaliação pós teste de estresse sobre a infra.
 ```
 
 - Após a daily, atualizar planilha do projeto de acordo com o que foi falado na daily e conferir o progresso das tasks
@@ -146,11 +146,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEwNzc2ODAsLTE4MzM1Njc1NTMsLT
-IwODU2MzgyOTgsLTEyOTUwMjgyOTcsMTE2MzExNzYwNSwxOTc5
-MDk0MDAwLDE4MDg3MjE0MjQsLTEyODEyMzA4NzQsMTcxNzQyMD
-IxLDUyMzg4Nzc5NCwxNDkxNTA1NTY1LC0yMDQzNDEwMzczLDM1
-NjYzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3Mz
-UsMjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5
-NzE2XX0=
+eyJoaXN0b3J5IjpbMTgzNTk4OTc5OSwtMTgzMzU2NzU1MywtMj
+A4NTYzODI5OCwtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5Nzkw
+OTQwMDAsMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIwMj
+EsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIwNDM0MTAzNzMsMzU2
+NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTczNS
+wyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMzk3
+MTZdfQ==
 -->
