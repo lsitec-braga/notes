@@ -45,13 +45,14 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 - Enviar um resumo no skype (no final do expediente) sobre o progresso da correção de bugs com o seguinte template:
 
 ```
-Report 09/01/2023
+Report 10/01/2023
 -----------------
-TOTAL DE ISSUES: 47
-Fechadas: 30
+TOTAL DE ISSUES: 48
+Fechadas: 33
 Abertas: 15, sendo 3 novas adicionadas hoje e 1 reabertas hoje
-> Em validação: 8
-> Em desenvolvimento: 9
+> Em validação: 2
+> Em desenvolvimento: 13
+Obs: 2 issues duplicadas, que estavam na contagem total de issues, foram desconsideradas da contagem
 ```
 
 - Enviar um resumo das atividades restantes para o Ickson
@@ -146,7 +147,7 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjYwNjc4MiwtMTgzMzU2NzU1MywtMj
+eyJoaXN0b3J5IjpbLTgwODkyMDI2OSwtMTgzMzU2NzU1MywtMj
 A4NTYzODI5OCwtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5Nzkw
 OTQwMDAsMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIwMj
 EsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIwNDM0MTAzNzMsMzU2
