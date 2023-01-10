@@ -13,14 +13,13 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Feito
 
-- [x] Testar se worker é cancelado em todos os casos de ativação (Worker atingiu o limite de execuções, localização foi permitida, localização não foi permitida)
-- [x] Review da PR de update na UI
+- [x] Testar PR do Eduardo (Refatoração do código)
 - [x] OBS: o device é ativado novamente ao trocar o tema do dispositivo na tela em que o device mostra que deu certo a ativação e mostra a localização
 
 - [x] Call com o Alexandre para resolver questões de bugs encontrados no sistema
 - [x] Call com o Ickson, Alexandre e Jefferson para alinhar o problema de desempenho que ocorria na plataforma
 - [x] Criação de issues novas para melhoria do sistema
-- [x] Conferência de alguns bugs já corrigidos
+- [x] Testar issues já corrigidas e encerrá-las
 
 ## Afazeres planejados
 
@@ -33,7 +32,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDMxMDY5NjQsLTE3ODE4MjgyMzcsLT
+eyJoaXN0b3J5IjpbLTE4ODY1OTM0ODMsLTE3ODE4MjgyMzcsLT
 E0OTAxMDA4ODEsMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkx
 NzQyOTMsLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMzOD
 kyLDE1ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5MDQ4Miwt
