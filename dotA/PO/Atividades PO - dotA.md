@@ -59,9 +59,9 @@ Obs: 2 issues duplicadas, que estavam na contagem total de issues, foram descons
 
 ```
 , segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #31, #40, #57, #59, #64, #65, #67
+- Corrigir Bugs: #31, #40, #57, #59, #64, #65, #68, #69, #70, #71
 - Fazer itens de qualidade de vida: #66
-- Fazer script para o teste de estresse
+- Terminar script para o teste de estresse
 - Auxiliar na avaliação pós teste de estresse sobre a infra. 
 ```
 
@@ -146,7 +146,7 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTEwNDMyMjAsLTE4MzM1Njc1NTMsLT
+eyJoaXN0b3J5IjpbLTE2NTEwNzc2ODAsLTE4MzM1Njc1NTMsLT
 IwODU2MzgyOTgsLTEyOTUwMjgyOTcsMTE2MzExNzYwNSwxOTc5
 MDk0MDAwLDE4MDg3MjE0MjQsLTEyODEyMzA4NzQsMTcxNzQyMD
 IxLDUyMzg4Nzc5NCwxNDkxNTA1NTY1LC0yMDQzNDEwMzczLDM1
