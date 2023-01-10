@@ -18,8 +18,9 @@ dotA    | 14h00 | 17h30 | 3h30
 - [x] OBS: o device é ativado novamente ao trocar o tema do dispositivo na tela em que o device mostra que deu certo a ativação e mostra a localização
 
 - [x] Call com o Alexandre para resolver questões de bugs encontrados no sistema
-- [x] Call com o Ickson para alinhar tarefas restantes a serem executadas
+- [x] Call com o Ickson, Alexandre e Jefferson para alinhar o problema de desempenho que ocorria na plataforma
 - [x] Criação de issues novas para melhoria do sistema
+- [x] Conferência de alguns bugs já corrigidos
 
 ## Afazeres planejados
 
@@ -32,11 +33,11 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE4MjgyMzcsLTE0OTAxMDA4ODEsMT
-E3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOTMsLTk0NTI2
-MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMzODkyLDE1ODgwMjkyMj
-AsLTM4MjYzMzk5NywtMTcwNDg5MDQ4MiwtMTE5NzczODk4LDE2
-NzI4MDA0NDcsMTI2MjgwNTcyNyw4NzMxMDI4NjIsMTUwMjU4OD
-g1NiwtMTQwMjM5MzI0OCwtODY0Njg5OTkyLDk4NjM1MjI0LDE3
-OTQ2MjYwMV19
+eyJoaXN0b3J5IjpbLTE5NDMxMDY5NjQsLTE3ODE4MjgyMzcsLT
+E0OTAxMDA4ODEsMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkx
+NzQyOTMsLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMzOD
+kyLDE1ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5MDQ4Miwt
+MTE5NzczODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNyw4NzMxMD
+I4NjIsMTUwMjU4ODg1NiwtMTQwMjM5MzI0OCwtODY0Njg5OTky
+LDk4NjM1MjI0XX0=
 -->
