@@ -50,8 +50,8 @@ Report 10/01/2023
 TOTAL DE ISSUES: 48
 Fechadas: 33
 Abertas: 15, sendo 3 novas adicionadas hoje e 1 reabertas hoje
-> Em validação: 2
-> Em desenvolvimento: 13
+> Em validação: 3
+> Em desenvolvimento: 12
 Obs: 2 issues duplicadas, que estavam na contagem total de issues, foram desconsideradas da contagem
 ```
 
@@ -59,9 +59,8 @@ Obs: 2 issues duplicadas, que estavam na contagem total de issues, foram descons
 
 ```
 , segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #30, #31, #40, #57, #59, #64, #65, #67
+- Corrigir Bugs: #31, #40, #57, #59, #64, #65, #67
 - Fazer itens de qualidade de vida: #66
-- Migrar processamento do influxDB para AWS lambda
 - Fazer script para o teste de estresse
 - Auxiliar na avaliação pós teste de estresse sobre a infra. 
 ```
@@ -147,11 +146,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODkyMDI2OSwtMTgzMzU2NzU1MywtMj
-A4NTYzODI5OCwtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5Nzkw
-OTQwMDAsMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIwMj
-EsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIwNDM0MTAzNzMsMzU2
-NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTczNS
-wyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMzk3
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTEwNDMyMjAsLTE4MzM1Njc1NTMsLT
+IwODU2MzgyOTgsLTEyOTUwMjgyOTcsMTE2MzExNzYwNSwxOTc5
+MDk0MDAwLDE4MDg3MjE0MjQsLTEyODEyMzA4NzQsMTcxNzQyMD
+IxLDUyMzg4Nzc5NCwxNDkxNTA1NTY1LC0yMDQzNDEwMzczLDM1
+NjYzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyODgsNTgzMTE3Mz
+UsMjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5NTksNjc5MzM5
+NzE2XX0=
 -->
