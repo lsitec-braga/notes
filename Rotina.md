@@ -14,7 +14,8 @@ dotA    | 14h00 | 17h30 | 3h30
 ## Feito
 
 - [x] Testar PR do Eduardo (Refatoração do código)
-- [x] Testar PR do Matheus sobre aplicativo não ficar em loop ao 
+- [x] Testar PR do Matheus sobre aplicativo não ficar em loop ao usar localização aproximada
+- [x] Fazer com que o RetryWorker seja cancelado assim que for ativado remotamente
 
 - [x] Reunião para decidir sobre a questão da hospedagem do site (informar que ficou como objetivo para futuras Sprints e não atrapalhar o desenvolvimento atual)
 - [x] Explicação para o Alexandre sobre como usar os scripts de simulação do dotA
@@ -24,7 +25,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Afazeres planejados
 
-- [ ] Ajustar problema no cancelamento do RetryWorker
+- [ ] Fazer PR do ajuste do cancelamento do RetryWorker (atualmente ele só é cancelado ao clicar no botão "fechar" da última activity)
 - [ ] Iniciar testes no aplicativo
 - [ ] Fazer ajustes nos dados da planilha
 
@@ -35,11 +36,11 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzI5OTE2LC0xODg2NTkzNDgzLC0xNz
-gxODI4MjM3LC0xNDkwMTAwODgxLDExNzU0NDc5MTIsLTY1ODMw
-MDcwNiwtMjU5MTc0MjkzLC05NDUyNjI2MTEsMTQzMjgyMjU3MC
-wtMTQzOTczMzg5MiwxNTg4MDI5MjIwLC0zODI2MzM5OTcsLTE3
-MDQ4OTA0ODIsLTExOTc3Mzg5OCwxNjcyODAwNDQ3LDEyNjI4MD
-U3MjcsODczMTAyODYyLDE1MDI1ODg4NTYsLTE0MDIzOTMyNDgs
-LTg2NDY4OTk5Ml19
+eyJoaXN0b3J5IjpbLTEzMDg2MDkxMSwtMTg4NjU5MzQ4MywtMT
+c4MTgyODIzNywtMTQ5MDEwMDg4MSwxMTc1NDQ3OTEyLC02NTgz
+MDA3MDYsLTI1OTE3NDI5MywtOTQ1MjYyNjExLDE0MzI4MjI1Nz
+AsLTE0Mzk3MzM4OTIsMTU4ODAyOTIyMCwtMzgyNjMzOTk3LC0x
+NzA0ODkwNDgyLC0xMTk3NzM4OTgsMTY3MjgwMDQ0NywxMjYyOD
+A1NzI3LDg3MzEwMjg2MiwxNTAyNTg4ODU2LC0xNDAyMzkzMjQ4
+LC04NjQ2ODk5OTJdfQ==
 -->
