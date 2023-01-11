@@ -54,10 +54,9 @@ Report 10/01/2023
 -----------------
 TOTAL DE ISSUES: 48
 Fechadas: 33
-Abertas: 15, sendo 3 novas adicionadas hoje e 1 reabertas hoje
+Abertas: 9, sendo 3 novas adicionadas hoje e 1 reabertas hoje
 > Em validação: 3
-> Em desenvolvimento: 12
-Obs: 2 issues duplicadas, que estavam na contagem total de issues, foram desconsideradas da contagem
+> Em desenvolvimento: 6
 ```
 
 Atual - resumo atividades Ickson
@@ -69,7 +68,20 @@ Ickson, segue a lista resumida das atividades pendentes:
 - Auxiliar na avaliação pós teste de estresse sobre a infra
 ```
 
-Backup resumo atividades Ickson
+Backup - Report issues
+
+```
+Report 10/01/2023
+-----------------
+TOTAL DE ISSUES: 48
+Fechadas: 33
+Abertas: 9, sendo 3 novas adicionadas hoje e 1 reabertas hoje
+> Em validação: 3
+> Em desenvolvimento: 12
+Obs: 2 issues duplicadas, que estavam na contagem total de issues, foram desconsideradas da contagem
+```
+
+Backup - resumo atividades Ickson
 
 ```
 Ickson, segue a lista resumida das atividades pendentes:
@@ -159,11 +171,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgxMjIzOTYsMTgzNTk4OTc5OSwtMT
-gzMzU2NzU1MywtMjA4NTYzODI5OCwtMTI5NTAyODI5NywxMTYz
-MTE3NjA1LDE5NzkwOTQwMDAsMTgwODcyMTQyNCwtMTI4MTIzMD
-g3NCwxNzE3NDIwMjEsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIw
-NDM0MTAzNzMsMzU2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4Mj
-I4OCw1ODMxMTczNSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3
-Mzk1OV19
+eyJoaXN0b3J5IjpbNjM4Mjg5MTQxLDE4MzU5ODk3OTksLTE4Mz
+M1Njc1NTMsLTIwODU2MzgyOTgsLTEyOTUwMjgyOTcsMTE2MzEx
+NzYwNSwxOTc5MDk0MDAwLDE4MDg3MjE0MjQsLTEyODEyMzA4Nz
+QsMTcxNzQyMDIxLDUyMzg4Nzc5NCwxNDkxNTA1NTY1LC0yMDQz
+NDEwMzczLDM1NjYzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyOD
+gsNTgzMTE3MzUsMjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5
+NTldfQ==
 -->
