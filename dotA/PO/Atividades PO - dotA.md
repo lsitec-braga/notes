@@ -50,10 +50,10 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 Atual - Report issues
 
 ```
-Report 10/01/2023
+Report 11/01/2023
 -----------------
 TOTAL DE ISSUES: 48
-Fechadas: 33
+Fechadas: 39
 Abertas: 9, sendo 3 novas adicionadas hoje e 1 reabertas hoje
 > Em validação: 3
 > Em desenvolvimento: 6
@@ -171,11 +171,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4Mjg5MTQxLDE4MzU5ODk3OTksLTE4Mz
-M1Njc1NTMsLTIwODU2MzgyOTgsLTEyOTUwMjgyOTcsMTE2MzEx
-NzYwNSwxOTc5MDk0MDAwLDE4MDg3MjE0MjQsLTEyODEyMzA4Nz
-QsMTcxNzQyMDIxLDUyMzg4Nzc5NCwxNDkxNTA1NTY1LC0yMDQz
-NDEwMzczLDM1NjYzNzYzMSwtNjY1OTU1ODQwLC0zNzA0ODIyOD
-gsNTgzMTE3MzUsMjQyMDA5MzgwLDk1OTcwMjgwMSw0NjQ1NzM5
-NTldfQ==
+eyJoaXN0b3J5IjpbLTQzMjEwMDkxNCwxODM1OTg5Nzk5LC0xOD
+MzNTY3NTUzLC0yMDg1NjM4Mjk4LC0xMjk1MDI4Mjk3LDExNjMx
+MTc2MDUsMTk3OTA5NDAwMCwxODA4NzIxNDI0LC0xMjgxMjMwOD
+c0LDE3MTc0MjAyMSw1MjM4ODc3OTQsMTQ5MTUwNTU2NSwtMjA0
+MzQxMDM3MywzNTY2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMj
+g4LDU4MzExNzM1LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTcz
+OTU5XX0=
 -->
