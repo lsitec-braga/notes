@@ -14,7 +14,7 @@ dotA    | 14h00 | 17h30 | 3h30
 ## Feito
 
 - [x] Testar PR do Eduardo (Refatoração do código)
-- [x] OBS: o device é ativado novamente ao trocar o tema do dispositivo na tela em que o device mostra que deu certo a ativação e mostra a localização
+- [x] Testar PR do Matheus sobre aplicativo não ficar em loop ao 
 
 - [x] Reunião para decidir sobre a questão da hospedagem do site (informar que ficou como objetivo para futuras Sprints e não atrapalhar o desenvolvimento atual)
 - [x] Explicação para o Alexandre sobre como usar os scripts de simulação do dotA
@@ -24,8 +24,9 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Afazeres planejados
 
+- [ ] Ajustar problema no cancelamento do RetryWorker
+- [ ] Iniciar testes no aplicativo
 - [ ] Fazer ajustes nos dados da planilha
-- [ ] Ajustar problema no ca
 
 - [ ] Seguir com os testes na plataforma dota2, validando se os requisitos estão sendo atendidos
 - [ ] Preparar estratégia para testes de estresse
@@ -34,11 +35,11 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODY1NTcwMSwtMTg4NjU5MzQ4MywtMT
-c4MTgyODIzNywtMTQ5MDEwMDg4MSwxMTc1NDQ3OTEyLC02NTgz
-MDA3MDYsLTI1OTE3NDI5MywtOTQ1MjYyNjExLDE0MzI4MjI1Nz
-AsLTE0Mzk3MzM4OTIsMTU4ODAyOTIyMCwtMzgyNjMzOTk3LC0x
-NzA0ODkwNDgyLC0xMTk3NzM4OTgsMTY3MjgwMDQ0NywxMjYyOD
-A1NzI3LDg3MzEwMjg2MiwxNTAyNTg4ODU2LC0xNDAyMzkzMjQ4
-LC04NjQ2ODk5OTJdfQ==
+eyJoaXN0b3J5IjpbLTUzNzI5OTE2LC0xODg2NTkzNDgzLC0xNz
+gxODI4MjM3LC0xNDkwMTAwODgxLDExNzU0NDc5MTIsLTY1ODMw
+MDcwNiwtMjU5MTc0MjkzLC05NDUyNjI2MTEsMTQzMjgyMjU3MC
+wtMTQzOTczMzg5MiwxNTg4MDI5MjIwLC0zODI2MzM5OTcsLTE3
+MDQ4OTA0ODIsLTExOTc3Mzg5OCwxNjcyODAwNDQ3LDEyNjI4MD
+U3MjcsODczMTAyODYyLDE1MDI1ODg4NTYsLTE0MDIzOTMyNDgs
+LTg2NDY4OTk5Ml19
 -->
