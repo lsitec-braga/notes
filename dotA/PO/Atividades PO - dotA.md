@@ -64,9 +64,9 @@ Atual - resumo atividades Ickson
 
 ```
 Ickson, segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #31, #40, #68, #59, #64, #65, #68, #69, #70, #71
+- Corrigir Bugs: #31, #40, #57, #68, #69, #70
 - Auxiliar no teste de estresse que será realizado no dia 12/01/2023
-- Auxiliar na avaliação pós teste de estresse sobre a infra.
+- Auxiliar na avaliação pós teste de estresse sobre a infra
 ```
 
 Backup resumo atividades Ickson
@@ -159,11 +159,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDgwMDE1NSwxODM1OTg5Nzk5LC0xOD
-MzNTY3NTUzLC0yMDg1NjM4Mjk4LC0xMjk1MDI4Mjk3LDExNjMx
-MTc2MDUsMTk3OTA5NDAwMCwxODA4NzIxNDI0LC0xMjgxMjMwOD
-c0LDE3MTc0MjAyMSw1MjM4ODc3OTQsMTQ5MTUwNTU2NSwtMjA0
-MzQxMDM3MywzNTY2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMj
-g4LDU4MzExNzM1LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTcz
-OTU5XX0=
+eyJoaXN0b3J5IjpbLTEyOTgxMjIzOTYsMTgzNTk4OTc5OSwtMT
+gzMzU2NzU1MywtMjA4NTYzODI5OCwtMTI5NTAyODI5NywxMTYz
+MTE3NjA1LDE5NzkwOTQwMDAsMTgwODcyMTQyNCwtMTI4MTIzMD
+g3NCwxNzE3NDIwMjEsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIw
+NDM0MTAzNzMsMzU2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4Mj
+I4OCw1ODMxMTczNSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3
+Mzk1OV19
 -->
