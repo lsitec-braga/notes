@@ -30,13 +30,13 @@ dotA    | 14h00 | 17h30 | 3h30
 - [ ] Fazer ajustes nos dados da planilha
 
 - [ ] Seguir com os testes na plataforma dota2, validando se os requisitos estão sendo atendidos
-- [ ] Preparar estratégia para testes de estresse
+- [ ] Iniciar a rodada de teste de estresse hoje no período da tarde junto com outros membros da equipe
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg2MDkxMSwtMTg4NjU5MzQ4MywtMT
+eyJoaXN0b3J5IjpbMTk5ODgyNTkzNCwtMTg4NjU5MzQ4MywtMT
 c4MTgyODIzNywtMTQ5MDEwMDg4MSwxMTc1NDQ3OTEyLC02NTgz
 MDA3MDYsLTI1OTE3NDI5MywtOTQ1MjYyNjExLDE0MzI4MjI1Nz
 AsLTE0Mzk3MzM4OTIsMTU4ODAyOTIyMCwtMzgyNjMzOTk3LC0x
