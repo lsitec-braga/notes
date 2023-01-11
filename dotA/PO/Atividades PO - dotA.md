@@ -42,7 +42,10 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 
 ## Tarefas diárias
 
-- Enviar um resumo no skype (no final do expediente) sobre o progresso da correção de bugs com o seguinte template:
+- Enviar um resumo das atividades restantes para o Ickson
+- Após a daily, atualizar planilha do projeto de acordo com o que foi falado na daily e conferir o progresso das tasks
+- Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
+- Enviar um resumo no skype (no final do expediente) sobre o progresso da correção de bugs com o 
 
 ```
 Report 10/01/2023
@@ -55,7 +58,15 @@ Abertas: 15, sendo 3 novas adicionadas hoje e 1 reabertas hoje
 Obs: 2 issues duplicadas, que estavam na contagem total de issues, foram desconsideradas da contagem
 ```
 
-- Enviar um resumo das atividades restantes para o Ickson
+```
+Ickson, segue a lista resumida das atividades pendentes:
+- Corrigir Bugs: #31, #40, #52, #57, #59, #64, #65, #68, #69, #70, #71
+- Fazer itens de qualidade de vida: #66
+- Fazer script para o teste de estresse
+- Auxiliar na avaliação pós teste de estresse sobre a infra.
+```
+
+Backup resumo atividades Ickson
 
 ```
 Ickson, segue a lista resumida das atividades pendentes:
@@ -65,8 +76,7 @@ Ickson, segue a lista resumida das atividades pendentes:
 - Auxiliar na avaliação pós teste de estresse sobre a infra.
 ```
 
-- Após a daily, atualizar planilha do projeto de acordo com o que foi falado na daily e conferir o progresso das tasks
-- Acompanhar o Welington nos testes e garantir que os bugfix foram executados (garantir a qualidade do produto)
+
 
 ## Pontos de teste
 
@@ -146,11 +156,11 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTk4OTc5OSwtMTgzMzU2NzU1MywtMj
-A4NTYzODI5OCwtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5Nzkw
-OTQwMDAsMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIwMj
-EsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIwNDM0MTAzNzMsMzU2
-NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4MjI4OCw1ODMxMTczNS
-wyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3Mzk1OSw2NzkzMzk3
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MTY2MDU2ODcsMTgzNTk4OTc5OSwtMT
+gzMzU2NzU1MywtMjA4NTYzODI5OCwtMTI5NTAyODI5NywxMTYz
+MTE3NjA1LDE5NzkwOTQwMDAsMTgwODcyMTQyNCwtMTI4MTIzMD
+g3NCwxNzE3NDIwMjEsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIw
+NDM0MTAzNzMsMzU2NjM3NjMxLC02NjU5NTU4NDAsLTM3MDQ4Mj
+I4OCw1ODMxMTczNSwyNDIwMDkzODAsOTU5NzAyODAxLDQ2NDU3
+Mzk1OV19
 -->
