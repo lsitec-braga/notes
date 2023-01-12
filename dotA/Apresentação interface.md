@@ -21,6 +21,12 @@
 1. é possível visualizar todos os usuário do sistema
 2. é possível ordenar os itens através de suas colunas
 
+### dotAs conectados
+
+1. é possível visualizar os dotas no sistema
+2. filtrar os dotas que estão no sistema
+3. 
+
 ## Gestor no dotA 2
 
 ### Painel de controle
@@ -38,7 +44,7 @@
 
 ### Usuário
 
-1. Não é possível visualizar os usuários do sistema como Gestor de uma em
+1. Não é possível visualizar os usuários do sistema como Gestor de uma empresa
 
 ## Pontos divergentes
 
@@ -49,8 +55,8 @@
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY1ODQ3NDgsMTY1NzE0NzYzMiwtMT
-IxNTEyMzA1Niw0MjE2NzE4OTYsLTE1MDg2NDI2MTAsLTE1NzUz
-NzcwODQsMTE5NzkxODM5MiwtMTg3MjIwNjc0Miw3MzA5OTgxMT
-ZdfQ==
+eyJoaXN0b3J5IjpbLTc5NzIxOTk5NywxNjU3MTQ3NjMyLC0xMj
+E1MTIzMDU2LDQyMTY3MTg5NiwtMTUwODY0MjYxMCwtMTU3NTM3
+NzA4NCwxMTk3OTE4MzkyLC0xODcyMjA2NzQyLDczMDk5ODExNl
+19
 -->
