@@ -11,7 +11,7 @@
 
 ### Clientes
 
-1. é possível editar compartimentos
+1. é possível Visualizar todos os clientes e 
 
 ## Gestor no dotA 2
 
@@ -32,7 +32,7 @@
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYyNzczLC0xMjE1MTIzMDU2LDQyMT
-Y3MTg5NiwtMTUwODY0MjYxMCwtMTU3NTM3NzA4NCwxMTk3OTE4
-MzkyLC0xODcyMjA2NzQyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTY1NzE0NzYzMiwtMTIxNTEyMzA1Niw0Mj
+E2NzE4OTYsLTE1MDg2NDI2MTAsLTE1NzUzNzcwODQsMTE5Nzkx
+ODM5MiwtMTg3MjIwNjc0Miw3MzA5OTgxMTZdfQ==
 -->
