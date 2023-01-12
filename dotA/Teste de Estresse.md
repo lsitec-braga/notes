@@ -16,11 +16,18 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 
 ## Papéis
 
-- Responsável pelo script de estresse: Ickson
-- Responsável por adaptar o script de estresse: Diego, Victor e Henrique
-- Responsáveis por estressar o sistema: Alexandre, Diego, Victor, Henrique e Welington
-- Responsáveis por monitorar o sistema: Jefferson 
-- Opcionais: Jake
+- Responsável pelo script de estresse: Ickson  
+- Responsáveis por adaptar o script de estresse: Diego, Victor e Henrique (opcional)  
+- Responsáveis por estressar o sistema: Alexandre, Diego, Victor e Welington  
+- Responsável por monitorar o sistema: Jefferson  
+- Opcionais: Henrique e Jake
+
+## Resultados
+
+### Ferramentas para validação
+
+- [Planilha](https://docs.google.com/spreadsheets/d/1vYYiKfqUQ9IWmB7hvXE9hFXUomil17JVDZPd0AwVaeI/edit#gid=840597766)
+- [CloudWatch](
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODg4ODkxMF19
+eyJoaXN0b3J5IjpbMTM5NzMwMDcwOV19
 -->
