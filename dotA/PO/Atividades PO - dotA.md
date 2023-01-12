@@ -54,7 +54,7 @@ Report 11/01/2023
 -----------------
 TOTAL DE ISSUES: 48
 Fechadas: 39
-Abertas: 9, sendo 3 novas adicionadas hoje e 1 reabertas hoje
+Abertas: 9
 > Em validação: 3
 > Em desenvolvimento: 6
 ```
@@ -171,7 +171,7 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Opcionais: Jake
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjEwMDkxNCwxODM1OTg5Nzk5LC0xOD
+eyJoaXN0b3J5IjpbLTQxNDU5NTUwOCwxODM1OTg5Nzk5LC0xOD
 MzNTY3NTUzLC0yMDg1NjM4Mjk4LC0xMjk1MDI4Mjk3LDExNjMx
 MTc2MDUsMTk3OTA5NDAwMCwxODA4NzIxNDI0LC0xMjgxMjMwOD
 c0LDE3MTc0MjAyMSw1MjM4ODc3OTQsMTQ5MTUwNTU2NSwtMjA0
