@@ -22,9 +22,10 @@
 ### Painel de controle
 
 1. O filtro inicial no painel de controle é **Pontos monitorados**
-2. Não é possível ordenar os pontos no painel de controle 
+2. Não é possível ordenar os pontos no painel de controle com os parâmetros **Cliente**, **nome do ponto**, **estado do ponto**, **estado da conexão**, **alarmes ativos** e **alarmes sendo tratados**
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNjcxODk2LC0xNTA4NjQyNjEwLC0xNT
-c1Mzc3MDg0LDExOTc5MTgzOTIsLTE4NzIyMDY3NDIsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbMTY0ODI1Mjg5MCw0MjE2NzE4OTYsLTE1MD
+g2NDI2MTAsLTE1NzUzNzcwODQsMTE5NzkxODM5MiwtMTg3MjIw
+Njc0Miw3MzA5OTgxMTZdfQ==
 -->
