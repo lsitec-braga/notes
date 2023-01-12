@@ -22,12 +22,14 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - Responsável por monitorar o sistema: Jefferson  
 - Opcionais: Henrique e Jake
 
-## Resultados
-
-### Ferramentas para validação
+## Ferramentas para avaliação
 
 - [Planilha](https://docs.google.com/spreadsheets/d/1vYYiKfqUQ9IWmB7hvXE9hFXUomil17JVDZPd0AwVaeI/edit#gid=840597766)
-- [CloudWatch](
+- [CloudWatch](https://sa-east-1.console.aws.amazon.com/cloudwatch/home?region=sa-east-1#dashboards:name=Monitora_Server_EC2)
+
+## Resultados
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzMwMDcwOV19
+eyJoaXN0b3J5IjpbMTgxNTE1MDQzM119
 -->
