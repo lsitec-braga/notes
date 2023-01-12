@@ -60,7 +60,7 @@
 ## Monitor no dotA 1
 
 
-## Monitor no dotA 1
+## Monitor no dotA 2
 
 ## Pontos divergentes negativos - Gestor
 
@@ -74,8 +74,26 @@
 ### Cadastro de ponto
 
 1. Não é possível identificar na tela inicial de visualização à qual cliente o ponto pertence
+
+## Pontos divergentes negativos - Monitor
+
+### Painel de controle
+
+1. O filtro inicial no painel de controle é **Pontos monitorados**
+2. Não é possível ordenar os pontos no painel de controle com os parâmetros **Cliente**, **nome do ponto**, **estado do ponto**, **estado da conexão**, **alarmes ativos** e **alarmes sendo tratados**
+3. Não é possível ordenar no histórico de alarmes
+4. Não é apresentado o tipo do sensor no histórico do alarme
+
+## Pontos divergentes negativos - Operador
+
+### Painel de controle
+
+1. O filtro inicial no painel de controle é **Pontos monitorados**
+2. Não é possível ordenar os pontos no painel de controle com os parâmetros **Cliente**, **nome do ponto**, **estado do ponto**, **estado da conexão**, **alarmes ativos** e **alarmes sendo tratados**
+3. Não é possível ordenar no histórico de alarmes
+4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDExNzI0OSw5MTg2ODgyMCwxNjU3MT
+eyJoaXN0b3J5IjpbLTI0NjQ0ODIxOCw5MTg2ODgyMCwxNjU3MT
 Q3NjMyLC0xMjE1MTIzMDU2LDQyMTY3MTg5NiwtMTUwODY0MjYx
 MCwtMTU3NTM3NzA4NCwxMTk3OTE4MzkyLC0xODcyMjA2NzQyLD
 czMDk5ODExNl19
