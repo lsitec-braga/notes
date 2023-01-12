@@ -54,16 +54,16 @@ Report 11/01/2023
 -----------------
 TOTAL DE ISSUES: 48
 Fechadas: 39
-Abertas: 9
-> Em validação: 3
+Abertas: 10, sendo 1 nova adicionada hoje e 1 reaberta hoje
+> Em validação: 2
 > Em desenvolvimento: 6
 ```
 
 Atual - resumo atividades Ickson
 
 ```
-Ickson, segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #31, #40, #57, #68, #69, #70
+, segue a lista resumida das atividades pendentes:
+- Corrigir Bugs: #31, #40, #57, #60, #68, #69, #70, #72
 - Auxiliar na avaliação pós teste de estresse sobre a infra
 ```
 
@@ -149,7 +149,7 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjY1ODY2NCwtNDc3Mzc0MTYwLC00MT
+eyJoaXN0b3J5IjpbLTU1NjI4ODE0OCwtNDc3Mzc0MTYwLC00MT
 Q1OTU1MDgsMTgzNTk4OTc5OSwtMTgzMzU2NzU1MywtMjA4NTYz
 ODI5OCwtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5NzkwOTQwMD
 AsMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIwMjEsNTIz
