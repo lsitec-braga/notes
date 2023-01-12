@@ -7,8 +7,8 @@
 1. Acessar o painel de controle com o filtro de **Pontos alarmados** como padrão
 2. Conseguir visualizar as seguintes informações: Cliente, nome do ponto, estado do ponto, estado da conexão, alarmes ativos e alarmes sendo tratados
 3. Poder ordenar os pontos pelas colunas: Cliente, nome do ponto, estado do ponto, estado da conexão, alarmes ativos e alarmes sendo tratados
-4. Ter como ações rápidas
+4. Ter como ações rápidas: Ver gráficos, ver alarmes e ver histórico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NTI2NDY5LDExOTc5MTgzOTIsLTE4Nz
+eyJoaXN0b3J5IjpbNTQ2NzQxNzUwLDExOTc5MTgzOTIsLTE4Nz
 IyMDY3NDIsNzMwOTk4MTE2XX0=
 -->
