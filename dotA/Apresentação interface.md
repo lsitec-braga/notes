@@ -1,9 +1,12 @@
 # Apresentação interface
 
-## Como gestor no dotA 1
+## Gestor no dotA 1
 
-### 1. Painel de controle
+### Painel de controle
+
+1. Acessar o painel de controle com o filtro de **Pontos alarmados** como padrão
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjM5NDYwLC0xODcyMjA2NzQyLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTE5NzkxODM5MiwtMTg3MjIwNjc0Miw3Mz
+A5OTgxMTZdfQ==
 -->
