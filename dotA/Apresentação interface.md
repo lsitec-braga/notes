@@ -14,8 +14,8 @@
 ### Painel de controle
 
 1. Acessa o painel de controle com o filtro inicial de **Pontos monitorados**
-2. 
+2. Visualizar gráficos em 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTI1OTUwLC0xNTc1Mzc3MDg0LDExOT
-c5MTgzOTIsLTE4NzIyMDY3NDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzNzM2NTk2OTQsLTE1NzUzNzcwODQsMT
+E5NzkxODM5MiwtMTg3MjIwNjc0Miw3MzA5OTgxMTZdfQ==
 -->
