@@ -146,36 +146,13 @@ Ickson, seguem as atividades para conclusão:
 23/01 - Preparação para a Review
 24/01 - Review dotA2 - Sprint3
 
-## Teste de estresse
-
-### Objetivos
-
-- Encontrar a quantidade limite de dotas simultâneas que o sistema aguenta
-- Definir se a infraestrutura atual é o suficiente para suportar o sistema como um todo
-
-### Procedimento do teste
-
-1. O teste será iniciado com 10 dotas simultâneos, ficando assim, 2 dotas para cada tester
-2. Se o sistema suportar a quantidade testada, vamos aumentar em 50% de sua quantidade para averiguar se segue suportando
-3. Se o sistema não suportar a quantidade testada, vamos reduzir em 50% da quantidade de aumento e ver se o valor reduzido suporta
-4. Seguir os passos 2 e 3, ajustando conforme a necessidade, até chegar próximo do valor limite que define se o sistema vai continuar funcionando ou não
-
-Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos custos da AWS, portanto, devemos definir um limite de X% que pode ser cobrado adicionalmente.
-
-### Papéis
-
-- Responsável pelo script de estresse: Ickson
-- Responsável por adaptar o script de estresse: Diego, Victor e Henrique
-- Responsáveis por estressar o sistema: Alexandre, Diego, Victor, Henrique e Welington
-- Responsáveis por monitorar o sistema: Jefferson 
-- Opcionais: Jake
-
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDU5NTUwOCwxODM1OTg5Nzk5LC0xOD
-MzNTY3NTUzLC0yMDg1NjM4Mjk4LC0xMjk1MDI4Mjk3LDExNjMx
-MTc2MDUsMTk3OTA5NDAwMCwxODA4NzIxNDI0LC0xMjgxMjMwOD
-c0LDE3MTc0MjAyMSw1MjM4ODc3OTQsMTQ5MTUwNTU2NSwtMjA0
-MzQxMDM3MywzNTY2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMj
-g4LDU4MzExNzM1LDI0MjAwOTM4MCw5NTk3MDI4MDEsNDY0NTcz
-OTU5XX0=
+eyJoaXN0b3J5IjpbNjc1Mjk3OTg0LC00MTQ1OTU1MDgsMTgzNT
+k4OTc5OSwtMTgzMzU2NzU1MywtMjA4NTYzODI5OCwtMTI5NTAy
+ODI5NywxMTYzMTE3NjA1LDE5NzkwOTQwMDAsMTgwODcyMTQyNC
+wtMTI4MTIzMDg3NCwxNzE3NDIwMjEsNTIzODg3Nzk0LDE0OTE1
+MDU1NjUsLTIwNDM0MTAzNzMsMzU2NjM3NjMxLC02NjU5NTU4ND
+AsLTM3MDQ4MjI4OCw1ODMxMTczNSwyNDIwMDkzODAsOTU5NzAy
+ODAxXX0=
 -->
