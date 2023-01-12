@@ -16,11 +16,10 @@ dotA    | 14h00 | 17h30 | 3h30
 - [x] Fazer PR do ajuste do cancelamento do RetryWorker (atualmente ele só é cancelado ao clicar no botão "fechar" da última activity)
 - [x] Fazer ajustes nos dados da planilha
 
-- [x] Teste de issues que precisavam de validação e encerrá-las
+- [x] Teste de issues que precisavam de validação e encerramento das que estavam resolvidas
+- [x] Teste de estresse para ver como o sistema se comportava com várias requisições e usos simultâneos
 
 ## Afazeres planejados
-
-
 
 - [ ] Seguir com os testes na plataforma dota2, validando se os requisitos estão sendo atendidos
 - [ ] Iniciar a rodada de teste de estresse hoje no período da tarde junto com outros membros da equipe
@@ -29,7 +28,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzc3NjQ0MiwxOTk4ODI1OTM0LC0xOD
+eyJoaXN0b3J5IjpbMTE5MDg0MzQ2NiwxOTk4ODI1OTM0LC0xOD
 g2NTkzNDgzLC0xNzgxODI4MjM3LC0xNDkwMTAwODgxLDExNzU0
 NDc5MTIsLTY1ODMwMDcwNiwtMjU5MTc0MjkzLC05NDUyNjI2MT
 EsMTQzMjgyMjU3MCwtMTQzOTczMzg5MiwxNTg4MDI5MjIwLC0z
