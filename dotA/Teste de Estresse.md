@@ -29,7 +29,10 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 
 ## Resultados do dia 11/01/2023
 
-1. Após uma quantidade aproximada 10 dotAs simulados tentando se conectar simultaneamente,
+1. Após uma quantidade aproximada 10 dotAs simulados tentando se conectar simultaneamente, começou a apresentar problema de timeout, fazendo com que alguns pontos perdessem suas conexões
+2. Descobrir se o problema está no script utilizado durante o teste ou se o serviço IoT Core ou outro da AWS não está suportando a demanda
+
+## R
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NDE2NzUwLDE4MTUxNTA0MzNdfQ==
+eyJoaXN0b3J5IjpbMTY4NTQ4NTc3NywxODE1MTUwNDMzXX0=
 -->
