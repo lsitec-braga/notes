@@ -56,9 +56,13 @@
 ### Cadastro de ponto
 
 1. Visualiza um lista com os pontos cadastrados com as colunas "nome do ponto" e "estado do ponto"
-2. 
 
-## Pontos divergentes negativos
+## Monitor no dotA 1
+
+
+## Monitor no dotA 1
+
+## Pontos divergentes negativos - Gestor
 
 ### Painel de controle
 
@@ -71,8 +75,8 @@
 
 1. Não é possível identificar na tela inicial de visualização à qual cliente o ponto pertence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4Njg4MjAsMTY1NzE0NzYzMiwtMTIxNT
-EyMzA1Niw0MjE2NzE4OTYsLTE1MDg2NDI2MTAsLTE1NzUzNzcw
-ODQsMTE5NzkxODM5MiwtMTg3MjIwNjc0Miw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbMjEzNDExNzI0OSw5MTg2ODgyMCwxNjU3MT
+Q3NjMyLC0xMjE1MTIzMDU2LDQyMTY3MTg5NiwtMTUwODY0MjYx
+MCwtMTU3NTM3NzA4NCwxMTk3OTE4MzkyLC0xODcyMjA2NzQyLD
+czMDk5ODExNl19
 -->
