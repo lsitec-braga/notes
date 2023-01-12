@@ -14,7 +14,7 @@
 1. é possível Visualizar todos os clientes
 2. os clientes estão divididos nas seguintes colunas: Código Cliente, Código de Agrupamento, Agrupador, Agrupado, Com Camara, Nome Fantasia, Razão Social, CNPJ, Cidade, Estado
 3. é possível ordenar os itens de acordo com a coluna
-4. é possível editar o compartimento da empresa
+4. é possível editar o compartimento do cliente
 
 ## Gestor no dotA 2
 
@@ -27,7 +27,9 @@
 ### Clientes (Empresas)
 
 1. é possível visualizar todos as empresas
-2. está divido em colunas: Nome e 
+2. está divido em colunas: Nome e visualizar
+3. é possível filtrar a empresa pelo nome
+4. não é possível editar o compartimento ao editar os dados da empresa
 
 ## Pontos divergentes
 
@@ -38,8 +40,8 @@
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDc3MDE5NywxNjU3MTQ3NjMyLC0xMj
-E1MTIzMDU2LDQyMTY3MTg5NiwtMTUwODY0MjYxMCwtMTU3NTM3
-NzA4NCwxMTk3OTE4MzkyLC0xODcyMjA2NzQyLDczMDk5ODExNl
-19
+eyJoaXN0b3J5IjpbLTE5MzE2Nzk0ODYsMTY1NzE0NzYzMiwtMT
+IxNTEyMzA1Niw0MjE2NzE4OTYsLTE1MDg2NDI2MTAsLTE1NzUz
+NzcwODQsMTE5NzkxODM5MiwtMTg3MjIwNjc0Miw3MzA5OTgxMT
+ZdfQ==
 -->
