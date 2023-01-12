@@ -5,8 +5,8 @@
 ### Painel de controle
 
 1. Acessar o painel de controle com o filtro de **Pontos alarmados** como padrão
-2. 
+2. Conseguir visualizar as seguintes informações: Cliente, nome do ponto, estado do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzkxODM5MiwtMTg3MjIwNjc0Miw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQ1NDM2MzM1MywxMTk3OTE4MzkyLC0xOD
+cyMjA2NzQyLDczMDk5ODExNl19
 -->
