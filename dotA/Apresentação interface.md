@@ -24,8 +24,9 @@
 1. O filtro inicial no painel de controle é **Pontos monitorados**
 2. Não é possível ordenar os pontos no painel de controle com os parâmetros **Cliente**, **nome do ponto**, **estado do ponto**, **estado da conexão**, **alarmes ativos** e **alarmes sendo tratados**
 3. Não é possível ordenar no histórico de alarmes
+4. não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE2MzUwOTYsNDIxNjcxODk2LC0xNT
+eyJoaXN0b3J5IjpbLTIwMzcxOTU2MTksNDIxNjcxODk2LC0xNT
 A4NjQyNjEwLC0xNTc1Mzc3MDg0LDExOTc5MTgzOTIsLTE4NzIy
 MDY3NDIsNzMwOTk4MTE2XX0=
 -->
