@@ -11,6 +11,8 @@
 
 ### Clientes
 
+1. é possível editar compartimentos
+
 ## Gestor no dotA 2
 
 ### Painel de controle
@@ -30,7 +32,7 @@
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUxMjMwNTYsNDIxNjcxODk2LC0xNT
-A4NjQyNjEwLC0xNTc1Mzc3MDg0LDExOTc5MTgzOTIsLTE4NzIy
-MDY3NDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwOTYyNzczLC0xMjE1MTIzMDU2LDQyMT
+Y3MTg5NiwtMTUwODY0MjYxMCwtMTU3NTM3NzA4NCwxMTk3OTE4
+MzkyLC0xODcyMjA2NzQyLDczMDk5ODExNl19
 -->
