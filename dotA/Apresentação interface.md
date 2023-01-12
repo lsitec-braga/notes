@@ -16,6 +16,11 @@
 3. é possível ordenar os itens de acordo com a coluna
 4. é possível editar o compartimento do cliente
 
+### Usuário
+
+1. é possível visualizar todos os usuário do sistema
+2. é possível ordenar os itens através de suas colunas
+
 ## Gestor no dotA 2
 
 ### Painel de controle
@@ -31,6 +36,10 @@
 3. é possível filtrar a empresa pelo nome
 4. não é possível editar o compartimento ao editar os dados da empresa
 
+### Usuário
+
+1. Não é possível visualizar os usuários do sistema como Gestor de uma em
+
 ## Pontos divergentes
 
 ### Painel de controle
@@ -40,7 +49,7 @@
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE2Nzk0ODYsMTY1NzE0NzYzMiwtMT
+eyJoaXN0b3J5IjpbLTIxMTY1ODQ3NDgsMTY1NzE0NzYzMiwtMT
 IxNTEyMzA1Niw0MjE2NzE4OTYsLTE1MDg2NDI2MTAsLTE1NzUz
 NzcwODQsMTE5NzkxODM5MiwtMTg3MjIwNjc0Miw3MzA5OTgxMT
 ZdfQ==
