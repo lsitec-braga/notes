@@ -1,7 +1,6 @@
+# Apresentação interface
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+## Como gestor no dotA 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4NzIyMDY3NDIsNzMwOTk4MTE2XX0=
 -->
