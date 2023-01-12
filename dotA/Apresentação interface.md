@@ -49,6 +49,14 @@
 
 1. Não é possível visualizar os usuários do sistema como Gestor de uma empresa
 
+### dotAs conectados
+
+1. não é possível visualizar os dotas no sistema
+
+### Cadastro de ponto
+
+1. Visualiza um lista com os pontos cadastrados com as colunas"nome do ponto" e "estado do ponto"
+
 ## Pontos divergentes
 
 ### Painel de controle
@@ -58,8 +66,8 @@
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDIxMTAwMiwxNjU3MTQ3NjMyLC0xMj
-E1MTIzMDU2LDQyMTY3MTg5NiwtMTUwODY0MjYxMCwtMTU3NTM3
-NzA4NCwxMTk3OTE4MzkyLC0xODcyMjA2NzQyLDczMDk5ODExNl
-19
+eyJoaXN0b3J5IjpbNTU5NjM4ODY2LDE2NTcxNDc2MzIsLTEyMT
+UxMjMwNTYsNDIxNjcxODk2LC0xNTA4NjQyNjEwLC0xNTc1Mzc3
+MDg0LDExOTc5MTgzOTIsLTE4NzIyMDY3NDIsNzMwOTk4MTE2XX
+0=
 -->
