@@ -55,9 +55,10 @@
 
 ### Cadastro de ponto
 
-1. Visualiza um lista com os pontos cadastrados com as colunas"nome do ponto" e "estado do ponto"
+1. Visualiza um lista com os pontos cadastrados com as colunas "nome do ponto" e "estado do ponto"
+2. 
 
-## Pontos divergentes
+## Pontos divergentes negativos
 
 ### Painel de controle
 
@@ -65,9 +66,13 @@
 2. Não é possível ordenar os pontos no painel de controle com os parâmetros **Cliente**, **nome do ponto**, **estado do ponto**, **estado da conexão**, **alarmes ativos** e **alarmes sendo tratados**
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
+
+### Cadastro de ponto
+
+1. Não é possível identificar na tela inicial de visualização à qual cliente o ponto pertence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NjM4ODY2LDE2NTcxNDc2MzIsLTEyMT
-UxMjMwNTYsNDIxNjcxODk2LC0xNTA4NjQyNjEwLC0xNTc1Mzc3
-MDg0LDExOTc5MTgzOTIsLTE4NzIyMDY3NDIsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbOTE4Njg4MjAsMTY1NzE0NzYzMiwtMTIxNT
+EyMzA1Niw0MjE2NzE4OTYsLTE1MDg2NDI2MTAsLTE1NzUzNzcw
+ODQsMTE5NzkxODM5MiwtMTg3MjIwNjc0Miw3MzA5OTgxMTZdfQ
+==
 -->
