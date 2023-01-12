@@ -11,7 +11,9 @@
 
 ### Clientes
 
-1. é possível Visualizar todos os clientes e 
+1. é possível Visualizar todos os clientes
+2. os clientes estão divididos nas seguintes colunas: Código Cliente, Código de Agrupamento, Agrupador, Agrupado, Com Camara, Nome Fantasia, Razão Social, CNPJ, Cidade, Estado
+3. é possível ordenar os itens de acordo com a coluna
 
 ## Gestor no dotA 2
 
@@ -32,7 +34,8 @@
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzE0NzYzMiwtMTIxNTEyMzA1Niw0Mj
-E2NzE4OTYsLTE1MDg2NDI2MTAsLTE1NzUzNzcwODQsMTE5Nzkx
-ODM5MiwtMTg3MjIwNjc0Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTExMzI5MTQ0LDE2NTcxNDc2MzIsLTEyMT
+UxMjMwNTYsNDIxNjcxODk2LC0xNTA4NjQyNjEwLC0xNTc1Mzc3
+MDg0LDExOTc5MTgzOTIsLTE4NzIyMDY3NDIsNzMwOTk4MTE2XX
+0=
 -->
