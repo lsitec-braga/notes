@@ -23,9 +23,12 @@
 
 ### dotAs conectados
 
-1. é possível visualizar os dotas no sistema
+1. é possível visualizar os dotas no sistema podendo identificar seu Serial Number e Estado da conexão
 2. filtrar os dotas que estão no sistema
-3. 
+
+### Cadastro de ponto
+
+1. Visualiza um lista com os pontos cadastrados com as colunas "cliente", "nome do ponto" e "estado do ponto"
 
 ## Gestor no dotA 2
 
@@ -55,7 +58,7 @@
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzIxOTk5NywxNjU3MTQ3NjMyLC0xMj
+eyJoaXN0b3J5IjpbLTU2NDIxMTAwMiwxNjU3MTQ3NjMyLC0xMj
 E1MTIzMDU2LDQyMTY3MTg5NiwtMTUwODY0MjYxMCwtMTU3NTM3
 NzA4NCwxMTk3OTE4MzkyLC0xODcyMjA2NzQyLDczMDk5ODExNl
 19
