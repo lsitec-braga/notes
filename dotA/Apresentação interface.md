@@ -15,8 +15,16 @@
 
 1. Acessa o painel de controle com o filtro inicial de **Pontos monitorados**
 2. Visualizar gráficos com todos os sensores podendo ficar sobrepostos entre si
-3. Baixar os dados
+3. Os dados baixados sempre vem todos do período selecionado, não filtrando de acordo com os sensores selecionados no gráfico
+
+## Pontos divergentes
+
+### Painel de controle
+
+1. O
+2. Não é possível ordenar os pontos no painel de controle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg2NDI2MTAsLTE1NzUzNzcwODQsMT
-E5NzkxODM5MiwtMTg3MjIwNjc0Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk3NDk3NTQ5MywtMTUwODY0MjYxMCwtMT
+U3NTM3NzA4NCwxMTk3OTE4MzkyLC0xODcyMjA2NzQyLDczMDk5
+ODExNl19
 -->
