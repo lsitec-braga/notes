@@ -14,7 +14,8 @@
 ### Painel de controle
 
 1. Acessa o painel de controle com o filtro inicial de **Pontos monitorados**
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzUzNzcwODQsMTE5NzkxODM5MiwtMT
-g3MjIwNjc0Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTAxMTI1OTUwLC0xNTc1Mzc3MDg0LDExOT
+c5MTgzOTIsLTE4NzIyMDY3NDIsNzMwOTk4MTE2XX0=
 -->
