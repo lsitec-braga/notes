@@ -27,9 +27,9 @@ Obs.: Por ser um teste de estresse, é possível que ocorra alteração nos cust
 - [Planilha](https://docs.google.com/spreadsheets/d/1vYYiKfqUQ9IWmB7hvXE9hFXUomil17JVDZPd0AwVaeI/edit#gid=840597766)
 - [CloudWatch](https://sa-east-1.console.aws.amazon.com/cloudwatch/home?region=sa-east-1#dashboards:name=Monitora_Server_EC2)
 
-## Resultados
+## Resultados do dia 11/01/2023
 
-
+1. Após uma quantidade aproximada 10 dotAs simulados tentando se conectar simultaneamente,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTE1MDQzM119
+eyJoaXN0b3J5IjpbNDg4NDE2NzUwLDE4MTUxNTA0MzNdfQ==
 -->
