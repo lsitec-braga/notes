@@ -79,9 +79,11 @@
 ### Clientes
 
 
+
 ## Operador no dotA 2
 
 ### Clientes (Empresas)
+
 
 
 ## Pontos divergentes negativos - Gestor
@@ -115,7 +117,7 @@
 3. Não é possível ordenar no histórico de alarmes
 4. Não é apresentado o tipo do sensor no histórico do alarme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMTE1OTIxLDg2NTk3MzEwNSw5MTg2OD
+eyJoaXN0b3J5IjpbOTA3MTU0NjEzLDg2NTk3MzEwNSw5MTg2OD
 gyMCwxNjU3MTQ3NjMyLC0xMjE1MTIzMDU2LDQyMTY3MTg5Niwt
 MTUwODY0MjYxMCwtMTU3NTM3NzA4NCwxMTk3OTE4MzkyLC0xOD
 cyMjA2NzQyLDczMDk5ODExNl19
