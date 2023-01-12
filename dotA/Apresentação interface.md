@@ -21,10 +21,10 @@
 
 ### Painel de controle
 
-1. O
-2. Não é possível ordenar os pontos no painel de controle
+1. O filtro inicial no painel de controle é **Pontos monitorados**
+2. Não é possível ordenar os pontos no painel de controle 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDk3NTQ5MywtMTUwODY0MjYxMCwtMT
-U3NTM3NzA4NCwxMTk3OTE4MzkyLC0xODcyMjA2NzQyLDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbNDIxNjcxODk2LC0xNTA4NjQyNjEwLC0xNT
+c1Mzc3MDg0LDExOTc5MTgzOTIsLTE4NzIyMDY3NDIsNzMwOTk4
+MTE2XX0=
 -->
