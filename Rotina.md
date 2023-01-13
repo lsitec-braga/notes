@@ -18,6 +18,9 @@ dotA    | 14h00 | 17h30 | 3h30
 
 - [x] Teste de issues que precisavam de validação e encerramento das que estavam resolvidas
 - [x] Teste de estresse para ver como o sistema se comportava com várias requisições e usos simultâneos
+- [x] Teste de estresse com o Alexandre utilizando o novo script
+- [x] Comparação da plataforma dotA1 e dotA2 para alinhar os pontos divergentes no sistema
+- [x] Conferir no documento de requisitos
 
 ## Afazeres planejados
 
@@ -28,11 +31,11 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDg0MzQ2NiwxOTk4ODI1OTM0LC0xOD
-g2NTkzNDgzLC0xNzgxODI4MjM3LC0xNDkwMTAwODgxLDExNzU0
-NDc5MTIsLTY1ODMwMDcwNiwtMjU5MTc0MjkzLC05NDUyNjI2MT
-EsMTQzMjgyMjU3MCwtMTQzOTczMzg5MiwxNTg4MDI5MjIwLC0z
-ODI2MzM5OTcsLTE3MDQ4OTA0ODIsLTExOTc3Mzg5OCwxNjcyOD
-AwNDQ3LDEyNjI4MDU3MjcsODczMTAyODYyLDE1MDI1ODg4NTYs
-LTE0MDIzOTMyNDhdfQ==
+eyJoaXN0b3J5IjpbMTM5NzYyNDU3NSwxMTkwODQzNDY2LDE5OT
+g4MjU5MzQsLTE4ODY1OTM0ODMsLTE3ODE4MjgyMzcsLTE0OTAx
+MDA4ODEsMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOT
+MsLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMzODkyLDE1
+ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5MDQ4MiwtMTE5Nz
+czODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNyw4NzMxMDI4NjIs
+MTUwMjU4ODg1Nl19
 -->
