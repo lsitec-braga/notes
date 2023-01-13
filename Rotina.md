@@ -19,18 +19,18 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Afazeres planejados
 
-- [ ] Validar os bug
-- [ ] Iniciar a rodada de teste de estresse hoje no período da tarde junto com outros membros da equipe
+- [ ] Validar os bugfixes
+- [ ] Continuar conferindo se a plataforma está atendendo o documento de requisitos
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjkzMjA3LDExOTA4NDM0NjYsMTk5OD
-gyNTkzNCwtMTg4NjU5MzQ4MywtMTc4MTgyODIzNywtMTQ5MDEw
-MDg4MSwxMTc1NDQ3OTEyLC02NTgzMDA3MDYsLTI1OTE3NDI5My
-wtOTQ1MjYyNjExLDE0MzI4MjI1NzAsLTE0Mzk3MzM4OTIsMTU4
-ODAyOTIyMCwtMzgyNjMzOTk3LC0xNzA0ODkwNDgyLC0xMTk3Nz
-M4OTgsMTY3MjgwMDQ0NywxMjYyODA1NzI3LDg3MzEwMjg2Miwx
-NTAyNTg4ODU2XX0=
+eyJoaXN0b3J5IjpbMTcwODYwODE0NywxMTkwODQzNDY2LDE5OT
+g4MjU5MzQsLTE4ODY1OTM0ODMsLTE3ODE4MjgyMzcsLTE0OTAx
+MDA4ODEsMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOT
+MsLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMzODkyLDE1
+ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5MDQ4MiwtMTE5Nz
+czODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNyw4NzMxMDI4NjIs
+MTUwMjU4ODg1Nl19
 -->
