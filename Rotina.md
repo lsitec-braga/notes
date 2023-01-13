@@ -13,29 +13,24 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Feito
 
-- [x] Fazer PR do ajuste do cancelamento do RetryWorker (atualmente ele só é cancelado ao clicar no botão "fechar" da última activity)
-- [x] Fazer ajustes nos dados da planilha
-
-- [x] Teste de issues que precisavam de validação e encerramento das que estavam resolvidas
-- [x] Teste de estresse para ver como o sistema se comportava com várias requisições e usos simultâneos
 - [x] Teste de estresse com o Alexandre utilizando o novo script
 - [x] Comparação da plataforma dotA1 e dotA2 para alinhar os pontos divergentes no sistema
-- [x] Conferir no documento de requisitos
+- [x] Conferir no documento de requisitos se as novas funcionalidades principais estão sendo atendidas
 
 ## Afazeres planejados
 
-- [ ] Seguir com os testes na plataforma dota2, validando se os requisitos estão sendo atendidos
+- [ ] Validar os bug
 - [ ] Iniciar a rodada de teste de estresse hoje no período da tarde junto com outros membros da equipe
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzYyNDU3NSwxMTkwODQzNDY2LDE5OT
-g4MjU5MzQsLTE4ODY1OTM0ODMsLTE3ODE4MjgyMzcsLTE0OTAx
-MDA4ODEsMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOT
-MsLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMzODkyLDE1
-ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5MDQ4MiwtMTE5Nz
-czODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNyw4NzMxMDI4NjIs
-MTUwMjU4ODg1Nl19
+eyJoaXN0b3J5IjpbMTk4MjkzMjA3LDExOTA4NDM0NjYsMTk5OD
+gyNTkzNCwtMTg4NjU5MzQ4MywtMTc4MTgyODIzNywtMTQ5MDEw
+MDg4MSwxMTc1NDQ3OTEyLC02NTgzMDA3MDYsLTI1OTE3NDI5My
+wtOTQ1MjYyNjExLDE0MzI4MjI1NzAsLTE0Mzk3MzM4OTIsMTU4
+ODAyOTIyMCwtMzgyNjMzOTk3LC0xNzA0ODkwNDgyLC0xMTk3Nz
+M4OTgsMTY3MjgwMDQ0NywxMjYyODA1NzI3LDg3MzEwMjg2Miwx
+NTAyNTg4ODU2XX0=
 -->
