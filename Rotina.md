@@ -15,13 +15,11 @@ dotA    | 14h00 | 17h30 | 3h30
 
 - [x] Validar os bugfixes
 - [x] Continuar conferindo se a plataforma está atendendo o documento de requisitos
+- [x] Montar email para os gerentes sobres as dúvidas relacionadas à Migração
+- [x] Começar a formular a apresentação para a SR
 
 ## Afazeres planejados
 
-- [x] Validar os bugfixes
-- [x] Continuar conferindo se a plataforma está atendendo o documento de requisitos
-- [x] Montar email para os gerentes sobres as dúvidas relacionadas à Migração
-- [x] Começar a formular a apresentação para a SR
 - [ ] Ajustar planilha para confirmar o andamento da Sprint
 - [ ] Pesquisar sobre a migração dos dados do influx da plataforma antiga para a nova
 
@@ -29,7 +27,7 @@ dotA    | 14h00 | 17h30 | 3h30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzM5NDYyOSwtMTE3OTc4MzY5OSwyMD
+eyJoaXN0b3J5IjpbMTczNjE5MDUwOCwtMTE3OTc4MzY5OSwyMD
 YxODEyMDM3LDIwNjQxMzUxMjEsLTgwMTY5MTQ1MiwxNzA4NjA4
 MTQ3LDExOTA4NDM0NjYsMTk5ODgyNTkzNCwtMTg4NjU5MzQ4My
 wtMTc4MTgyODIzNywtMTQ5MDEwMDg4MSwxMTc1NDQ3OTEyLC02
