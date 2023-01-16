@@ -64,7 +64,7 @@ Atual - resumo atividades Ickson
 
 ```
 , segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #68, #71, #72, #76, #77, #79, #82, #83
+- Corrigir Bugs: #68, #72, #77, #82, #83
 - Auxiliar na avaliação pós teste de estresse sobre a infra
 ```
 
@@ -152,7 +152,7 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzg0MzgwNyw0MjM4NTI3OCwxMzg5MT
+eyJoaXN0b3J5IjpbLTEwODY5NTA2Myw0MjM4NTI3OCwxMzg5MT
 A3MjUyLDE3NTk3ODk4NzgsLTEyODg0NzUyNTMsODg3NTI2MTg4
 LC00NzczNzQxNjAsLTQxNDU5NTUwOCwxODM1OTg5Nzk5LC0xOD
 MzNTY3NTUzLC0yMDg1NjM4Mjk4LC0xMjk1MDI4Mjk3LDExNjMx
