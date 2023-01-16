@@ -57,7 +57,7 @@ Fechadas: 54
 Abertas: 5, sendo 2 nova adicionada hoje e 2 reabertas hoje
 > Em validação: 2
 > Em desenvolvimento: 3
-Obs.: 1 issue foi aberta após o report do dia 13/01/2023, por isso existem mais issues do
+Obs.: 1 issue foi aberta no dia 13/01/2023 após o report, por isso o total de issues está com um valor a mais
 ```
 
 Atual - resumo atividades Ickson
@@ -152,7 +152,7 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTMyNTUyNSwxNzU5Nzg5ODc4LC0xMj
+eyJoaXN0b3J5IjpbMTM4OTEwNzI1MiwxNzU5Nzg5ODc4LC0xMj
 g4NDc1MjUzLDg4NzUyNjE4OCwtNDc3Mzc0MTYwLC00MTQ1OTU1
 MDgsMTgzNTk4OTc5OSwtMTgzMzU2NzU1MywtMjA4NTYzODI5OC
 wtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5NzkwOTQwMDAsMTgw
