@@ -52,10 +52,10 @@ Atual - Report issues
 ```
 Report 16/01/2023
 -----------------
-TOTAL DE ISSUES: 57
+TOTAL DE ISSUES: 55
 Fechadas: 50
-Abertas: 4, sendo 1 nova adicionada hoje e 2 reabertas hoje
-> Em validação: 1
+Abertas: 5, sendo 2 nova adicionada hoje e 2 reabertas hoje
+> Em validação: 2
 > Em desenvolvimento: 3
 ```
 
@@ -151,11 +151,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1MzA5MzY5LDE3NTk3ODk4NzgsLTEyOD
-g0NzUyNTMsODg3NTI2MTg4LC00NzczNzQxNjAsLTQxNDU5NTUw
-OCwxODM1OTg5Nzk5LC0xODMzNTY3NTUzLC0yMDg1NjM4Mjk4LC
-0xMjk1MDI4Mjk3LDExNjMxMTc2MDUsMTk3OTA5NDAwMCwxODA4
-NzIxNDI0LC0xMjgxMjMwODc0LDE3MTc0MjAyMSw1MjM4ODc3OT
-QsMTQ5MTUwNTU2NSwtMjA0MzQxMDM3MywzNTY2Mzc2MzEsLTY2
-NTk1NTg0MF19
+eyJoaXN0b3J5IjpbMjEzMTUxNTkyOCwxNzU5Nzg5ODc4LC0xMj
+g4NDc1MjUzLDg4NzUyNjE4OCwtNDc3Mzc0MTYwLC00MTQ1OTU1
+MDgsMTgzNTk4OTc5OSwtMTgzMzU2NzU1MywtMjA4NTYzODI5OC
+wtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5NzkwOTQwMDAsMTgw
+ODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIwMjEsNTIzODg3Nz
+k0LDE0OTE1MDU1NjUsLTIwNDM0MTAzNzMsMzU2NjM3NjMxLC02
+NjU5NTU4NDBdfQ==
 -->
