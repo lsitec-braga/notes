@@ -13,24 +13,25 @@ dotA    | 14h00 | 17h30 | 3h30
 
 ## Feito
 
-- [x] Teste de estresse com o Alexandre utilizando o novo script
-- [x] Comparação da plataforma dotA1 e dotA2 para alinhar os pontos divergentes no sistema
-- [x] Conferir no documento de requisitos se as novas funcionalidades principais estão sendo atendidas
+- [x] Validar os bugfixes
+- [x] Continuar conferindo se a plataforma está atendendo o documento de requisitos
 
 ## Afazeres planejados
 
 - [ ] Validar os bugfixes
 - [ ] Continuar conferindo se a plataforma está atendendo o documento de requisitos
+- [ ] Começar a formular a apresentação para a SR
+- [ ] Pesquisar sobre a migração dos dados do influx da plataforma antiga para a nova
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODYwODE0NywxMTkwODQzNDY2LDE5OT
-g4MjU5MzQsLTE4ODY1OTM0ODMsLTE3ODE4MjgyMzcsLTE0OTAx
-MDA4ODEsMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOT
-MsLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMzODkyLDE1
-ODgwMjkyMjAsLTM4MjYzMzk5NywtMTcwNDg5MDQ4MiwtMTE5Nz
-czODk4LDE2NzI4MDA0NDcsMTI2MjgwNTcyNyw4NzMxMDI4NjIs
-MTUwMjU4ODg1Nl19
+eyJoaXN0b3J5IjpbLTgwMTY5MTQ1MiwxNzA4NjA4MTQ3LDExOT
+A4NDM0NjYsMTk5ODgyNTkzNCwtMTg4NjU5MzQ4MywtMTc4MTgy
+ODIzNywtMTQ5MDEwMDg4MSwxMTc1NDQ3OTEyLC02NTgzMDA3MD
+YsLTI1OTE3NDI5MywtOTQ1MjYyNjExLDE0MzI4MjI1NzAsLTE0
+Mzk3MzM4OTIsMTU4ODAyOTIyMCwtMzgyNjMzOTk3LC0xNzA0OD
+kwNDgyLC0xMTk3NzM4OTgsMTY3MjgwMDQ0NywxMjYyODA1NzI3
+LDg3MzEwMjg2Ml19
 -->
