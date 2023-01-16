@@ -139,9 +139,11 @@ Ickson, seguem as atividades para conclusão:
 11/01 - Dia do Teste de estresse
 12/01 - Avaliação dos resultados do teste de estresse
 
-17/01 - Início da migração de dados do dotA1 para o dotA2
-19/01 - Fim da migração de dados do dotA1 para o dotA2
-20/01 - Conferência do sistema final com os dados migrados
+16/01 - Validação das features utilizadas que possam afetar a SR ou experiência do usuário
+17/01 - Preparação para a apresentação
+18/01 - Apresentação da interface para São Rafael
+19/01 - Início dos testes de migração de dados do dotA1 para o dotA2
+20/01 - Fim dos testes de migração de dados do dotA1 para o dotA2
 
 23/01 - Preparação para a Review
 24/01 - Review dotA2 - Sprint3
@@ -150,11 +152,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg0NzUyNTMsODg3NTI2MTg4LC00Nz
-czNzQxNjAsLTQxNDU5NTUwOCwxODM1OTg5Nzk5LC0xODMzNTY3
-NTUzLC0yMDg1NjM4Mjk4LC0xMjk1MDI4Mjk3LDExNjMxMTc2MD
-UsMTk3OTA5NDAwMCwxODA4NzIxNDI0LC0xMjgxMjMwODc0LDE3
-MTc0MjAyMSw1MjM4ODc3OTQsMTQ5MTUwNTU2NSwtMjA0MzQxMD
-M3MywzNTY2Mzc2MzEsLTY2NTk1NTg0MCwtMzcwNDgyMjg4LDU4
-MzExNzM1XX0=
+eyJoaXN0b3J5IjpbMTc1OTc4OTg3OCwtMTI4ODQ3NTI1Myw4OD
+c1MjYxODgsLTQ3NzM3NDE2MCwtNDE0NTk1NTA4LDE4MzU5ODk3
+OTksLTE4MzM1Njc1NTMsLTIwODU2MzgyOTgsLTEyOTUwMjgyOT
+csMTE2MzExNzYwNSwxOTc5MDk0MDAwLDE4MDg3MjE0MjQsLTEy
+ODEyMzA4NzQsMTcxNzQyMDIxLDUyMzg4Nzc5NCwxNDkxNTA1NT
+Y1LC0yMDQzNDEwMzczLDM1NjYzNzYzMSwtNjY1OTU1ODQwLC0z
+NzA0ODIyODhdfQ==
 -->
