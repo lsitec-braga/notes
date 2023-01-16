@@ -64,7 +64,7 @@ Atual - resumo atividades Ickson
 
 ```
 , segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #68, #71, #72, #76, #77, #79
+- Corrigir Bugs: #68, #71, #72, #76, #77, #79, #82, #83
 - Auxiliar na avaliação pós teste de estresse sobre a infra
 ```
 
@@ -152,11 +152,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzODUyNzgsMTM4OTEwNzI1MiwxNzU5Nz
-g5ODc4LC0xMjg4NDc1MjUzLDg4NzUyNjE4OCwtNDc3Mzc0MTYw
-LC00MTQ1OTU1MDgsMTgzNTk4OTc5OSwtMTgzMzU2NzU1MywtMj
-A4NTYzODI5OCwtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5Nzkw
-OTQwMDAsMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIwMj
-EsNTIzODg3Nzk0LDE0OTE1MDU1NjUsLTIwNDM0MTAzNzMsMzU2
-NjM3NjMxXX0=
+eyJoaXN0b3J5IjpbMTI1Nzg0MzgwNyw0MjM4NTI3OCwxMzg5MT
+A3MjUyLDE3NTk3ODk4NzgsLTEyODg0NzUyNTMsODg3NTI2MTg4
+LC00NzczNzQxNjAsLTQxNDU5NTUwOCwxODM1OTg5Nzk5LC0xOD
+MzNTY3NTUzLC0yMDg1NjM4Mjk4LC0xMjk1MDI4Mjk3LDExNjMx
+MTc2MDUsMTk3OTA5NDAwMCwxODA4NzIxNDI0LC0xMjgxMjMwOD
+c0LDE3MTc0MjAyMSw1MjM4ODc3OTQsMTQ5MTUwNTU2NSwtMjA0
+MzQxMDM3M119
 -->
