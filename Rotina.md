@@ -19,18 +19,18 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Afazeres planejados
 
-- [ ] Ajustar planilha para confirmar o andamento da Sprint
+- [x] Ajustar planilha para confirmar o andamento da Sprint
 - [ ] Pesquisar sobre a migração dos dados do influx da plataforma antiga para a nova
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODY1MDI3MywxNzM2MTkwNTA4LC0xMT
-c5NzgzNjk5LDIwNjE4MTIwMzcsMjA2NDEzNTEyMSwtODAxNjkx
-NDUyLDE3MDg2MDgxNDcsMTE5MDg0MzQ2NiwxOTk4ODI1OTM0LC
-0xODg2NTkzNDgzLC0xNzgxODI4MjM3LC0xNDkwMTAwODgxLDEx
-NzU0NDc5MTIsLTY1ODMwMDcwNiwtMjU5MTc0MjkzLC05NDUyNj
-I2MTEsMTQzMjgyMjU3MCwtMTQzOTczMzg5MiwxNTg4MDI5MjIw
-LC0zODI2MzM5OTddfQ==
+eyJoaXN0b3J5IjpbNDc4NjE1MzAzLDE3MzYxOTA1MDgsLTExNz
+k3ODM2OTksMjA2MTgxMjAzNywyMDY0MTM1MTIxLC04MDE2OTE0
+NTIsMTcwODYwODE0NywxMTkwODQzNDY2LDE5OTg4MjU5MzQsLT
+E4ODY1OTM0ODMsLTE3ODE4MjgyMzcsLTE0OTAxMDA4ODEsMTE3
+NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOTMsLTk0NTI2Mj
+YxMSwxNDMyODIyNTcwLC0xNDM5NzMzODkyLDE1ODgwMjkyMjAs
+LTM4MjYzMzk5N119
 -->
