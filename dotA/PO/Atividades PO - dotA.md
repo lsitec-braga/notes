@@ -64,7 +64,7 @@ Atual - resumo atividades Ickson
 
 ```
 , segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #86
+- Corrigir Bugs: , #86
 - Correção de possíveis bugs reportados durante a reunião com a São Rafael
 - Auxiliar na avaliação pós teste de estresse sobre a infra
 ```
@@ -153,11 +153,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIwNTYwMzIsMTkzMjc3NTY4OCwtMj
-g2MzgxNDMyLDQyMzg1Mjc4LDEzODkxMDcyNTIsMTc1OTc4OTg3
-OCwtMTI4ODQ3NTI1Myw4ODc1MjYxODgsLTQ3NzM3NDE2MCwtND
-E0NTk1NTA4LDE4MzU5ODk3OTksLTE4MzM1Njc1NTMsLTIwODU2
-MzgyOTgsLTEyOTUwMjgyOTcsMTE2MzExNzYwNSwxOTc5MDk0MD
-AwLDE4MDg3MjE0MjQsLTEyODEyMzA4NzQsMTcxNzQyMDIxLDUy
-Mzg4Nzc5NF19
+eyJoaXN0b3J5IjpbMTA5MjA1NTU5NiwxOTMyNzc1Njg4LC0yOD
+YzODE0MzIsNDIzODUyNzgsMTM4OTEwNzI1MiwxNzU5Nzg5ODc4
+LC0xMjg4NDc1MjUzLDg4NzUyNjE4OCwtNDc3Mzc0MTYwLC00MT
+Q1OTU1MDgsMTgzNTk4OTc5OSwtMTgzMzU2NzU1MywtMjA4NTYz
+ODI5OCwtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5NzkwOTQwMD
+AsMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIwMjEsNTIz
+ODg3Nzk0XX0=
 -->
