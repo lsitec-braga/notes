@@ -52,9 +52,9 @@ Atual - Report issues
 ```
 Report 16/01/2023
 -----------------
-TOTAL DE ISSUES: 60
-Fechadas: 55
-Abertas: 5, sendo 3 nova adicionada hoje e 2 reabertas hoje
+TOTAL DE ISSUES: 65
+Fechadas: 62
+Abertas: 3, sendo 3 nova adicionada hoje e 1 reabertas hoje
 > Em validação: 2
 > Em desenvolvimento: 4
 Obs.: 1 issue foi aberta no dia 13/01/2023 após o report, por isso o total de issues está com um valor a mais
@@ -64,7 +64,8 @@ Atual - resumo atividades Ickson
 
 ```
 , segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: , #86
+- Corrigir Bugs:
+- Aguardar avaliação do teste de estresse para ver se ocorrerá problemas de performance
 - Correção de possíveis bugs reportados durante a reunião com a São Rafael
 - Auxiliar na avaliação pós teste de estresse sobre a infra
 ```
@@ -153,11 +154,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjA1NTU5NiwxOTMyNzc1Njg4LC0yOD
-YzODE0MzIsNDIzODUyNzgsMTM4OTEwNzI1MiwxNzU5Nzg5ODc4
-LC0xMjg4NDc1MjUzLDg4NzUyNjE4OCwtNDc3Mzc0MTYwLC00MT
-Q1OTU1MDgsMTgzNTk4OTc5OSwtMTgzMzU2NzU1MywtMjA4NTYz
-ODI5OCwtMTI5NTAyODI5NywxMTYzMTE3NjA1LDE5NzkwOTQwMD
-AsMTgwODcyMTQyNCwtMTI4MTIzMDg3NCwxNzE3NDIwMjEsNTIz
-ODg3Nzk0XX0=
+eyJoaXN0b3J5IjpbLTQ1NzQxMTI5MywxMDkyMDU1NTk2LDE5Mz
+I3NzU2ODgsLTI4NjM4MTQzMiw0MjM4NTI3OCwxMzg5MTA3MjUy
+LDE3NTk3ODk4NzgsLTEyODg0NzUyNTMsODg3NTI2MTg4LC00Nz
+czNzQxNjAsLTQxNDU5NTUwOCwxODM1OTg5Nzk5LC0xODMzNTY3
+NTUzLC0yMDg1NjM4Mjk4LC0xMjk1MDI4Mjk3LDExNjMxMTc2MD
+UsMTk3OTA5NDAwMCwxODA4NzIxNDI0LC0xMjgxMjMwODc0LDE3
+MTc0MjAyMV19
 -->
