@@ -54,10 +54,10 @@ Report 16/01/2023
 -----------------
 TOTAL DE ISSUES: 65
 Fechadas: 62
-Abertas: 3, sendo 3 nova adicionada hoje e 1 reabertas hoje
-> Em validação: 2
-> Em desenvolvimento: 4
-Obs.: 1 issue foi aberta no dia 13/01/2023 após o report, por isso o total de issues está com um valor a mais
+Abertas: 3, sendo 2 nova adicionada hoje e 1 reabertas hoje
+> Em validação: 3
+> Em desenvolvimento: 0
+Obs.: 3 issues foram abertas hoje e encerradas no mesmo dia
 ```
 
 Atual - resumo atividades Ickson
@@ -154,7 +154,7 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzQxMTI5MywxMDkyMDU1NTk2LDE5Mz
+eyJoaXN0b3J5IjpbLTk3NTkwNzk1MiwxMDkyMDU1NTk2LDE5Mz
 I3NzU2ODgsLTI4NjM4MTQzMiw0MjM4NTI3OCwxMzg5MTA3MjUy
 LDE3NTk3ODk4NzgsLTEyODg0NzUyNTMsODg3NTI2MTg4LC00Nz
 czNzQxNjAsLTQxNDU5NTUwOCwxODM1OTg5Nzk5LC0xODMzNTY3
