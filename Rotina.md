@@ -14,22 +14,23 @@ dotA    | 09h00 | 18h | 8h00
 
 - [x] Validar os bugfixes
 - [x] Continuar conferindo se a plataforma está atendendo o documento de requisitos
-- [x] Montar apresentação para a SR
+- [x] Fazer a apresentação para a SR
+- [x] Alinhei com o Victor sobre a questão da migração dos dados do InfluxDB
 
 ## Afazeres planejados
 
-- [x] Ajustar planilha para confirmar o andamento da Sprint
-- [ ] Pesquisar sobre a migração dos dados do influx da plataforma antiga para a nova
+- [ ] Terminar de categorizar os pontos levantados durante a apresentação
+- [ ] Conferir 
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MjE0NDcsNDc4NjE1MzAzLDE3MzYxOT
-A1MDgsLTExNzk3ODM2OTksMjA2MTgxMjAzNywyMDY0MTM1MTIx
-LC04MDE2OTE0NTIsMTcwODYwODE0NywxMTkwODQzNDY2LDE5OT
-g4MjU5MzQsLTE4ODY1OTM0ODMsLTE3ODE4MjgyMzcsLTE0OTAx
-MDA4ODEsMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOT
-MsLTk0NTI2MjYxMSwxNDMyODIyNTcwLC0xNDM5NzMzODkyLDE1
-ODgwMjkyMjBdfQ==
+eyJoaXN0b3J5IjpbMTI3MjYxNDg4OSw0ODQyMTQ0Nyw0Nzg2MT
+UzMDMsMTczNjE5MDUwOCwtMTE3OTc4MzY5OSwyMDYxODEyMDM3
+LDIwNjQxMzUxMjEsLTgwMTY5MTQ1MiwxNzA4NjA4MTQ3LDExOT
+A4NDM0NjYsMTk5ODgyNTkzNCwtMTg4NjU5MzQ4MywtMTc4MTgy
+ODIzNywtMTQ5MDEwMDg4MSwxMTc1NDQ3OTEyLC02NTgzMDA3MD
+YsLTI1OTE3NDI5MywtOTQ1MjYyNjExLDE0MzI4MjI1NzAsLTE0
+Mzk3MzM4OTJdfQ==
 -->
