@@ -50,13 +50,13 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 Atual - Report issues
 
 ```
-Report 20/01/2023
+Report 23/01/2023
 -----------------
 TOTAL DE ISSUES: 76
 Fechadas: 65
-Abertas: 11, sendo 4 novas adicionadas hoje
+Abertas: 12, sendo 1 nova adicionada hoje
 > Em validação: 1
-> Em desenvolvimento: 10
+> Em desenvolvimento: 11
 ```
 
 Atual - resumo atividades Ickson
@@ -153,11 +153,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NDM4OTUsLTIwNjY4MzQ3ODcsLTQwOT
-k4ODA1NywxNjQ1MjAzMzg1LDE1MzUwMTE0NiwxMDkyMDU1NTk2
-LDE5MzI3NzU2ODgsLTI4NjM4MTQzMiw0MjM4NTI3OCwxMzg5MT
-A3MjUyLDE3NTk3ODk4NzgsLTEyODg0NzUyNTMsODg3NTI2MTg4
-LC00NzczNzQxNjAsLTQxNDU5NTUwOCwxODM1OTg5Nzk5LC0xOD
-MzNTY3NTUzLC0yMDg1NjM4Mjk4LC0xMjk1MDI4Mjk3LDExNjMx
-MTc2MDVdfQ==
+eyJoaXN0b3J5IjpbLTg0MDI2MTE5Myw3NTQ0Mzg5NSwtMjA2Nj
+gzNDc4NywtNDA5OTg4MDU3LDE2NDUyMDMzODUsMTUzNTAxMTQ2
+LDEwOTIwNTU1OTYsMTkzMjc3NTY4OCwtMjg2MzgxNDMyLDQyMz
+g1Mjc4LDEzODkxMDcyNTIsMTc1OTc4OTg3OCwtMTI4ODQ3NTI1
+Myw4ODc1MjYxODgsLTQ3NzM3NDE2MCwtNDE0NTk1NTA4LDE4Mz
+U5ODk3OTksLTE4MzM1Njc1NTMsLTIwODU2MzgyOTgsLTEyOTUw
+MjgyOTddfQ==
 -->
