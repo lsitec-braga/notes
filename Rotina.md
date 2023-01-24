@@ -12,26 +12,25 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [ ] Comentar sobre a reunião de estimativa que ocorrerá na tarde de hoje
-- [x] Validar os bugfixes
-- [x] Continuar conferindo se a plataforma está atendendo o documento de requisitos
-- [x] Terminar de categorizar os pontos levantados durante a apresentação
-- [x] Conferir resoluções de bugfixes
+- [x] Subir release nova no github 
+- [x] Fazer merge das alterações mais recentes
 
 ## Afazeres planejados
 
-- [ ] Conferir resoluções de bugfixes
-- [ ] Conferir a responsividade em dispositivos móveis na plataforma
+- [ ] Alterar a questão do valor limite de calibragem para -50 e 50
+- [ ] Validar os bugfixes validados pelo Welington
+- [ ] Iniciar estudo da lib de chartsJS
+- [ ] 
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODQ1OTY4OCwtMjUwMjM3NjYwLDQ4ND
-IxNDQ3LDQ3ODYxNTMwMywxNzM2MTkwNTA4LC0xMTc5NzgzNjk5
-LDIwNjE4MTIwMzcsMjA2NDEzNTEyMSwtODAxNjkxNDUyLDE3MD
-g2MDgxNDcsMTE5MDg0MzQ2NiwxOTk4ODI1OTM0LC0xODg2NTkz
-NDgzLC0xNzgxODI4MjM3LC0xNDkwMTAwODgxLDExNzU0NDc5MT
-IsLTY1ODMwMDcwNiwtMjU5MTc0MjkzLC05NDUyNjI2MTEsMTQz
-MjgyMjU3MF19
+eyJoaXN0b3J5IjpbLTQ1ODg2MTQ4NywtNjg4NDU5Njg4LC0yNT
+AyMzc2NjAsNDg0MjE0NDcsNDc4NjE1MzAzLDE3MzYxOTA1MDgs
+LTExNzk3ODM2OTksMjA2MTgxMjAzNywyMDY0MTM1MTIxLC04MD
+E2OTE0NTIsMTcwODYwODE0NywxMTkwODQzNDY2LDE5OTg4MjU5
+MzQsLTE4ODY1OTM0ODMsLTE3ODE4MjgyMzcsLTE0OTAxMDA4OD
+EsMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOTMsLTk0
+NTI2MjYxMV19
 -->
