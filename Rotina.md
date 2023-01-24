@@ -20,17 +20,20 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] Alterar a questão do valor limite de calibragem para -50 e 50
 - [ ] Validar os bugfixes validados pelo Welington
 - [ ] Iniciar estudo da lib de chartsJS
-- [ ] 
+- [ ] Avaliar serviço de hospedagem 24/7
 
 ## Afazeres não planejados
 
+- [ ] Reunião com o Jake para alinhar o "Dota tools" dentro do cfg server
+- [ ] Teste de Estresse com o Alexandre para conferir a performance da plataforma com vários dotAs
+- [ ] Solicitar Welington o checklist para realizer os testes no aparelho dotA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODg2MTQ4NywtNjg4NDU5Njg4LC0yNT
-AyMzc2NjAsNDg0MjE0NDcsNDc4NjE1MzAzLDE3MzYxOTA1MDgs
-LTExNzk3ODM2OTksMjA2MTgxMjAzNywyMDY0MTM1MTIxLC04MD
-E2OTE0NTIsMTcwODYwODE0NywxMTkwODQzNDY2LDE5OTg4MjU5
-MzQsLTE4ODY1OTM0ODMsLTE3ODE4MjgyMzcsLTE0OTAxMDA4OD
-EsMTE3NTQ0NzkxMiwtNjU4MzAwNzA2LC0yNTkxNzQyOTMsLTk0
-NTI2MjYxMV19
+eyJoaXN0b3J5IjpbLTExNTk3NDg4MjQsLTY4ODQ1OTY4OCwtMj
+UwMjM3NjYwLDQ4NDIxNDQ3LDQ3ODYxNTMwMywxNzM2MTkwNTA4
+LC0xMTc5NzgzNjk5LDIwNjE4MTIwMzcsMjA2NDEzNTEyMSwtOD
+AxNjkxNDUyLDE3MDg2MDgxNDcsMTE5MDg0MzQ2NiwxOTk4ODI1
+OTM0LC0xODg2NTkzNDgzLC0xNzgxODI4MjM3LC0xNDkwMTAwOD
+gxLDExNzU0NDc5MTIsLTY1ODMwMDcwNiwtMjU5MTc0MjkzLC05
+NDUyNjI2MTFdfQ==
 -->
