@@ -63,6 +63,7 @@ Atual - resumo atividades Ickson
 
 ```
 , segue a lista resumida das atividades pendentes:
+- Corrigir Bug: #102
 - Aguardar avaliação do teste de estresse para ver se ocorrerá problemas de performance na plataforma
 - Correção dos bugs de responsividade que ainda estão sendo reportados
 - Auxiliar na avaliação pós teste de estresse sobre a infra
@@ -85,7 +86,7 @@ Backup - resumo atividades Ickson
 
 ```
 Ickson, segue a lista resumida das atividades pendentes:
-- Corrigir Bugs: #31, #40, #52, #57, #59, #64, #65, #68, #69, #70, #71
+- Corrigir Bugs: #102
 - Fazer itens de qualidade de vida: #66
 - Fazer script para o teste de estresse
 - Auxiliar na avaliação pós teste de estresse sobre a infra.
@@ -152,7 +153,7 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTM5NTM0MCw3Nzc2NDkwNzksLTE1Nj
+eyJoaXN0b3J5IjpbLTEzNzc2MjYzNyw3Nzc2NDkwNzksLTE1Nj
 gwNTc5NjQsNzU0NDM4OTUsLTIwNjY4MzQ3ODcsLTQwOTk4ODA1
 NywxNjQ1MjAzMzg1LDE1MzUwMTE0NiwxMDkyMDU1NTk2LDE5Mz
 I3NzU2ODgsLTI4NjM4MTQzMiw0MjM4NTI3OCwxMzg5MTA3MjUy
