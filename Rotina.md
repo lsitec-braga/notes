@@ -24,13 +24,14 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] Avaliar serviço de hospedagem 24/7
 - [ ] Definir data para subir a instância de Produção, datas: 27/01/2023 - 30/01/2023
 - [ ] Adicionar tempo de testes do firmware no gráfico de Gantt
-- [ ] 
+
+- [ ] Preparar Retro e Review 360 - Sellout
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzI2MjY4NCwtMTIwNzIxNDQ0MCwyMD
+eyJoaXN0b3J5IjpbMTYzODQ4Mjk2MiwtMTIwNzIxNDQ0MCwyMD
 YxNTc1NzY1LDIxMTM0ODk5NjksMTA2ODc5MjcsLTY4ODQ1OTY4
 OCwtMjUwMjM3NjYwLDQ4NDIxNDQ3LDQ3ODYxNTMwMywxNzM2MT
 kwNTA4LC0xMTc5NzgzNjk5LDIwNjE4MTIwMzcsMjA2NDEzNTEy
