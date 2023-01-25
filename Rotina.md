@@ -24,16 +24,17 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] Avaliar serviço de hospedagem 24/7
 - [ ] Definir data para subir a instância de Produção, datas: 27/01/2023 - 30/01/2023
 - [ ] Adicionar tempo de testes do firmware no gráfico de Gantt
+- [ ] 
 
 ## Afazeres não planejados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE5NDE5NjcsLTEyMDcyMTQ0NDAsMj
-A2MTU3NTc2NSwyMTEzNDg5OTY5LDEwNjg3OTI3LC02ODg0NTk2
-ODgsLTI1MDIzNzY2MCw0ODQyMTQ0Nyw0Nzg2MTUzMDMsMTczNj
-E5MDUwOCwtMTE3OTc4MzY5OSwyMDYxODEyMDM3LDIwNjQxMzUx
-MjEsLTgwMTY5MTQ1MiwxNzA4NjA4MTQ3LDExOTA4NDM0NjYsMT
-k5ODgyNTkzNCwtMTg4NjU5MzQ4MywtMTc4MTgyODIzNywtMTQ5
-MDEwMDg4MV19
+eyJoaXN0b3J5IjpbLTUxMzI2MjY4NCwtMTIwNzIxNDQ0MCwyMD
+YxNTc1NzY1LDIxMTM0ODk5NjksMTA2ODc5MjcsLTY4ODQ1OTY4
+OCwtMjUwMjM3NjYwLDQ4NDIxNDQ3LDQ3ODYxNTMwMywxNzM2MT
+kwNTA4LC0xMTc5NzgzNjk5LDIwNjE4MTIwMzcsMjA2NDEzNTEy
+MSwtODAxNjkxNDUyLDE3MDg2MDgxNDcsMTE5MDg0MzQ2NiwxOT
+k4ODI1OTM0LC0xODg2NTkzNDgzLC0xNzgxODI4MjM3LC0xNDkw
+MTAwODgxXX0=
 -->
