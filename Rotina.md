@@ -12,7 +12,7 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] 13h - Teste de Estresse com o Alexandre para conferir a performance da plataforma com vários dotAs
+- [x] 13h - Teste de workload com o Alexandre para conferir a performance da plataforma com vários dotAs
 - [x] Alteração do valor limite de calibragem para -50 e 50
 - [x] Validar os bugfixes validados pelo Welington
 
@@ -29,11 +29,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5ODE5ODM3LC0xNDYyNDQ3NTQ2LDE2Mz
-g0ODI5NjIsLTEyMDcyMTQ0NDAsMjA2MTU3NTc2NSwyMTEzNDg5
-OTY5LDEwNjg3OTI3LC02ODg0NTk2ODgsLTI1MDIzNzY2MCw0OD
-QyMTQ0Nyw0Nzg2MTUzMDMsMTczNjE5MDUwOCwtMTE3OTc4MzY5
-OSwyMDYxODEyMDM3LDIwNjQxMzUxMjEsLTgwMTY5MTQ1MiwxNz
-A4NjA4MTQ3LDExOTA4NDM0NjYsMTk5ODgyNTkzNCwtMTg4NjU5
-MzQ4M119
+eyJoaXN0b3J5IjpbNTkxMDA1ODY0LDMxOTgxOTgzNywtMTQ2Mj
+Q0NzU0NiwxNjM4NDgyOTYyLC0xMjA3MjE0NDQwLDIwNjE1NzU3
+NjUsMjExMzQ4OTk2OSwxMDY4NzkyNywtNjg4NDU5Njg4LC0yNT
+AyMzc2NjAsNDg0MjE0NDcsNDc4NjE1MzAzLDE3MzYxOTA1MDgs
+LTExNzk3ODM2OTksMjA2MTgxMjAzNywyMDY0MTM1MTIxLC04MD
+E2OTE0NTIsMTcwODYwODE0NywxMTkwODQzNDY2LDE5OTg4MjU5
+MzRdfQ==
 -->
