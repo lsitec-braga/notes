@@ -20,7 +20,7 @@ dotA    | 09h00 | 18h | 8h00
 
 - [ ] Mudar charts do painel de controle
 - [ ] Avaliar serviço de hospedagem 24/7
-- [ ] Definir data para subir a instância de Produção, datas: 27/01/2023 - 30/01/2023
+- [ ] Definir data para subir a instância de Produção, datas: 30/01/2023 - 31/01/2023
 - [ ] Adicionar tempo de testes do firmware no gráfico de Gantt
 
 - [ ] Preparar Retro e Review 360 - Sellout
@@ -29,11 +29,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI0NDc1NDYsMTYzODQ4Mjk2MiwtMT
-IwNzIxNDQ0MCwyMDYxNTc1NzY1LDIxMTM0ODk5NjksMTA2ODc5
-MjcsLTY4ODQ1OTY4OCwtMjUwMjM3NjYwLDQ4NDIxNDQ3LDQ3OD
-YxNTMwMywxNzM2MTkwNTA4LC0xMTc5NzgzNjk5LDIwNjE4MTIw
-MzcsMjA2NDEzNTEyMSwtODAxNjkxNDUyLDE3MDg2MDgxNDcsMT
-E5MDg0MzQ2NiwxOTk4ODI1OTM0LC0xODg2NTkzNDgzLC0xNzgx
-ODI4MjM3XX0=
+eyJoaXN0b3J5IjpbMzE5ODE5ODM3LC0xNDYyNDQ3NTQ2LDE2Mz
+g0ODI5NjIsLTEyMDcyMTQ0NDAsMjA2MTU3NTc2NSwyMTEzNDg5
+OTY5LDEwNjg3OTI3LC02ODg0NTk2ODgsLTI1MDIzNzY2MCw0OD
+QyMTQ0Nyw0Nzg2MTUzMDMsMTczNjE5MDUwOCwtMTE3OTc4MzY5
+OSwyMDYxODEyMDM3LDIwNjQxMzUxMjEsLTgwMTY5MTQ1MiwxNz
+A4NjA4MTQ3LDExOTA4NDM0NjYsMTk5ODgyNTkzNCwtMTg4NjU5
+MzQ4M119
 -->
