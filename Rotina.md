@@ -12,18 +12,14 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] 13h - Teste de workload com o Alexandre para conferir a performance da plataforma com vários dotAs
-- [x] Alteração do valor limite de calibragem para -50 e 50
-- [x] Validar os bugfixes validados pelo Welington
+- [x] Definir data para subir a instância de Produção, datas: 30/01/2023 - 31/01/2023
+- [x] Teste de Firmware com Jake
 
 ## Afazeres planejados
 
 - [ ] Mudar charts do painel de controle
 - [ ] Avaliar serviço de hospedagem 24/7
-- [ ] Definir data para subir a instância de Produção, datas: 30/01/2023 - 31/01/2023
 - [ ] Adicionar tempo de testes do firmware no gráfico de Gantt
-
-- [ ] Preparar Retro e Review 360 - Sellout
 
 ## Afazeres não planejados
 
@@ -31,11 +27,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTUyOTMwMyw1OTEwMDU4NjQsMzE5OD
-E5ODM3LC0xNDYyNDQ3NTQ2LDE2Mzg0ODI5NjIsLTEyMDcyMTQ0
-NDAsMjA2MTU3NTc2NSwyMTEzNDg5OTY5LDEwNjg3OTI3LC02OD
-g0NTk2ODgsLTI1MDIzNzY2MCw0ODQyMTQ0Nyw0Nzg2MTUzMDMs
-MTczNjE5MDUwOCwtMTE3OTc4MzY5OSwyMDYxODEyMDM3LDIwNj
-QxMzUxMjEsLTgwMTY5MTQ1MiwxNzA4NjA4MTQ3LDExOTA4NDM0
-NjZdfQ==
+eyJoaXN0b3J5IjpbLTE0MTE2ODA0NTksLTM1NTUyOTMwMyw1OT
+EwMDU4NjQsMzE5ODE5ODM3LC0xNDYyNDQ3NTQ2LDE2Mzg0ODI5
+NjIsLTEyMDcyMTQ0NDAsMjA2MTU3NTc2NSwyMTEzNDg5OTY5LD
+EwNjg3OTI3LC02ODg0NTk2ODgsLTI1MDIzNzY2MCw0ODQyMTQ0
+Nyw0Nzg2MTUzMDMsMTczNjE5MDUwOCwtMTE3OTc4MzY5OSwyMD
+YxODEyMDM3LDIwNjQxMzUxMjEsLTgwMTY5MTQ1MiwxNzA4NjA4
+MTQ3XX0=
 -->
