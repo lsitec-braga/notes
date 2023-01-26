@@ -63,7 +63,7 @@ Atual - resumo atividades Ickson
 
 ```
 , segue a lista resumida das atividades pendentes:
-- Corrigir Bug: #102
+- Corrigir Bug: #102, #104, #105
 - Aguardar avaliação do teste de estresse para ver se ocorrerá problemas de performance na plataforma
 - Correção dos bugs de responsividade que ainda estão sendo reportados
 - Auxiliar na avaliação pós teste de estresse sobre a infra
@@ -153,11 +153,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mjg5MzcwNSwtMTM3NzYyNjM3LDc3Nz
-Y0OTA3OSwtMTU2ODA1Nzk2NCw3NTQ0Mzg5NSwtMjA2NjgzNDc4
-NywtNDA5OTg4MDU3LDE2NDUyMDMzODUsMTUzNTAxMTQ2LDEwOT
-IwNTU1OTYsMTkzMjc3NTY4OCwtMjg2MzgxNDMyLDQyMzg1Mjc4
-LDEzODkxMDcyNTIsMTc1OTc4OTg3OCwtMTI4ODQ3NTI1Myw4OD
-c1MjYxODgsLTQ3NzM3NDE2MCwtNDE0NTk1NTA4LDE4MzU5ODk3
-OTldfQ==
+eyJoaXN0b3J5IjpbMTc5ODMxNDc1NiwtMjcyODkzNzA1LC0xMz
+c3NjI2MzcsNzc3NjQ5MDc5LC0xNTY4MDU3OTY0LDc1NDQzODk1
+LC0yMDY2ODM0Nzg3LC00MDk5ODgwNTcsMTY0NTIwMzM4NSwxNT
+M1MDExNDYsMTA5MjA1NTU5NiwxOTMyNzc1Njg4LC0yODYzODE0
+MzIsNDIzODUyNzgsMTM4OTEwNzI1MiwxNzU5Nzg5ODc4LC0xMj
+g4NDc1MjUzLDg4NzUyNjE4OCwtNDc3Mzc0MTYwLC00MTQ1OTU1
+MDhdfQ==
 -->
