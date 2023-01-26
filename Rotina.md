@@ -12,10 +12,8 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] 14h - Teste de Estresse com o Alexandre para conferir a performance da plataforma com vários dotAs
-- [x] 15h a 15h30 - Reunião com o Jake para alinhar o "Dota tools" dentro do cfg server
-- [x] Solicitar Welington o checklist para realizer os testes no aparelho dotA
-- [x] Alterar a questão do valor limite de calibragem para -50 e 50
+- [x] 13h - Teste de Estresse com o Alexandre para conferir a performance da plataforma com vários dotAs
+- [x] Alteração do valor limite de calibragem para -50 e 50
 - [x] Validar os bugfixes validados pelo Welington
 
 ## Afazeres planejados
@@ -31,11 +29,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODQ4Mjk2MiwtMTIwNzIxNDQ0MCwyMD
-YxNTc1NzY1LDIxMTM0ODk5NjksMTA2ODc5MjcsLTY4ODQ1OTY4
-OCwtMjUwMjM3NjYwLDQ4NDIxNDQ3LDQ3ODYxNTMwMywxNzM2MT
-kwNTA4LC0xMTc5NzgzNjk5LDIwNjE4MTIwMzcsMjA2NDEzNTEy
-MSwtODAxNjkxNDUyLDE3MDg2MDgxNDcsMTE5MDg0MzQ2NiwxOT
-k4ODI1OTM0LC0xODg2NTkzNDgzLC0xNzgxODI4MjM3LC0xNDkw
-MTAwODgxXX0=
+eyJoaXN0b3J5IjpbLTE0NjI0NDc1NDYsMTYzODQ4Mjk2MiwtMT
+IwNzIxNDQ0MCwyMDYxNTc1NzY1LDIxMTM0ODk5NjksMTA2ODc5
+MjcsLTY4ODQ1OTY4OCwtMjUwMjM3NjYwLDQ4NDIxNDQ3LDQ3OD
+YxNTMwMywxNzM2MTkwNTA4LC0xMTc5NzgzNjk5LDIwNjE4MTIw
+MzcsMjA2NDEzNTEyMSwtODAxNjkxNDUyLDE3MDg2MDgxNDcsMT
+E5MDg0MzQ2NiwxOTk4ODI1OTM0LC0xODg2NTkzNDgzLC0xNzgx
+ODI4MjM3XX0=
 -->
