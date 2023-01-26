@@ -54,9 +54,9 @@ Report 25/01/2023
 -----------------
 TOTAL DE ISSUES: 77
 Fechadas: 74
-Abertas: 3, sendo 1 reaberta hoje
+Abertas: 5, sendo 2 abertas hoje
 > Em validação: 2
-> Em desenvolvimento: 1
+> Em desenvolvimento: 3
 ```
 
 Atual - resumo atividades Ickson
@@ -153,11 +153,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc2MjYzNyw3Nzc2NDkwNzksLTE1Nj
-gwNTc5NjQsNzU0NDM4OTUsLTIwNjY4MzQ3ODcsLTQwOTk4ODA1
-NywxNjQ1MjAzMzg1LDE1MzUwMTE0NiwxMDkyMDU1NTk2LDE5Mz
-I3NzU2ODgsLTI4NjM4MTQzMiw0MjM4NTI3OCwxMzg5MTA3MjUy
-LDE3NTk3ODk4NzgsLTEyODg0NzUyNTMsODg3NTI2MTg4LC00Nz
-czNzQxNjAsLTQxNDU5NTUwOCwxODM1OTg5Nzk5LC0xODMzNTY3
-NTUzXX0=
+eyJoaXN0b3J5IjpbNDQ2NjA3ODYwLC0xMzc3NjI2MzcsNzc3Nj
+Q5MDc5LC0xNTY4MDU3OTY0LDc1NDQzODk1LC0yMDY2ODM0Nzg3
+LC00MDk5ODgwNTcsMTY0NTIwMzM4NSwxNTM1MDExNDYsMTA5Mj
+A1NTU5NiwxOTMyNzc1Njg4LC0yODYzODE0MzIsNDIzODUyNzgs
+MTM4OTEwNzI1MiwxNzU5Nzg5ODc4LC0xMjg4NDc1MjUzLDg4Nz
+UyNjE4OCwtNDc3Mzc0MTYwLC00MTQ1OTU1MDgsMTgzNTk4OTc5
+OV19
 -->
