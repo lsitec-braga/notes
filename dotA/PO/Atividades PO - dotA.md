@@ -67,7 +67,7 @@ Atual - resumo atividades Ickson
 - Aguardar avaliação do teste de estresse para ver se ocorrerá problemas de performance na plataforma
 - Correção dos bugs de responsividade que ainda estão sendo reportados
 - Auxiliar na avaliação pós teste de estresse sobre a infra
-- Correção na comunicação d
+- Correção na comunicação do AWS com o dotA Físico
 ```
 
 Backup - Report issues
@@ -154,11 +154,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNDcyNjQ0LDE3OTgzMTQ3NTYsLTI3Mj
-g5MzcwNSwtMTM3NzYyNjM3LDc3NzY0OTA3OSwtMTU2ODA1Nzk2
-NCw3NTQ0Mzg5NSwtMjA2NjgzNDc4NywtNDA5OTg4MDU3LDE2ND
-UyMDMzODUsMTUzNTAxMTQ2LDEwOTIwNTU1OTYsMTkzMjc3NTY4
-OCwtMjg2MzgxNDMyLDQyMzg1Mjc4LDEzODkxMDcyNTIsMTc1OT
-c4OTg3OCwtMTI4ODQ3NTI1Myw4ODc1MjYxODgsLTQ3NzM3NDE2
-MF19
+eyJoaXN0b3J5IjpbMTAzNDgzODEzMywxNzk4MzE0NzU2LC0yNz
+I4OTM3MDUsLTEzNzc2MjYzNyw3Nzc2NDkwNzksLTE1NjgwNTc5
+NjQsNzU0NDM4OTUsLTIwNjY4MzQ3ODcsLTQwOTk4ODA1NywxNj
+Q1MjAzMzg1LDE1MzUwMTE0NiwxMDkyMDU1NTk2LDE5MzI3NzU2
+ODgsLTI4NjM4MTQzMiw0MjM4NTI3OCwxMzg5MTA3MjUyLDE3NT
+k3ODk4NzgsLTEyODg0NzUyNTMsODg3NTI2MTg4LC00NzczNzQx
+NjBdfQ==
 -->
