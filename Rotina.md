@@ -12,10 +12,9 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [ ] Estudos nos charts 
-- [ ] Mudanças no gráfico de Gantt interno
 - [ ] Validação de alguns bugfixes
-- [ ] Designi
+- [ ] Designação da task de email
+- [ ] Estudos nos charts 
 
 ## Afazeres planejados
 
@@ -27,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzQzNTgzNCw3NTA2MTY1NTMsLTM1NT
-UyOTMwMyw1OTEwMDU4NjQsMzE5ODE5ODM3LC0xNDYyNDQ3NTQ2
-LDE2Mzg0ODI5NjIsLTEyMDcyMTQ0NDAsMjA2MTU3NTc2NSwyMT
-EzNDg5OTY5LDEwNjg3OTI3LC02ODg0NTk2ODgsLTI1MDIzNzY2
-MCw0ODQyMTQ0Nyw0Nzg2MTUzMDMsMTczNjE5MDUwOCwtMTE3OT
-c4MzY5OSwyMDYxODEyMDM3LDIwNjQxMzUxMjEsLTgwMTY5MTQ1
-Ml19
+eyJoaXN0b3J5IjpbLTExMDg2MDYwMzUsNzUwNjE2NTUzLC0zNT
+U1MjkzMDMsNTkxMDA1ODY0LDMxOTgxOTgzNywtMTQ2MjQ0NzU0
+NiwxNjM4NDgyOTYyLC0xMjA3MjE0NDQwLDIwNjE1NzU3NjUsMj
+ExMzQ4OTk2OSwxMDY4NzkyNywtNjg4NDU5Njg4LC0yNTAyMzc2
+NjAsNDg0MjE0NDcsNDc4NjE1MzAzLDE3MzYxOTA1MDgsLTExNz
+k3ODM2OTksMjA2MTgxMjAzNywyMDY0MTM1MTIxLC04MDE2OTE0
+NTJdfQ==
 -->
