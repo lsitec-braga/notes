@@ -52,11 +52,11 @@ Atual - Report issues
 ```
 Report 30/01/2023
 -----------------
-TOTAL DE ISSUES: 80
-Fechadas: 74
-Abertas: 6, sendo 1 abertas hoje
-> Em validação: 2
-> Em desenvolvimento: 4
+TOTAL DE ISSUES: 83
+Fechadas: 76
+Abertas: 7, sendo 3 abertas hoje
+> Em validação: 5
+> Em desenvolvimento: 2
 ```
 
 Atual - resumo atividades Ickson
@@ -67,7 +67,6 @@ Atual - resumo atividades Ickson
 - Aguardar avaliação do teste de estresse para ver se ocorrerá problemas de performance na plataforma
 - Correção dos bugs de responsividade que ainda estão sendo reportados
 - Auxiliar na avaliação pós teste de estresse sobre a infra
-- Correção na comunicação do AWS com o dotA Físico
 ```
 
 Backup - Report issues
@@ -154,11 +153,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODAwMDQ0MSwxMDM0ODM4MTMzLDE3OT
-gzMTQ3NTYsLTI3Mjg5MzcwNSwtMTM3NzYyNjM3LDc3NzY0OTA3
-OSwtMTU2ODA1Nzk2NCw3NTQ0Mzg5NSwtMjA2NjgzNDc4NywtND
-A5OTg4MDU3LDE2NDUyMDMzODUsMTUzNTAxMTQ2LDEwOTIwNTU1
-OTYsMTkzMjc3NTY4OCwtMjg2MzgxNDMyLDQyMzg1Mjc4LDEzOD
-kxMDcyNTIsMTc1OTc4OTg3OCwtMTI4ODQ3NTI1Myw4ODc1MjYx
-ODhdfQ==
+eyJoaXN0b3J5IjpbLTExNDYxNjg2MTcsMTAzNDgzODEzMywxNz
+k4MzE0NzU2LC0yNzI4OTM3MDUsLTEzNzc2MjYzNyw3Nzc2NDkw
+NzksLTE1NjgwNTc5NjQsNzU0NDM4OTUsLTIwNjY4MzQ3ODcsLT
+QwOTk4ODA1NywxNjQ1MjAzMzg1LDE1MzUwMTE0NiwxMDkyMDU1
+NTk2LDE5MzI3NzU2ODgsLTI4NjM4MTQzMiw0MjM4NTI3OCwxMz
+g5MTA3MjUyLDE3NTk3ODk4NzgsLTEyODg0NzUyNTMsODg3NTI2
+MTg4XX0=
 -->
