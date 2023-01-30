@@ -12,7 +12,10 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [ ] Estudos no 
+- [ ] Estudos nos charts 
+- [ ] Mudanças no gráfico de Gantt interno
+- [ ] Validação de alguns bugfixes
+- [ ] Designi
 
 ## Afazeres planejados
 
@@ -24,7 +27,7 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjY1NjEzMCw3NTA2MTY1NTMsLTM1NT
+eyJoaXN0b3J5IjpbLTY5NzQzNTgzNCw3NTA2MTY1NTMsLTM1NT
 UyOTMwMyw1OTEwMDU4NjQsMzE5ODE5ODM3LC0xNDYyNDQ3NTQ2
 LDE2Mzg0ODI5NjIsLTEyMDcyMTQ0NDAsMjA2MTU3NTc2NSwyMT
 EzNDg5OTY5LDEwNjg3OTI3LC02ODg0NTk2ODgsLTI1MDIzNzY2
