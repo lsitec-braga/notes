@@ -50,7 +50,7 @@ Ao assumir o projeto, os seguintes pontos devem ser dominados:
 Atual - Report issues
 
 ```
-Report 31/01/2023
+Report 01/02/2023
 -----------------
 TOTAL DE ISSUES: 87
 Fechadas: 79
@@ -64,10 +64,10 @@ Atual - resumo atividades Ickson
 
 ```
 , segue a lista resumida das atividades pendentes:
-- Corrigir Bug: #107, #108, #111
 - Aguardar avaliação do teste de estresse para ver se ocorrerá problemas de performance na plataforma
 - Correção dos bugs de responsividade que ainda estão sendo reportados
 - Auxiliar na avaliação pós teste de estresse sobre a infra
+- Participar da reunião para averiguar a issue #113
 ```
 
 Backup - Report issues
@@ -154,11 +154,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzk0NTc3OSwtNzU5OTg3ODczLC0xMT
-Q2MTY4NjE3LDEwMzQ4MzgxMzMsMTc5ODMxNDc1NiwtMjcyODkz
-NzA1LC0xMzc3NjI2MzcsNzc3NjQ5MDc5LC0xNTY4MDU3OTY0LD
-c1NDQzODk1LC0yMDY2ODM0Nzg3LC00MDk5ODgwNTcsMTY0NTIw
-MzM4NSwxNTM1MDExNDYsMTA5MjA1NTU5NiwxOTMyNzc1Njg4LC
-0yODYzODE0MzIsNDIzODUyNzgsMTM4OTEwNzI1MiwxNzU5Nzg5
-ODc4XX0=
+eyJoaXN0b3J5IjpbLTg4OTA0OTAwLC03NTk5ODc4NzMsLTExND
+YxNjg2MTcsMTAzNDgzODEzMywxNzk4MzE0NzU2LC0yNzI4OTM3
+MDUsLTEzNzc2MjYzNyw3Nzc2NDkwNzksLTE1NjgwNTc5NjQsNz
+U0NDM4OTUsLTIwNjY4MzQ3ODcsLTQwOTk4ODA1NywxNjQ1MjAz
+Mzg1LDE1MzUwMTE0NiwxMDkyMDU1NTk2LDE5MzI3NzU2ODgsLT
+I4NjM4MTQzMiw0MjM4NTI3OCwxMzg5MTA3MjUyLDE3NTk3ODk4
+NzhdfQ==
 -->
