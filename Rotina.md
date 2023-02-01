@@ -8,13 +8,13 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [ ] Validação de alguns bugfixes
-- [ ] Designação da task de email
-- [ ] Estudos nos charts 
+- [ ] Mudar charts do painel de controle
+- [ ] Estudar commits do Ickson
 
 ## Afazeres planejados
 
 - [ ] Mudar charts do painel de controle
+- [ ] Estudar commits do Ickson
 
 ## Afazeres não planejados
 
@@ -22,11 +22,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjAyODE1MywtMTEwODYwNjAzNSw3NT
-A2MTY1NTMsLTM1NTUyOTMwMyw1OTEwMDU4NjQsMzE5ODE5ODM3
-LC0xNDYyNDQ3NTQ2LDE2Mzg0ODI5NjIsLTEyMDcyMTQ0NDAsMj
-A2MTU3NTc2NSwyMTEzNDg5OTY5LDEwNjg3OTI3LC02ODg0NTk2
-ODgsLTI1MDIzNzY2MCw0ODQyMTQ0Nyw0Nzg2MTUzMDMsMTczNj
-E5MDUwOCwtMTE3OTc4MzY5OSwyMDYxODEyMDM3LDIwNjQxMzUx
-MjFdfQ==
+eyJoaXN0b3J5IjpbNjI2MjQyMjQ1LDE4ODIwMjgxNTMsLTExMD
+g2MDYwMzUsNzUwNjE2NTUzLC0zNTU1MjkzMDMsNTkxMDA1ODY0
+LDMxOTgxOTgzNywtMTQ2MjQ0NzU0NiwxNjM4NDgyOTYyLC0xMj
+A3MjE0NDQwLDIwNjE1NzU3NjUsMjExMzQ4OTk2OSwxMDY4Nzky
+NywtNjg4NDU5Njg4LC0yNTAyMzc2NjAsNDg0MjE0NDcsNDc4Nj
+E1MzAzLDE3MzYxOTA1MDgsLTExNzk3ODM2OTksMjA2MTgxMjAz
+N119
 -->
