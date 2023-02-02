@@ -19,7 +19,9 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] Criar plano B para caso de falha na migração
 - [ ] Auxiliar nos testes de estresse
 - [ ] Ficar por dentro das interações entre dotA físico e AWS
-- [ ] Definir data final das validações (03/02/2023)
+- [ ] Alinhar com o Ko data final das validações (03/02/2023)
+- [ ] Cadastrar troca de endpoint no Server de configuração
+- [ ] 
 
 ## Afazeres não planejados
 
@@ -27,11 +29,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTMxNDIzOTIsNzU4Mjc4Mjk2LDEzND
-QwMzYzMTcsNjI2MjQyMjQ1LDE4ODIwMjgxNTMsLTExMDg2MDYw
-MzUsNzUwNjE2NTUzLC0zNTU1MjkzMDMsNTkxMDA1ODY0LDMxOT
-gxOTgzNywtMTQ2MjQ0NzU0NiwxNjM4NDgyOTYyLC0xMjA3MjE0
-NDQwLDIwNjE1NzU3NjUsMjExMzQ4OTk2OSwxMDY4NzkyNywtNj
-g4NDU5Njg4LC0yNTAyMzc2NjAsNDg0MjE0NDcsNDc4NjE1MzAz
-XX0=
+eyJoaXN0b3J5IjpbLTIwNzA0MjQ1MjIsLTE5MTMxNDIzOTIsNz
+U4Mjc4Mjk2LDEzNDQwMzYzMTcsNjI2MjQyMjQ1LDE4ODIwMjgx
+NTMsLTExMDg2MDYwMzUsNzUwNjE2NTUzLC0zNTU1MjkzMDMsNT
+kxMDA1ODY0LDMxOTgxOTgzNywtMTQ2MjQ0NzU0NiwxNjM4NDgy
+OTYyLC0xMjA3MjE0NDQwLDIwNjE1NzU3NjUsMjExMzQ4OTk2OS
+wxMDY4NzkyNywtNjg4NDU5Njg4LC0yNTAyMzc2NjAsNDg0MjE0
+NDddfQ==
 -->
