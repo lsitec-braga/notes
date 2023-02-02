@@ -16,7 +16,7 @@ dotA    | 09h00 | 18h | 8h00
 
 - [ ] Mudar charts do painel de controle
 - [ ] Alterar ordem dos sensores no card padrão
-- [ ] Auxiliar nos testes de estresse
+- [x] Auxiliar nos testes de estresse
 - [ ] Tira dúvidas com Ickson sobre o código
 - [x] Criar plano B para caso de falha na migração (vai desligar o dota1 assim que migrar pro dota2?)
 - [x] Ficar por dentro das interações entre dotA físico e AWS
@@ -33,11 +33,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTQyNTk5OCwtNjI5ODcxMjIyLDE2Mz
-YwMzU1NzgsLTE0ODYyNzQzMDEsLTExNjE4MTcsNzY1NDk4MjE5
-LC0xOTEzMTQyMzkyLDc1ODI3ODI5NiwxMzQ0MDM2MzE3LDYyNj
-I0MjI0NSwxODgyMDI4MTUzLC0xMTA4NjA2MDM1LDc1MDYxNjU1
-MywtMzU1NTI5MzAzLDU5MTAwNTg2NCwzMTk4MTk4MzcsLTE0Nj
-I0NDc1NDYsMTYzODQ4Mjk2MiwtMTIwNzIxNDQ0MCwyMDYxNTc1
-NzY1XX0=
+eyJoaXN0b3J5IjpbLTY2ODE2MjQyMiwtNTkxNDI1OTk4LC02Mj
+k4NzEyMjIsMTYzNjAzNTU3OCwtMTQ4NjI3NDMwMSwtMTE2MTgx
+Nyw3NjU0OTgyMTksLTE5MTMxNDIzOTIsNzU4Mjc4Mjk2LDEzND
+QwMzYzMTcsNjI2MjQyMjQ1LDE4ODIwMjgxNTMsLTExMDg2MDYw
+MzUsNzUwNjE2NTUzLC0zNTU1MjkzMDMsNTkxMDA1ODY0LDMxOT
+gxOTgzNywtMTQ2MjQ0NzU0NiwxNjM4NDgyOTYyLC0xMjA3MjE0
+NDQwXX0=
 -->
