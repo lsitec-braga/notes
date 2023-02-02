@@ -12,15 +12,17 @@ Para não ter imprevistos, fazer a transferência dos dados, tanto MySQL quanto 
 
 ## Plano B - Problema na migração
 
-Dúvidas:
+### Dúvidas
 
-1. Os comando de comunicação com o sistema dotA2 são iguais ao dotA1?
-2. É possível voltar uma versão do Firmware compatível com o dotA1?
-3. Manter um URL de acesso diferente do atual, pa
+1. Os comandos de comunicação com o sistema dotA2 são iguais ao dotA1?
+2. Ao retornar o dotA para o sistema anterior, precisa voltar a versão do Firmware?
+3. É possível voltar uma versão do Firmware compatível com o dotA1?
+4. Manter um URL de acesso diferente do atual
 
 ### Atividades
 
-1. Faz
+1. Adicionar credenciais e certificados de backup que retornem para o dotA1
+2. Manter o site antigo (url) para backup e retornarmos o dotA para lá
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQzNDIxOV19
+eyJoaXN0b3J5IjpbMjA1NTg3MDYwNF19
 -->
