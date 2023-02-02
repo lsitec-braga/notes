@@ -21,7 +21,7 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] Ficar por dentro das interações entre dotA físico e AWS
 
 - [ ] Alinhar com o Ko data final das validações (03/02/2023)
-- [ ] Não conseguir contribuir com a parte de desenvolvimento hoje
+- [ ] Não vou dar conta das tarefas de desenvolvimento hoje
 
 ## Delegar
 
@@ -34,11 +34,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NDk4MjE5LC0xOTEzMTQyMzkyLDc1OD
-I3ODI5NiwxMzQ0MDM2MzE3LDYyNjI0MjI0NSwxODgyMDI4MTUz
-LC0xMTA4NjA2MDM1LDc1MDYxNjU1MywtMzU1NTI5MzAzLDU5MT
-AwNTg2NCwzMTk4MTk4MzcsLTE0NjI0NDc1NDYsMTYzODQ4Mjk2
-MiwtMTIwNzIxNDQ0MCwyMDYxNTc1NzY1LDIxMTM0ODk5NjksMT
-A2ODc5MjcsLTY4ODQ1OTY4OCwtMjUwMjM3NjYwLDQ4NDIxNDQ3
+eyJoaXN0b3J5IjpbLTExNjE4MTcsNzY1NDk4MjE5LC0xOTEzMT
+QyMzkyLDc1ODI3ODI5NiwxMzQ0MDM2MzE3LDYyNjI0MjI0NSwx
+ODgyMDI4MTUzLC0xMTA4NjA2MDM1LDc1MDYxNjU1MywtMzU1NT
+I5MzAzLDU5MTAwNTg2NCwzMTk4MTk4MzcsLTE0NjI0NDc1NDYs
+MTYzODQ4Mjk2MiwtMTIwNzIxNDQ0MCwyMDYxNTc1NzY1LDIxMT
+M0ODk5NjksMTA2ODc5MjcsLTY4ODQ1OTY4OCwtMjUwMjM3NjYw
 XX0=
 -->
