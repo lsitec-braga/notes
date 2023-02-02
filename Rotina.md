@@ -8,8 +8,9 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
+- [ ] Estudo dos commits do Ickson
 - [ ] Mudar charts do painel de controle
-- [ ] Estudar commits do Ickson
+- [ ] Começar a ver a questão da ordem dos sensores
 
 ## Afazeres planejados
 
@@ -22,11 +23,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MjQyMjQ1LDE4ODIwMjgxNTMsLTExMD
-g2MDYwMzUsNzUwNjE2NTUzLC0zNTU1MjkzMDMsNTkxMDA1ODY0
-LDMxOTgxOTgzNywtMTQ2MjQ0NzU0NiwxNjM4NDgyOTYyLC0xMj
-A3MjE0NDQwLDIwNjE1NzU3NjUsMjExMzQ4OTk2OSwxMDY4Nzky
-NywtNjg4NDU5Njg4LC0yNTAyMzc2NjAsNDg0MjE0NDcsNDc4Nj
-E1MzAzLDE3MzYxOTA1MDgsLTExNzk3ODM2OTksMjA2MTgxMjAz
-N119
+eyJoaXN0b3J5IjpbMTM0NDAzNjMxNyw2MjYyNDIyNDUsMTg4Mj
+AyODE1MywtMTEwODYwNjAzNSw3NTA2MTY1NTMsLTM1NTUyOTMw
+Myw1OTEwMDU4NjQsMzE5ODE5ODM3LC0xNDYyNDQ3NTQ2LDE2Mz
+g0ODI5NjIsLTEyMDcyMTQ0NDAsMjA2MTU3NTc2NSwyMTEzNDg5
+OTY5LDEwNjg3OTI3LC02ODg0NTk2ODgsLTI1MDIzNzY2MCw0OD
+QyMTQ0Nyw0Nzg2MTUzMDMsMTczNjE5MDUwOCwtMTE3OTc4MzY5
+OV19
 -->
