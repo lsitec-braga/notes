@@ -67,6 +67,7 @@ Atual - resumo atividades Ickson
 - Aguardar avaliação do teste de estresse para ver se ocorrerá problemas de performance na plataforma
 - Correção dos bugs de responsividade que ainda estão sendo reportados
 - Auxiliar na avaliação pós teste de estresse sobre a infra
+- Dar suporte na migração definitiva para a São Rafael
 - Participar da reunião para averiguar a issue #113
 ```
 
@@ -154,11 +155,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTA0OTAwLC03NTk5ODc4NzMsLTExND
-YxNjg2MTcsMTAzNDgzODEzMywxNzk4MzE0NzU2LC0yNzI4OTM3
-MDUsLTEzNzc2MjYzNyw3Nzc2NDkwNzksLTE1NjgwNTc5NjQsNz
-U0NDM4OTUsLTIwNjY4MzQ3ODcsLTQwOTk4ODA1NywxNjQ1MjAz
-Mzg1LDE1MzUwMTE0NiwxMDkyMDU1NTk2LDE5MzI3NzU2ODgsLT
-I4NjM4MTQzMiw0MjM4NTI3OCwxMzg5MTA3MjUyLDE3NTk3ODk4
-NzhdfQ==
+eyJoaXN0b3J5IjpbNDM1ODQxOTI0LC04ODkwNDkwMCwtNzU5OT
+g3ODczLC0xMTQ2MTY4NjE3LDEwMzQ4MzgxMzMsMTc5ODMxNDc1
+NiwtMjcyODkzNzA1LC0xMzc3NjI2MzcsNzc3NjQ5MDc5LC0xNT
+Y4MDU3OTY0LDc1NDQzODk1LC0yMDY2ODM0Nzg3LC00MDk5ODgw
+NTcsMTY0NTIwMzM4NSwxNTM1MDExNDYsMTA5MjA1NTU5NiwxOT
+MyNzc1Njg4LC0yODYzODE0MzIsNDIzODUyNzgsMTM4OTEwNzI1
+Ml19
 -->
