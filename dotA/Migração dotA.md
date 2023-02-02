@@ -14,7 +14,11 @@ Para não ter imprevistos, fazer a transferência dos dados, tanto MySQL quanto 
 
 ## Plano B - Problema na migração
 
+Dúvidas:
 
+1. Os comando de comunicação com o sistema dotA2 são iguais ao dotA1?
+2. É possível voltar uma versão do Firmware compatível com o dotA1?
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY5NTEyMDNdfQ==
+eyJoaXN0b3J5IjpbLTIyNjQ5MTI1Nl19
 -->
