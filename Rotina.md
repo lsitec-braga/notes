@@ -15,7 +15,10 @@ dotA    | 09h00 | 18h | 8h00
 ## Afazeres planejados
 
 - [ ] Mudar charts do painel de controle
-- [ ] Estudar commits do Ickson
+- [ ] Alterar ordem dos sensores no card padrão
+- [ ] Criar plano B para caso de falha na migração
+- [ ] Auxiliar nos testes de estresse
+- [ ] Ficar por dentro das interações entre dotA físico e AWS
 
 ## Afazeres não planejados
 
@@ -23,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDAzNjMxNyw2MjYyNDIyNDUsMTg4Mj
-AyODE1MywtMTEwODYwNjAzNSw3NTA2MTY1NTMsLTM1NTUyOTMw
-Myw1OTEwMDU4NjQsMzE5ODE5ODM3LC0xNDYyNDQ3NTQ2LDE2Mz
-g0ODI5NjIsLTEyMDcyMTQ0NDAsMjA2MTU3NTc2NSwyMTEzNDg5
-OTY5LDEwNjg3OTI3LC02ODg0NTk2ODgsLTI1MDIzNzY2MCw0OD
-QyMTQ0Nyw0Nzg2MTUzMDMsMTczNjE5MDUwOCwtMTE3OTc4MzY5
-OV19
+eyJoaXN0b3J5IjpbNzU4Mjc4Mjk2LDEzNDQwMzYzMTcsNjI2Mj
+QyMjQ1LDE4ODIwMjgxNTMsLTExMDg2MDYwMzUsNzUwNjE2NTUz
+LC0zNTU1MjkzMDMsNTkxMDA1ODY0LDMxOTgxOTgzNywtMTQ2Mj
+Q0NzU0NiwxNjM4NDgyOTYyLC0xMjA3MjE0NDQwLDIwNjE1NzU3
+NjUsMjExMzQ4OTk2OSwxMDY4NzkyNywtNjg4NDU5Njg4LC0yNT
+AyMzc2NjAsNDg0MjE0NDcsNDc4NjE1MzAzLDE3MzYxOTA1MDhd
+fQ==
 -->
