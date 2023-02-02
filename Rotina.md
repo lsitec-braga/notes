@@ -8,24 +8,20 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [ ] Estudo dos commits do Ickson
-- [ ] Mudar charts do painel de controle
-- [ ] Começar a ver a questão da ordem dos sensores
+- [x] Auxiliar nos testes de estresse
+- [x] Criar plano B para caso de falha na migração (vai desligar o dota1 assim que migrar pro dota2?)
+- [x] Ficar por dentro das interações entre dotA físico e AWS
+- [x] Alinhar com o Ko data final das validações (03/02/2023)
 
 ## Afazeres planejados
 
 - [ ] Mudar charts do painel de controle
 - [ ] Alterar ordem dos sensores no card padrão
-- [x] Auxiliar nos testes de estresse
 - [ ] Tira dúvidas com Ickson sobre o código
-- [x] Criar plano B para caso de falha na migração (vai desligar o dota1 assim que migrar pro dota2?)
-- [x] Ficar por dentro das interações entre dotA físico e AWS
-- [x] Alinhar com o Ko data final das validações (03/02/2023)
 
 ## Delegar
 
-- [x] Cadastrar troca de endpoint no Server de configuração
-- [x] Cadastrar endpoint de backup para voltar para o dota1
+
 
 ## Afazeres não planejados
 
@@ -33,11 +29,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODE2MjQyMiwtNTkxNDI1OTk4LC02Mj
-k4NzEyMjIsMTYzNjAzNTU3OCwtMTQ4NjI3NDMwMSwtMTE2MTgx
-Nyw3NjU0OTgyMTksLTE5MTMxNDIzOTIsNzU4Mjc4Mjk2LDEzND
-QwMzYzMTcsNjI2MjQyMjQ1LDE4ODIwMjgxNTMsLTExMDg2MDYw
-MzUsNzUwNjE2NTUzLC0zNTU1MjkzMDMsNTkxMDA1ODY0LDMxOT
-gxOTgzNywtMTQ2MjQ0NzU0NiwxNjM4NDgyOTYyLC0xMjA3MjE0
-NDQwXX0=
+eyJoaXN0b3J5IjpbNTE3MjQ3MDYyLC02NjgxNjI0MjIsLTU5MT
+QyNTk5OCwtNjI5ODcxMjIyLDE2MzYwMzU1NzgsLTE0ODYyNzQz
+MDEsLTExNjE4MTcsNzY1NDk4MjE5LC0xOTEzMTQyMzkyLDc1OD
+I3ODI5NiwxMzQ0MDM2MzE3LDYyNjI0MjI0NSwxODgyMDI4MTUz
+LC0xMTA4NjA2MDM1LDc1MDYxNjU1MywtMzU1NTI5MzAzLDU5MT
+AwNTg2NCwzMTk4MTk4MzcsLTE0NjI0NDc1NDYsMTYzODQ4Mjk2
+Ml19
 -->
