@@ -17,12 +17,13 @@ Para não ter imprevistos, fazer a transferência dos dados, tanto MySQL quanto 
 1. Os comandos de comunicação com o sistema dotA2 são iguais ao dotA1?
 2. Ao retornar o dotA para o sistema anterior, precisa voltar a versão do Firmware?
 3. É possível voltar uma versão do Firmware compatível com o dotA1?
-4. Manter um URL de acesso diferente do atual
+4. É possível manter o sistema antigo no ar enquanto não é feito a migração completa para o novo?
 
 ### Atividades
 
 1. Adicionar credenciais e certificados de backup que retornem para o dotA1
-2. Manter o site antigo (url) para backup e retornarmos o dotA para lá
+2. Fazer o Change Host dos dotAs
+3. Manter o site antigo (url) para backup e retornarmos o dotA para lá
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTg3MDYwNF19
+eyJoaXN0b3J5IjpbLTE2NDEyNDIxOF19
 -->
