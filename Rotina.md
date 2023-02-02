@@ -19,7 +19,9 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] Criar plano B para caso de falha na migração (vai desligar o dota1 assim que migrar pro dota2?)
 - [ ] Auxiliar nos testes de estresse
 - [ ] Ficar por dentro das interações entre dotA físico e AWS
+
 - [ ] Alinhar com o Ko data final das validações (03/02/2023)
+- [ ] Não conseguir contribuir com a parte de desenvolvimento hoje
 
 ## Delegar
 
@@ -32,11 +34,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjY0MjQ2NSwtMTkxMzE0MjM5Miw3NT
-gyNzgyOTYsMTM0NDAzNjMxNyw2MjYyNDIyNDUsMTg4MjAyODE1
-MywtMTEwODYwNjAzNSw3NTA2MTY1NTMsLTM1NTUyOTMwMyw1OT
-EwMDU4NjQsMzE5ODE5ODM3LC0xNDYyNDQ3NTQ2LDE2Mzg0ODI5
-NjIsLTEyMDcyMTQ0NDAsMjA2MTU3NTc2NSwyMTEzNDg5OTY5LD
-EwNjg3OTI3LC02ODg0NTk2ODgsLTI1MDIzNzY2MCw0ODQyMTQ0
-N119
+eyJoaXN0b3J5IjpbNzY1NDk4MjE5LC0xOTEzMTQyMzkyLDc1OD
+I3ODI5NiwxMzQ0MDM2MzE3LDYyNjI0MjI0NSwxODgyMDI4MTUz
+LC0xMTA4NjA2MDM1LDc1MDYxNjU1MywtMzU1NTI5MzAzLDU5MT
+AwNTg2NCwzMTk4MTk4MzcsLTE0NjI0NDc1NDYsMTYzODQ4Mjk2
+MiwtMTIwNzIxNDQ0MCwyMDYxNTc1NzY1LDIxMTM0ODk5NjksMT
+A2ODc5MjcsLTY4ODQ1OTY4OCwtMjUwMjM3NjYwLDQ4NDIxNDQ3
+XX0=
 -->
