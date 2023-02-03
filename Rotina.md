@@ -12,12 +12,13 @@ dotA    | 09h00 | 18h | 8h00
 - [x] Criar plano B para caso de falha na migração (vai desligar o dota1 assim que migrar pro dota2?)
 - [x] Ficar por dentro das interações entre dotA físico e AWS
 - [x] Alinhar com o Ko data final das validações (03/02/2023)
+- [x] Tira dúvidas com Ickson sobre o código
 
 ## Afazeres planejados
 
 - [ ] Mudar charts do painel de controle
 - [ ] Alterar ordem dos sensores no card padrão
-- [ ] Tira dúvidas com Ickson sobre o código
+- [ ] Acompanhar 
 
 ## Delegar
 
@@ -31,11 +32,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNz
-I0NzA2MiwtNjY4MTYyNDIyLC01OTE0MjU5OTgsLTYyOTg3MTIy
-MiwxNjM2MDM1NTc4LC0xNDg2Mjc0MzAxLC0xMTYxODE3LDc2NT
-Q5ODIxOSwtMTkxMzE0MjM5Miw3NTgyNzgyOTYsMTM0NDAzNjMx
-Nyw2MjYyNDIyNDUsMTg4MjAyODE1MywtMTEwODYwNjAzNSw3NT
-A2MTY1NTMsLTM1NTUyOTMwMyw1OTEwMDU4NjQsMzE5ODE5ODM3
-XX0=
+eyJoaXN0b3J5IjpbLTk0ODA1NTkyOSwxNDQ5MzU1NTAsLTE0OT
+EzNTM2NTAsNTE3MjQ3MDYyLC02NjgxNjI0MjIsLTU5MTQyNTk5
+OCwtNjI5ODcxMjIyLDE2MzYwMzU1NzgsLTE0ODYyNzQzMDEsLT
+ExNjE4MTcsNzY1NDk4MjE5LC0xOTEzMTQyMzkyLDc1ODI3ODI5
+NiwxMzQ0MDM2MzE3LDYyNjI0MjI0NSwxODgyMDI4MTUzLC0xMT
+A4NjA2MDM1LDc1MDYxNjU1MywtMzU1NTI5MzAzLDU5MTAwNTg2
+NF19
 -->
