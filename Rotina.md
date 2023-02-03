@@ -18,7 +18,8 @@ dotA    | 09h00 | 18h | 8h00
 
 - [ ] Mudar charts do painel de controle
 - [ ] Alterar ordem dos sensores no card padrão
-- [ ] Acompanhar 
+- [ ] Acompanhar tempo de migração
+- [ ] Acompanhar testes na plataforma
 
 ## Delegar
 
@@ -32,7 +33,7 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODA1NTkyOSwxNDQ5MzU1NTAsLTE0OT
+eyJoaXN0b3J5IjpbMTk4OTg5NjIzNSwxNDQ5MzU1NTAsLTE0OT
 EzNTM2NTAsNTE3MjQ3MDYyLC02NjgxNjI0MjIsLTU5MTQyNTk5
 OCwtNjI5ODcxMjIyLDE2MzYwMzU1NzgsLTE0ODYyNzQzMDEsLT
 ExNjE4MTcsNzY1NDk4MjE5LC0xOTEzMTQyMzkyLDc1ODI3ODI5
