@@ -62,9 +62,7 @@ Abertas: 9, sendo 2 abertas hoje
 Atual - resumo atividades Ickson
 
 ```
-, segue a lista resumida das atividades pendentes:
-- Resolver issues: #114 e #115
-- Aguardar avaliação do teste de estresse para ver se ocorrerá problemas de performance na plataforma
+, segue a lista resumida das possíveis atividades:
 - Auxiliar na avaliação pós teste de estresse sobre a infra
 - Dar suporte na migração definitiva para a São Rafael
 ```
@@ -153,11 +151,11 @@ Ickson, seguem as atividades para conclusão:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDYyMTAwNywxMjE3MjA5MDQyLC04OD
-kwNDkwMCwtNzU5OTg3ODczLC0xMTQ2MTY4NjE3LDEwMzQ4Mzgx
-MzMsMTc5ODMxNDc1NiwtMjcyODkzNzA1LC0xMzc3NjI2MzcsNz
-c3NjQ5MDc5LC0xNTY4MDU3OTY0LDc1NDQzODk1LC0yMDY2ODM0
-Nzg3LC00MDk5ODgwNTcsMTY0NTIwMzM4NSwxNTM1MDExNDYsMT
-A5MjA1NTU5NiwxOTMyNzc1Njg4LC0yODYzODE0MzIsNDIzODUy
-NzhdfQ==
+eyJoaXN0b3J5IjpbLTE3MDk4NzQ5ODUsMTIxNzIwOTA0MiwtOD
+g5MDQ5MDAsLTc1OTk4Nzg3MywtMTE0NjE2ODYxNywxMDM0ODM4
+MTMzLDE3OTgzMTQ3NTYsLTI3Mjg5MzcwNSwtMTM3NzYyNjM3LD
+c3NzY0OTA3OSwtMTU2ODA1Nzk2NCw3NTQ0Mzg5NSwtMjA2Njgz
+NDc4NywtNDA5OTg4MDU3LDE2NDUyMDMzODUsMTUzNTAxMTQ2LD
+EwOTIwNTU1OTYsMTkzMjc3NTY4OCwtMjg2MzgxNDMyLDQyMzg1
+Mjc4XX0=
 -->
