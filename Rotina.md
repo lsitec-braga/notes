@@ -26,16 +26,16 @@ dotA    | 09h00 | 18h | 8h00
 ## Afazeres não planejados
 
 - [ ] Confirmar com o Iruino para alterar o IP do site do DotA1
-- [ ] Testar mudanças Ickson
-- [ ] Comunicação do Firmware
+- [x] Testar mudanças Ickson
+- [x] Comunicação do Firmware
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTEzNTM2NTAsNTE3MjQ3MDYyLC02Nj
-gxNjI0MjIsLTU5MTQyNTk5OCwtNjI5ODcxMjIyLDE2MzYwMzU1
-NzgsLTE0ODYyNzQzMDEsLTExNjE4MTcsNzY1NDk4MjE5LC0xOT
-EzMTQyMzkyLDc1ODI3ODI5NiwxMzQ0MDM2MzE3LDYyNjI0MjI0
-NSwxODgyMDI4MTUzLC0xMTA4NjA2MDM1LDc1MDYxNjU1MywtMz
-U1NTI5MzAzLDU5MTAwNTg2NCwzMTk4MTk4MzcsLTE0NjI0NDc1
-NDZdfQ==
+eyJoaXN0b3J5IjpbMTQ0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNz
+I0NzA2MiwtNjY4MTYyNDIyLC01OTE0MjU5OTgsLTYyOTg3MTIy
+MiwxNjM2MDM1NTc4LC0xNDg2Mjc0MzAxLC0xMTYxODE3LDc2NT
+Q5ODIxOSwtMTkxMzE0MjM5Miw3NTgyNzgyOTYsMTM0NDAzNjMx
+Nyw2MjYyNDIyNDUsMTg4MjAyODE1MywtMTEwODYwNjAzNSw3NT
+A2MTY1NTMsLTM1NTUyOTMwMyw1OTEwMDU4NjQsMzE5ODE5ODM3
+XX0=
 -->
