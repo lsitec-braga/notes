@@ -18,8 +18,8 @@ dotA    | 09h00 | 18h | 8h00
 ## Afazeres planejados
 
 - [ ] Acompanhar mudanças no CloudFront
-- [ ] Criar documentação dos endpoints de Prod e Homologação
-- [ ] Subir mudanças para a Branch principal
+- [x] Criar documentação dos endpoints de Prod e Homologação
+- [x] Subir mudanças para a Branch principal
 
 ## Delegar
 
@@ -33,11 +33,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzNzM3NTU4LC04MzE2NDAyNjEsMTk4OT
-g5NjIzNSwxNDQ5MzU1NTAsLTE0OTEzNTM2NTAsNTE3MjQ3MDYy
-LC02NjgxNjI0MjIsLTU5MTQyNTk5OCwtNjI5ODcxMjIyLDE2Mz
-YwMzU1NzgsLTE0ODYyNzQzMDEsLTExNjE4MTcsNzY1NDk4MjE5
-LC0xOTEzMTQyMzkyLDc1ODI3ODI5NiwxMzQ0MDM2MzE3LDYyNj
-I0MjI0NSwxODgyMDI4MTUzLC0xMTA4NjA2MDM1LDc1MDYxNjU1
-M119
+eyJoaXN0b3J5IjpbLTE5ODg3NTk1MTQsOTAzNzM3NTU4LC04Mz
+E2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5MzU1NTAsLTE0OTEzNTM2
+NTAsNTE3MjQ3MDYyLC02NjgxNjI0MjIsLTU5MTQyNTk5OCwtNj
+I5ODcxMjIyLDE2MzYwMzU1NzgsLTE0ODYyNzQzMDEsLTExNjE4
+MTcsNzY1NDk4MjE5LC0xOTEzMTQyMzkyLDc1ODI3ODI5NiwxMz
+Q0MDM2MzE3LDYyNjI0MjI0NSwxODgyMDI4MTUzLC0xMTA4NjA2
+MDM1XX0=
 -->
