@@ -8,13 +8,15 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Alterar ordem dos sensores no card padrão
-- [x] Acompanhar tempo de migração
-- [x] Acompanhar testes na plataforma
+- [ ] Mudar charts do painel de controle
+- [ ] Mudar ordem dos sensores
+- [ ] Alterar tempo de exibição nos gráficos de segundos para horas e minutos
+- [ ] Finalizar os testes no github
 
 ## Afazeres planejados
 
-- [ ] Mudar charts do painel de controle
+
+- [ ] 
 
 ## Delegar
 
@@ -28,11 +30,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTY0MDI2MSwxOTg5ODk2MjM1LDE0ND
-kzNTU1MCwtMTQ5MTM1MzY1MCw1MTcyNDcwNjIsLTY2ODE2MjQy
-MiwtNTkxNDI1OTk4LC02Mjk4NzEyMjIsMTYzNjAzNTU3OCwtMT
-Q4NjI3NDMwMSwtMTE2MTgxNyw3NjU0OTgyMTksLTE5MTMxNDIz
-OTIsNzU4Mjc4Mjk2LDEzNDQwMzYzMTcsNjI2MjQyMjQ1LDE4OD
-IwMjgxNTMsLTExMDg2MDYwMzUsNzUwNjE2NTUzLC0zNTU1Mjkz
-MDNdfQ==
+eyJoaXN0b3J5IjpbLTE4OTcxNjUwOCwtODMxNjQwMjYxLDE5OD
+k4OTYyMzUsMTQ0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNzI0NzA2
+MiwtNjY4MTYyNDIyLC01OTE0MjU5OTgsLTYyOTg3MTIyMiwxNj
+M2MDM1NTc4LC0xNDg2Mjc0MzAxLC0xMTYxODE3LDc2NTQ5ODIx
+OSwtMTkxMzE0MjM5Miw3NTgyNzgyOTYsMTM0NDAzNjMxNyw2Mj
+YyNDIyNDUsMTg4MjAyODE1MywtMTEwODYwNjAzNSw3NTA2MTY1
+NTNdfQ==
 -->
