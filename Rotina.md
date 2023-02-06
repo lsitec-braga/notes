@@ -15,8 +15,9 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Afazeres planejados
 
-
-- [ ] 
+- [ ] Acompanhar mudanças no CloudFront
+- [ ] Criar documentação dos endpoints de Prod e Homologação
+- [ ] Subi
 
 ## Delegar
 
@@ -30,7 +31,7 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTcxNjUwOCwtODMxNjQwMjYxLDE5OD
+eyJoaXN0b3J5IjpbMTYzNjY1NDg5MCwtODMxNjQwMjYxLDE5OD
 k4OTYyMzUsMTQ0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNzI0NzA2
 MiwtNjY4MTYyNDIyLC01OTE0MjU5OTgsLTYyOTg3MTIyMiwxNj
 M2MDM1NTc4LC0xNDg2Mjc0MzAxLC0xMTYxODE3LDc2NTQ5ODIx
