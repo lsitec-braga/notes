@@ -11,10 +11,13 @@ dotA    | 09h00 | 18h | 8h00
 - [x] Acompanhar mudanças no CloudFront
 - [x] Criar documentação dos endpoints de Prod e Homologação
 - [x] Subir mudanças para a Branch de dev
+- [x] Acompanhei os testes com o Welington sobre as mudanças no Front
+- [x] Participei do teste de estresse
 
 ## Afazeres planejados
 
-- [ ]
+- [ ] Fazer Review das alterações que o Victor vai subir
+- [ ] Resolver conflitos de uma das minhas 
 
 ## Delegar
 
@@ -28,11 +31,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMTQ5MzIsLTExNzAyMDg4MTMsLTE5OD
-g3NTk1MTQsOTAzNzM3NTU4LC04MzE2NDAyNjEsMTk4OTg5NjIz
-NSwxNDQ5MzU1NTAsLTE0OTEzNTM2NTAsNTE3MjQ3MDYyLC02Nj
-gxNjI0MjIsLTU5MTQyNTk5OCwtNjI5ODcxMjIyLDE2MzYwMzU1
-NzgsLTE0ODYyNzQzMDEsLTExNjE4MTcsNzY1NDk4MjE5LC0xOT
-EzMTQyMzkyLDc1ODI3ODI5NiwxMzQ0MDM2MzE3LDYyNjI0MjI0
-NV19
+eyJoaXN0b3J5IjpbLTI4NzQ2MDYwMSw3ODExNDkzMiwtMTE3MD
+IwODgxMywtMTk4ODc1OTUxNCw5MDM3Mzc1NTgsLTgzMTY0MDI2
+MSwxOTg5ODk2MjM1LDE0NDkzNTU1MCwtMTQ5MTM1MzY1MCw1MT
+cyNDcwNjIsLTY2ODE2MjQyMiwtNTkxNDI1OTk4LC02Mjk4NzEy
+MjIsMTYzNjAzNTU3OCwtMTQ4NjI3NDMwMSwtMTE2MTgxNyw3Nj
+U0OTgyMTksLTE5MTMxNDIzOTIsNzU4Mjc4Mjk2LDEzNDQwMzYz
+MTddfQ==
 -->
