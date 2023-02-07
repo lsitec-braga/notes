@@ -8,18 +8,12 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Finalizar review dos bigfixes do Ickson
-- [x] Deploy do Front End de homologação no CloudFront
-- [x] Gerar releases no github
-- [x] Alterar sobreposição dos gráficos no painel de controle
-- [x] Mudar ordem dos sensores no card minimizado
-- [x] Alterar tempo de exibição nos gráficos de segundos para horas e minutos
+- [x] Acompanhar mudanças no CloudFront
+- [x] Criar documentação dos endpoints de Prod e Homologação
+- [x] Subir mudanças para a Branch de dev
 
 ## Afazeres planejados
 
-- [ ] Acompanhar mudanças no CloudFront
-- [x] Criar documentação dos endpoints de Prod e Homologação
-- [x] Subir mudanças para a Branch principal
 
 ## Delegar
 
@@ -33,11 +27,11 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg3NTk1MTQsOTAzNzM3NTU4LC04Mz
-E2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5MzU1NTAsLTE0OTEzNTM2
-NTAsNTE3MjQ3MDYyLC02NjgxNjI0MjIsLTU5MTQyNTk5OCwtNj
-I5ODcxMjIyLDE2MzYwMzU1NzgsLTE0ODYyNzQzMDEsLTExNjE4
-MTcsNzY1NDk4MjE5LC0xOTEzMTQyMzkyLDc1ODI3ODI5NiwxMz
-Q0MDM2MzE3LDYyNjI0MjI0NSwxODgyMDI4MTUzLC0xMTA4NjA2
-MDM1XX0=
+eyJoaXN0b3J5IjpbLTExNzAyMDg4MTMsLTE5ODg3NTk1MTQsOT
+AzNzM3NTU4LC04MzE2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5MzU1
+NTAsLTE0OTEzNTM2NTAsNTE3MjQ3MDYyLC02NjgxNjI0MjIsLT
+U5MTQyNTk5OCwtNjI5ODcxMjIyLDE2MzYwMzU1NzgsLTE0ODYy
+NzQzMDEsLTExNjE4MTcsNzY1NDk4MjE5LC0xOTEzMTQyMzkyLD
+c1ODI3ODI5NiwxMzQ0MDM2MzE3LDYyNjI0MjI0NSwxODgyMDI4
+MTUzXX0=
 -->
