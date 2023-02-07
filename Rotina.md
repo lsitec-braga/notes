@@ -17,7 +17,9 @@ dotA    | 09h00 | 18h | 8h00
 ## Afazeres planejados
 
 - [ ] Fazer Review das alterações que o Victor vai subir
-- [ ] Resolver conflitos de uma das minhas 
+- [ ] Resolver conflitos de uma das minhas PRs
+- [ ] Fazer a build do projeto tanto de Homolog quanto de Prod e subir no CloudFront
+- [ ] Definir os papéis de cada membro durante a imigração
 
 ## Delegar
 
@@ -31,7 +33,7 @@ dotA    | 09h00 | 18h | 8h00
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzQ2MDYwMSw3ODExNDkzMiwtMTE3MD
+eyJoaXN0b3J5IjpbMTEwNjc5NjkzMSw3ODExNDkzMiwtMTE3MD
 IwODgxMywtMTk4ODc1OTUxNCw5MDM3Mzc1NTgsLTgzMTY0MDI2
 MSwxOTg5ODk2MjM1LDE0NDkzNTU1MCwtMTQ5MTM1MzY1MCw1MT
 cyNDcwNjIsLTY2ODE2MjQyMiwtNTkxNDI1OTk4LC02Mjk4NzEy
