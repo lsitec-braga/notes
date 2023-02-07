@@ -13,6 +13,7 @@ dotA    | 09h00 | 18h | 8h00
 - [x] Acompanhei os testes com o Welington sobre as mudanças no Front
 - [x] Participei do teste de estresse e do Update de Firmware
 - [x] Acompanhar mudanças no CloudFront
+- [x] Envio do email para a São Rafael confirmando a data da migração
 
 ## Afazeres planejados
 
@@ -27,17 +28,13 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Afazeres não planejados
 
-- [ ] Confirmar com o Iruino para alterar o IP do site do DotA1
-- [x] Testar mudanças Ickson
-- [x] Comunicação do Firmware
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTM4OTIxNSwxMTA2Nzk2OTMxLDc4MT
-E0OTMyLC0xMTcwMjA4ODEzLC0xOTg4NzU5NTE0LDkwMzczNzU1
-OCwtODMxNjQwMjYxLDE5ODk4OTYyMzUsMTQ0OTM1NTUwLC0xND
-kxMzUzNjUwLDUxNzI0NzA2MiwtNjY4MTYyNDIyLC01OTE0MjU5
-OTgsLTYyOTg3MTIyMiwxNjM2MDM1NTc4LC0xNDg2Mjc0MzAxLC
-0xMTYxODE3LDc2NTQ5ODIxOSwtMTkxMzE0MjM5Miw3NTgyNzgy
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNDIyMDUwODksLTgwNTM4OTIxNSwxMT
+A2Nzk2OTMxLDc4MTE0OTMyLC0xMTcwMjA4ODEzLC0xOTg4NzU5
+NTE0LDkwMzczNzU1OCwtODMxNjQwMjYxLDE5ODk4OTYyMzUsMT
+Q0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNzI0NzA2MiwtNjY4MTYy
+NDIyLC01OTE0MjU5OTgsLTYyOTg3MTIyMiwxNjM2MDM1NTc4LC
+0xNDg2Mjc0MzAxLC0xMTYxODE3LDc2NTQ5ODIxOSwtMTkxMzE0
+MjM5Ml19
 -->
