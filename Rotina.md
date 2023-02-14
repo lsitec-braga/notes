@@ -8,33 +8,30 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Criei documentação dos endpoints de Prod e Homologação
-- [x] Subi mudanças para a Branch de dev
-- [x] Acompanhei os testes com o Welington sobre as mudanças no Front
-- [x] Participei do teste de estresse e do Update de Firmware
-- [x] Acompanhar mudanças no CloudFront
-- [x] Envio do email para a São Rafael confirmando a data da migração
+
 
 ## Afazeres planejados
 
-- [ ] Fazer Review das alterações que o Victor vai subir
-- [ ] Resolver conflitos de uma das minhas PRs
-- [ ] Fazer a build do projeto tanto de Homolog quanto de Prod e subir no CloudFront
-- [ ] Definir os papéis de cada membro durante a imigração
-
-## Delegar
-
-
+- [ ] Ajustar estado "Fora de uso" dos dotAs - Diego
+- [ ] Adicionar calibração de voltagem ao editar sensores do ponto - Diego
+- [ ] Poder selecionar "nenhum" dotA na edição do ponto - Diego
+- [ ] Poder visualizar os dados dos pontos sem precisar clicar em "Editar" - Diego
+- [ ] Visualizar todos os sensores em uma única página - Diego
 
 ## Afazeres não planejados
 
+- [ ] 
+
+## Delegar
+
+- [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIyMDUwODksLTgwNTM4OTIxNSwxMT
-A2Nzk2OTMxLDc4MTE0OTMyLC0xMTcwMjA4ODEzLC0xOTg4NzU5
-NTE0LDkwMzczNzU1OCwtODMxNjQwMjYxLDE5ODk4OTYyMzUsMT
-Q0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNzI0NzA2MiwtNjY4MTYy
-NDIyLC01OTE0MjU5OTgsLTYyOTg3MTIyMiwxNjM2MDM1NTc4LC
-0xNDg2Mjc0MzAxLC0xMTYxODE3LDc2NTQ5ODIxOSwtMTkxMzE0
-MjM5Ml19
+eyJoaXN0b3J5IjpbLTEzODk5MTIwODUsLTEzNDIyMDUwODksLT
+gwNTM4OTIxNSwxMTA2Nzk2OTMxLDc4MTE0OTMyLC0xMTcwMjA4
+ODEzLC0xOTg4NzU5NTE0LDkwMzczNzU1OCwtODMxNjQwMjYxLD
+E5ODk4OTYyMzUsMTQ0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNzI0
+NzA2MiwtNjY4MTYyNDIyLC01OTE0MjU5OTgsLTYyOTg3MTIyMi
+wxNjM2MDM1NTc4LC0xNDg2Mjc0MzAxLC0xMTYxODE3LDc2NTQ5
+ODIxOV19
 -->
