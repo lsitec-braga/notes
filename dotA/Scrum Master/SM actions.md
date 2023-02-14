@@ -16,8 +16,12 @@
 
 - Tempo estimado por pessoa: 1,5 minuto
 - Solicitar que o pessoal seja direto
-- Impedimentos serem de 
+- Impedimentos serem detalhados pós daily ou no privado
+
+## Template
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjczMzE4OF19
+eyJoaXN0b3J5IjpbNjI2MzI3NzMxXX0=
 -->
