@@ -14,7 +14,6 @@ dotA    | 09h00 | 18h | 8h00
 
 - [ ] Ajustar estado "Fora de uso" dos dotAs - Diego
 - [ ] Adicionar calibração de voltagem ao editar sensores do ponto - Diego
-- [ ] Poder selecionar "nenhum" dotA na edição do ponto - Diego
 - [ ] Poder visualizar os dados dos pontos sem precisar clicar em "Editar" - Diego
 - [ ] Visualizar todos os sensores em uma única página - Diego
 
@@ -27,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk5MTIwODUsLTEzNDIyMDUwODksLT
-gwNTM4OTIxNSwxMTA2Nzk2OTMxLDc4MTE0OTMyLC0xMTcwMjA4
-ODEzLC0xOTg4NzU5NTE0LDkwMzczNzU1OCwtODMxNjQwMjYxLD
-E5ODk4OTYyMzUsMTQ0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNzI0
-NzA2MiwtNjY4MTYyNDIyLC01OTE0MjU5OTgsLTYyOTg3MTIyMi
-wxNjM2MDM1NTc4LC0xNDg2Mjc0MzAxLC0xMTYxODE3LDc2NTQ5
-ODIxOV19
+eyJoaXN0b3J5IjpbMTI5NDI2NDI2NCwtMTM4OTkxMjA4NSwtMT
+M0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3OTY5MzEsNzgxMTQ5
+MzIsLTExNzAyMDg4MTMsLTE5ODg3NTk1MTQsOTAzNzM3NTU4LC
+04MzE2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5MzU1NTAsLTE0OTEz
+NTM2NTAsNTE3MjQ3MDYyLC02NjgxNjI0MjIsLTU5MTQyNTk5OC
+wtNjI5ODcxMjIyLDE2MzYwMzU1NzgsLTE0ODYyNzQzMDEsLTEx
+NjE4MTddfQ==
 -->
