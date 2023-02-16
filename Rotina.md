@@ -8,14 +8,13 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-
+- [x] 
 
 ## Afazeres planejados
 
-- [ ] Ajustar estado "Fora de uso" dos dotAs - Diego
-- [ ] Adicionar calibração de voltagem ao editar sensores do ponto - Diego
-- [ ] Poder visualizar os dados dos pontos sem precisar clicar em "Editar" - Diego
-- [ ] Visualizar todos os sensores em uma única página - Diego
+- [ ] Terminar visualização dos sensores em uma única página
+- [ ] Adicionar calibração de voltagem ao editar sensores do ponto
+- [ ] Adicionar filtro na lambda para retirar pontos com estado "fora de uso"
 
 ## Afazeres não planejados
 
@@ -26,11 +25,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDI2NDI2NCwtMTM4OTkxMjA4NSwtMT
-M0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3OTY5MzEsNzgxMTQ5
-MzIsLTExNzAyMDg4MTMsLTE5ODg3NTk1MTQsOTAzNzM3NTU4LC
-04MzE2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5MzU1NTAsLTE0OTEz
-NTM2NTAsNTE3MjQ3MDYyLC02NjgxNjI0MjIsLTU5MTQyNTk5OC
-wtNjI5ODcxMjIyLDE2MzYwMzU1NzgsLTE0ODYyNzQzMDEsLTEx
-NjE4MTddfQ==
+eyJoaXN0b3J5IjpbLTE0OTk0MjMzMTMsMTI5NDI2NDI2NCwtMT
+M4OTkxMjA4NSwtMTM0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3
+OTY5MzEsNzgxMTQ5MzIsLTExNzAyMDg4MTMsLTE5ODg3NTk1MT
+QsOTAzNzM3NTU4LC04MzE2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5
+MzU1NTAsLTE0OTEzNTM2NTAsNTE3MjQ3MDYyLC02NjgxNjI0Mj
+IsLTU5MTQyNTk5OCwtNjI5ODcxMjIyLDE2MzYwMzU1NzgsLTE0
+ODYyNzQzMDFdfQ==
 -->
