@@ -8,15 +8,16 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] 
+- [x] Ajustar novo fluxo no github
+- [x] Deploy das alterações no servidor de QA
 
-## Afazeres planejados
+## Afazeres Planejados
 
 - [ ] Terminar visualização dos sensores em uma única página
-- [ ] Adicionar calibração de voltagem ao editar sensores do ponto
 - [ ] Adicionar filtro na lambda para retirar pontos com estado "fora de uso"
+- [ ] Adicionar calibração de voltagem ao editar sensores do ponto
 
-## Afazeres não planejados
+## Afazeres Não Planejados
 
 - [ ] 
 
@@ -25,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk0MjMzMTMsMTI5NDI2NDI2NCwtMT
-M4OTkxMjA4NSwtMTM0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3
-OTY5MzEsNzgxMTQ5MzIsLTExNzAyMDg4MTMsLTE5ODg3NTk1MT
-QsOTAzNzM3NTU4LC04MzE2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5
-MzU1NTAsLTE0OTEzNTM2NTAsNTE3MjQ3MDYyLC02NjgxNjI0Mj
-IsLTU5MTQyNTk5OCwtNjI5ODcxMjIyLDE2MzYwMzU1NzgsLTE0
-ODYyNzQzMDFdfQ==
+eyJoaXN0b3J5IjpbLTM0MzkwMDQwMCwxMjk0MjY0MjY0LC0xMz
+g5OTEyMDg1LC0xMzQyMjA1MDg5LC04MDUzODkyMTUsMTEwNjc5
+NjkzMSw3ODExNDkzMiwtMTE3MDIwODgxMywtMTk4ODc1OTUxNC
+w5MDM3Mzc1NTgsLTgzMTY0MDI2MSwxOTg5ODk2MjM1LDE0NDkz
+NTU1MCwtMTQ5MTM1MzY1MCw1MTcyNDcwNjIsLTY2ODE2MjQyMi
+wtNTkxNDI1OTk4LC02Mjk4NzEyMjIsMTYzNjAzNTU3OCwtMTQ4
+NjI3NDMwMV19
 -->
