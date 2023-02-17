@@ -10,6 +10,9 @@ dotA    | 09h00 | 18h | 8h00
 
 - [x] Ajustar novo fluxo no github
 - [x] Deploy das alterações no servidor de QA
+- [x] Atualizar função lambda de pegar pontos
+- [x] Subi repositórios para o Firmware do dotA
+- [x] 
 
 ## Afazeres Planejados
 
@@ -26,11 +29,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzkwMDQwMCwxMjk0MjY0MjY0LC0xMz
-g5OTEyMDg1LC0xMzQyMjA1MDg5LC04MDUzODkyMTUsMTEwNjc5
-NjkzMSw3ODExNDkzMiwtMTE3MDIwODgxMywtMTk4ODc1OTUxNC
-w5MDM3Mzc1NTgsLTgzMTY0MDI2MSwxOTg5ODk2MjM1LDE0NDkz
-NTU1MCwtMTQ5MTM1MzY1MCw1MTcyNDcwNjIsLTY2ODE2MjQyMi
-wtNTkxNDI1OTk4LC02Mjk4NzEyMjIsMTYzNjAzNTU3OCwtMTQ4
-NjI3NDMwMV19
+eyJoaXN0b3J5IjpbMTg2NDA0NTY5NiwtMzQzOTAwNDAwLDEyOT
+QyNjQyNjQsLTEzODk5MTIwODUsLTEzNDIyMDUwODksLTgwNTM4
+OTIxNSwxMTA2Nzk2OTMxLDc4MTE0OTMyLC0xMTcwMjA4ODEzLC
+0xOTg4NzU5NTE0LDkwMzczNzU1OCwtODMxNjQwMjYxLDE5ODk4
+OTYyMzUsMTQ0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNzI0NzA2Mi
+wtNjY4MTYyNDIyLC01OTE0MjU5OTgsLTYyOTg3MTIyMiwxNjM2
+MDM1NTc4XX0=
 -->
