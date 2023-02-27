@@ -8,17 +8,12 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Ajustar novo fluxo no github
-- [x] Deploy das alterações no servidor de QA
-- [x] Atualizar função lambda de pegar pontos
-- [x] Subi repositórios para o Firmware do dotA
 - [x] 
 
 ## Afazeres Planejados
 
 - [ ] Terminar visualização dos sensores em uma única página
-- [ ] Adicionar filtro na lambda para retirar pontos com estado "fora de uso"
-- [ ] Adicionar calibração de voltagem ao editar sensores do ponto
+- [ ] Pegar issue #145 de exportar dados nas colunas que a SR prefere
 
 ## Afazeres Não Planejados
 
@@ -29,11 +24,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDA0NTY5NiwtMzQzOTAwNDAwLDEyOT
-QyNjQyNjQsLTEzODk5MTIwODUsLTEzNDIyMDUwODksLTgwNTM4
-OTIxNSwxMTA2Nzk2OTMxLDc4MTE0OTMyLC0xMTcwMjA4ODEzLC
-0xOTg4NzU5NTE0LDkwMzczNzU1OCwtODMxNjQwMjYxLDE5ODk4
-OTYyMzUsMTQ0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNzI0NzA2Mi
-wtNjY4MTYyNDIyLC01OTE0MjU5OTgsLTYyOTg3MTIyMiwxNjM2
-MDM1NTc4XX0=
+eyJoaXN0b3J5IjpbLTYwNTAyNjI5OSwxODY0MDQ1Njk2LC0zND
+M5MDA0MDAsMTI5NDI2NDI2NCwtMTM4OTkxMjA4NSwtMTM0MjIw
+NTA4OSwtODA1Mzg5MjE1LDExMDY3OTY5MzEsNzgxMTQ5MzIsLT
+ExNzAyMDg4MTMsLTE5ODg3NTk1MTQsOTAzNzM3NTU4LC04MzE2
+NDAyNjEsMTk4OTg5NjIzNSwxNDQ5MzU1NTAsLTE0OTEzNTM2NT
+AsNTE3MjQ3MDYyLC02NjgxNjI0MjIsLTU5MTQyNTk5OCwtNjI5
+ODcxMjIyXX0=
 -->
