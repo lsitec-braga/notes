@@ -8,14 +8,13 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Deploy das issues da semana
-- [x] Correção do problema de caching no cloudfront
-- [x] Avanço na task dos sensores em uma única página como gestor
+- [x] Subi PR e fiz deploy da task de sensores em uma única página
+- [x] Dei início à task de nova interface
 
 ## Afazeres Planejados
 
-- [ ] Terminar visualização dos sensores em uma única página como admin
-- [ ] Pegar issue #145 de exportar dados nas colunas que a SR prefere
+- [ ] Ajustar bug reportado pelo Welington Terminar visualização dos sensores em uma única página como admin
+- [ ] Continuar desenvolvimento da nova interface
 
 ## Afazeres Não Planejados
 
@@ -26,11 +25,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODkzOTA0NDcsMTg2NDA0NTY5NiwtMz
-QzOTAwNDAwLDEyOTQyNjQyNjQsLTEzODk5MTIwODUsLTEzNDIy
-MDUwODksLTgwNTM4OTIxNSwxMTA2Nzk2OTMxLDc4MTE0OTMyLC
-0xMTcwMjA4ODEzLC0xOTg4NzU5NTE0LDkwMzczNzU1OCwtODMx
-NjQwMjYxLDE5ODk4OTYyMzUsMTQ0OTM1NTUwLC0xNDkxMzUzNj
-UwLDUxNzI0NzA2MiwtNjY4MTYyNDIyLC01OTE0MjU5OTgsLTYy
-OTg3MTIyMl19
+eyJoaXN0b3J5IjpbLTg5MDczNDgyNSwtMTI4OTM5MDQ0NywxOD
+Y0MDQ1Njk2LC0zNDM5MDA0MDAsMTI5NDI2NDI2NCwtMTM4OTkx
+MjA4NSwtMTM0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3OTY5Mz
+EsNzgxMTQ5MzIsLTExNzAyMDg4MTMsLTE5ODg3NTk1MTQsOTAz
+NzM3NTU4LC04MzE2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5MzU1NT
+AsLTE0OTEzNTM2NTAsNTE3MjQ3MDYyLC02NjgxNjI0MjIsLTU5
+MTQyNTk5OF19
 -->
