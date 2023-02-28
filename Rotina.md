@@ -13,7 +13,7 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Afazeres Planejados
 
-- [ ] Ajustar bug reportado pelo Welington Terminar visualização dos sensores em uma única página como admin
+- [ ] Ajustar o comportamento inesperado reportado pelo Welington nos compartimentos
 - [ ] Continuar desenvolvimento da nova interface
 
 ## Afazeres Não Planejados
@@ -25,7 +25,7 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDczNDgyNSwtMTI4OTM5MDQ0NywxOD
+eyJoaXN0b3J5IjpbMTMwNjQ4MTI3MSwtMTI4OTM5MDQ0NywxOD
 Y0MDQ1Njk2LC0zNDM5MDA0MDAsMTI5NDI2NDI2NCwtMTM4OTkx
 MjA4NSwtMTM0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3OTY5Mz
 EsNzgxMTQ5MzIsLTExNzAyMDg4MTMsLTE5ODg3NTk1MTQsOTAz
