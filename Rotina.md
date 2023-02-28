@@ -16,6 +16,8 @@ dotA    | 09h00 | 18h | 8h00
 
 - [ ] Ajustar o comportamento inesperado reportado pelo Welington nos compartimentos
 - [ ] Continuar desenvolvimento da nova interface
+- [ ] Arrumar Header
+- [ ] Atualizar Cards da interface
 
 ## Afazeres Não Planejados
 
@@ -26,11 +28,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxODEwMTk3LDEzMDY0ODEyNzEsLTEyOD
-kzOTA0NDcsMTg2NDA0NTY5NiwtMzQzOTAwNDAwLDEyOTQyNjQy
-NjQsLTEzODk5MTIwODUsLTEzNDIyMDUwODksLTgwNTM4OTIxNS
-wxMTA2Nzk2OTMxLDc4MTE0OTMyLC0xMTcwMjA4ODEzLC0xOTg4
-NzU5NTE0LDkwMzczNzU1OCwtODMxNjQwMjYxLDE5ODk4OTYyMz
-UsMTQ0OTM1NTUwLC0xNDkxMzUzNjUwLDUxNzI0NzA2MiwtNjY4
-MTYyNDIyXX0=
+eyJoaXN0b3J5IjpbMTI3NTc5NjY4LDI3MTgxMDE5NywxMzA2ND
+gxMjcxLC0xMjg5MzkwNDQ3LDE4NjQwNDU2OTYsLTM0MzkwMDQw
+MCwxMjk0MjY0MjY0LC0xMzg5OTEyMDg1LC0xMzQyMjA1MDg5LC
+04MDUzODkyMTUsMTEwNjc5NjkzMSw3ODExNDkzMiwtMTE3MDIw
+ODgxMywtMTk4ODc1OTUxNCw5MDM3Mzc1NTgsLTgzMTY0MDI2MS
+wxOTg5ODk2MjM1LDE0NDkzNTU1MCwtMTQ5MTM1MzY1MCw1MTcy
+NDcwNjJdfQ==
 -->
