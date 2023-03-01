@@ -8,16 +8,14 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Subi PR e fiz deploy da task de sensores em uma única página
-- [x] Dei início à task de nova interface
-- [x] Resolvi side effect da task de alfanumérico
+- [x] Ajustar o comportamento inesperado reportado pelo Welington nos compartimentos
+- [x] Arrumar Header
+- [x] Atualizar Cards da interface
 
 ## Afazeres Planejados
 
 - [ ] Ajustar o comportamento inesperado reportado pelo Welington nos compartimentos
-- [ ] Continuar desenvolvimento da nova interface
-- [ ] Arrumar Header
-- [ ] Atualizar Cards da interface
+- [ ] Ajustes finais do Header
 
 ## Afazeres Não Planejados
 
@@ -28,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTc5NjY4LDI3MTgxMDE5NywxMzA2ND
-gxMjcxLC0xMjg5MzkwNDQ3LDE4NjQwNDU2OTYsLTM0MzkwMDQw
-MCwxMjk0MjY0MjY0LC0xMzg5OTEyMDg1LC0xMzQyMjA1MDg5LC
-04MDUzODkyMTUsMTEwNjc5NjkzMSw3ODExNDkzMiwtMTE3MDIw
-ODgxMywtMTk4ODc1OTUxNCw5MDM3Mzc1NTgsLTgzMTY0MDI2MS
-wxOTg5ODk2MjM1LDE0NDkzNTU1MCwtMTQ5MTM1MzY1MCw1MTcy
-NDcwNjJdfQ==
+eyJoaXN0b3J5IjpbMjA5NTY3MDI4OSwxMjc1Nzk2NjgsMjcxOD
+EwMTk3LDEzMDY0ODEyNzEsLTEyODkzOTA0NDcsMTg2NDA0NTY5
+NiwtMzQzOTAwNDAwLDEyOTQyNjQyNjQsLTEzODk5MTIwODUsLT
+EzNDIyMDUwODksLTgwNTM4OTIxNSwxMTA2Nzk2OTMxLDc4MTE0
+OTMyLC0xMTcwMjA4ODEzLC0xOTg4NzU5NTE0LDkwMzczNzU1OC
+wtODMxNjQwMjYxLDE5ODk4OTYyMzUsMTQ0OTM1NTUwLC0xNDkx
+MzUzNjUwXX0=
 -->
