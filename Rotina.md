@@ -9,8 +9,8 @@ dotA    | 09h00 | 18h | 8h00
 ## Feito
 
 - [x] Ajustar o comportamento inesperado reportado pelo Welington nos compartimentos
-- [x] Arrumar Header
-- [x] Atualizar Cards da interface
+- [x] Deploy das issues 
+- [x] Atrelar os botões de ação do painel de controle com os modais
 
 ## Afazeres Planejados
 
@@ -26,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTY3MDI4OSwxMjc1Nzk2NjgsMjcxOD
-EwMTk3LDEzMDY0ODEyNzEsLTEyODkzOTA0NDcsMTg2NDA0NTY5
-NiwtMzQzOTAwNDAwLDEyOTQyNjQyNjQsLTEzODk5MTIwODUsLT
-EzNDIyMDUwODksLTgwNTM4OTIxNSwxMTA2Nzk2OTMxLDc4MTE0
-OTMyLC0xMTcwMjA4ODEzLC0xOTg4NzU5NTE0LDkwMzczNzU1OC
-wtODMxNjQwMjYxLDE5ODk4OTYyMzUsMTQ0OTM1NTUwLC0xNDkx
-MzUzNjUwXX0=
+eyJoaXN0b3J5IjpbLTE0OTUzNTc4OTYsMjA5NTY3MDI4OSwxMj
+c1Nzk2NjgsMjcxODEwMTk3LDEzMDY0ODEyNzEsLTEyODkzOTA0
+NDcsMTg2NDA0NTY5NiwtMzQzOTAwNDAwLDEyOTQyNjQyNjQsLT
+EzODk5MTIwODUsLTEzNDIyMDUwODksLTgwNTM4OTIxNSwxMTA2
+Nzk2OTMxLDc4MTE0OTMyLC0xMTcwMjA4ODEzLC0xOTg4NzU5NT
+E0LDkwMzczNzU1OCwtODMxNjQwMjYxLDE5ODk4OTYyMzUsMTQ0
+OTM1NTUwXX0=
 -->
