@@ -15,7 +15,7 @@ dotA    | 09h00 | 18h | 8h00
 ## Afazeres Planejados
 
 - [ ] Ajustar os botões de ação do painel de controle para carregar a de acordo com o ponto selecionado
-- [ ] Ajustar a task do
+- [ ] Melhorar a usabilidade ao cadastrar o alerta de email, podendo cadastrar vários de uma só vez
 
 ## Afazeres Não Planejados
 
@@ -26,7 +26,7 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTUxNTQzOSwyMDk1NjcwMjg5LDEyNz
+eyJoaXN0b3J5IjpbLTQ2NjQyMzQ0MywyMDk1NjcwMjg5LDEyNz
 U3OTY2OCwyNzE4MTAxOTcsMTMwNjQ4MTI3MSwtMTI4OTM5MDQ0
 NywxODY0MDQ1Njk2LC0zNDM5MDA0MDAsMTI5NDI2NDI2NCwtMT
 M4OTkxMjA4NSwtMTM0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3
