@@ -8,14 +8,14 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Ajustar o comportamento inesperado reportado pelo Welington nos compartimentos
-- [x] Deploy das issues 
+- [x] Ajustar o comportamento inesperado reportado pelo Welington ao salvar sensores no sistema
+- [x] Deploy das issues prontas na sexta feira
 - [x] Atrelar os botões de ação do painel de controle com os modais
 
 ## Afazeres Planejados
 
-- [ ] Ajustar o comportamento inesperado reportado pelo Welington nos compartimentos
-- [ ] Ajustes finais do Header
+- [ ] Ajustar os botões de ação do painel de controle para carregar a de acordo com o ponto selecionado
+- [ ] Ajustar a task do
 
 ## Afazeres Não Planejados
 
@@ -26,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUzNTc4OTYsMjA5NTY3MDI4OSwxMj
-c1Nzk2NjgsMjcxODEwMTk3LDEzMDY0ODEyNzEsLTEyODkzOTA0
-NDcsMTg2NDA0NTY5NiwtMzQzOTAwNDAwLDEyOTQyNjQyNjQsLT
-EzODk5MTIwODUsLTEzNDIyMDUwODksLTgwNTM4OTIxNSwxMTA2
-Nzk2OTMxLDc4MTE0OTMyLC0xMTcwMjA4ODEzLC0xOTg4NzU5NT
-E0LDkwMzczNzU1OCwtODMxNjQwMjYxLDE5ODk4OTYyMzUsMTQ0
-OTM1NTUwXX0=
+eyJoaXN0b3J5IjpbLTY1OTUxNTQzOSwyMDk1NjcwMjg5LDEyNz
+U3OTY2OCwyNzE4MTAxOTcsMTMwNjQ4MTI3MSwtMTI4OTM5MDQ0
+NywxODY0MDQ1Njk2LC0zNDM5MDA0MDAsMTI5NDI2NDI2NCwtMT
+M4OTkxMjA4NSwtMTM0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3
+OTY5MzEsNzgxMTQ5MzIsLTExNzAyMDg4MTMsLTE5ODg3NTk1MT
+QsOTAzNzM3NTU4LC04MzE2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5
+MzU1NTBdfQ==
 -->
