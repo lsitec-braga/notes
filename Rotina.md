@@ -8,13 +8,12 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Ajustar o comportamento inesperado reportado pelo Welington ao salvar sensores no sistema
-- [x] Deploy das issues prontas na sexta feira
-- [x] Atrelar os botões de ação do painel de controle com os modais
+- [x] Deploy da issue dos números de caracteres
+- [x] Melhoria na usabilidade ao cadastrar o alerta de email, podendo cadastrar vários de uma só vez
 
 ## Afazeres Planejados
 
-- [ ] Ajustar os botões de ação do painel de controle para carregar a de acordo com o ponto selecionado
+- [ ] Atrelar os botões de ação do painel de controle para carregar a de acordo com o ponto selecionado
 - [ ] Melhorar a usabilidade ao cadastrar o alerta de email, podendo cadastrar vários de uma só vez
 
 ## Afazeres Não Planejados
@@ -26,11 +25,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjQyMzQ0MywyMDk1NjcwMjg5LDEyNz
-U3OTY2OCwyNzE4MTAxOTcsMTMwNjQ4MTI3MSwtMTI4OTM5MDQ0
-NywxODY0MDQ1Njk2LC0zNDM5MDA0MDAsMTI5NDI2NDI2NCwtMT
-M4OTkxMjA4NSwtMTM0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3
-OTY5MzEsNzgxMTQ5MzIsLTExNzAyMDg4MTMsLTE5ODg3NTk1MT
-QsOTAzNzM3NTU4LC04MzE2NDAyNjEsMTk4OTg5NjIzNSwxNDQ5
-MzU1NTBdfQ==
+eyJoaXN0b3J5IjpbMTczMjczMzQwNiwtNDY2NDIzNDQzLDIwOT
+U2NzAyODksMTI3NTc5NjY4LDI3MTgxMDE5NywxMzA2NDgxMjcx
+LC0xMjg5MzkwNDQ3LDE4NjQwNDU2OTYsLTM0MzkwMDQwMCwxMj
+k0MjY0MjY0LC0xMzg5OTEyMDg1LC0xMzQyMjA1MDg5LC04MDUz
+ODkyMTUsMTEwNjc5NjkzMSw3ODExNDkzMiwtMTE3MDIwODgxMy
+wtMTk4ODc1OTUxNCw5MDM3Mzc1NTgsLTgzMTY0MDI2MSwxOTg5
+ODk2MjM1XX0=
 -->
