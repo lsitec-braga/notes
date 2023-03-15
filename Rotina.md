@@ -8,10 +8,9 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Deploy da issue dos números de caracteres
-- [x] Auxiliei o Vitor Costa na task de apresentar os gráficos
-- [x] Contagem dos cards ok
-- [x] Filtragem dos cards ok
+- [x] Apresentação para a São Rafel
+- [x] Resolver issues de refresh automático e problema ao carregar dados no novo painel
+- [x] Adição de itens na planilha de solicitações d
 
 ## Afazeres Planejados
 
@@ -28,11 +27,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzIwODY5MywtNjk2MDA2OTAyLC00Nj
-Y0MjM0NDMsMjA5NTY3MDI4OSwxMjc1Nzk2NjgsMjcxODEwMTk3
-LDEzMDY0ODEyNzEsLTEyODkzOTA0NDcsMTg2NDA0NTY5NiwtMz
-QzOTAwNDAwLDEyOTQyNjQyNjQsLTEzODk5MTIwODUsLTEzNDIy
-MDUwODksLTgwNTM4OTIxNSwxMTA2Nzk2OTMxLDc4MTE0OTMyLC
-0xMTcwMjA4ODEzLC0xOTg4NzU5NTE0LDkwMzczNzU1OCwtODMx
-NjQwMjYxXX0=
+eyJoaXN0b3J5IjpbLTM3Mjg2MTMzMCwtMTI3MjA4NjkzLC02OT
+YwMDY5MDIsLTQ2NjQyMzQ0MywyMDk1NjcwMjg5LDEyNzU3OTY2
+OCwyNzE4MTAxOTcsMTMwNjQ4MTI3MSwtMTI4OTM5MDQ0NywxOD
+Y0MDQ1Njk2LC0zNDM5MDA0MDAsMTI5NDI2NDI2NCwtMTM4OTkx
+MjA4NSwtMTM0MjIwNTA4OSwtODA1Mzg5MjE1LDExMDY3OTY5Mz
+EsNzgxMTQ5MzIsLTExNzAyMDg4MTMsLTE5ODg3NTk1MTQsOTAz
+NzM3NTU4XX0=
 -->
