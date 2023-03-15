@@ -10,13 +10,12 @@ dotA    | 09h00 | 18h | 8h00
 
 - [x] Apresentação para a São Rafel
 - [x] Resolver issues de refresh automático e problema ao carregar dados no novo painel
-- [x] Adição de itens na planilha de solicitações d
+- [x] Adição de itens na planilha de solicitações da SR
 
 ## Afazeres Planejados
 
-- [ ] Tentei fazer adaptação da API do Ickson, mas não deu certo 
-- [ ] Review PR Victor
-- [ ] 
+- [ ] Ajudar no planejamento para a migração para Produção
+- [ ] Revisar planilha de solicitações da SR
 
 ## Afazeres Não Planejados
 
@@ -27,7 +26,7 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mjg2MTMzMCwtMTI3MjA4NjkzLC02OT
+eyJoaXN0b3J5IjpbLTM4ODUxMDQyOSwtMTI3MjA4NjkzLC02OT
 YwMDY5MDIsLTQ2NjQyMzQ0MywyMDk1NjcwMjg5LDEyNzU3OTY2
 OCwyNzE4MTAxOTcsMTMwNjQ4MTI3MSwtMTI4OTM5MDQ0NywxOD
 Y0MDQ1Njk2LC0zNDM5MDA0MDAsMTI5NDI2NDI2NCwtMTM4OTkx
