@@ -10,7 +10,7 @@ dotA    | 09h00 | 18h | 8h00
 
 - [x] Auxílio no teste de estresse de requisições ao banco de dados
 - [x] Planejamento para a migração para Produção
-- [x] Report de bugs encontrados relacionados ao painel de controle
+- [x] Report de bugs encontrados relacionados ao painel de controle 237, 239 e 
 
 ## Afazeres Planejados
 
@@ -26,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDkyMTQ4MCwxOTUzNDMwODg1LC0zOD
-g1MTA0MjksLTEyNzIwODY5MywtNjk2MDA2OTAyLC00NjY0MjM0
-NDMsMjA5NTY3MDI4OSwxMjc1Nzk2NjgsMjcxODEwMTk3LDEzMD
-Y0ODEyNzEsLTEyODkzOTA0NDcsMTg2NDA0NTY5NiwtMzQzOTAw
-NDAwLDEyOTQyNjQyNjQsLTEzODk5MTIwODUsLTEzNDIyMDUwOD
-ksLTgwNTM4OTIxNSwxMTA2Nzk2OTMxLDc4MTE0OTMyLC0xMTcw
-MjA4ODEzXX0=
+eyJoaXN0b3J5IjpbOTA5NjIyMDkxLDE5NTM0MzA4ODUsLTM4OD
+UxMDQyOSwtMTI3MjA4NjkzLC02OTYwMDY5MDIsLTQ2NjQyMzQ0
+MywyMDk1NjcwMjg5LDEyNzU3OTY2OCwyNzE4MTAxOTcsMTMwNj
+Q4MTI3MSwtMTI4OTM5MDQ0NywxODY0MDQ1Njk2LC0zNDM5MDA0
+MDAsMTI5NDI2NDI2NCwtMTM4OTkxMjA4NSwtMTM0MjIwNTA4OS
+wtODA1Mzg5MjE1LDExMDY3OTY5MzEsNzgxMTQ5MzIsLTExNzAy
+MDg4MTNdfQ==
 -->
