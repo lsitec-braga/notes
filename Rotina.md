@@ -14,8 +14,8 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Afazeres Planejados
 
-- [ ] Resolver bug do scroll voltar para o início com o refresh automático
-- [ ] Resolve bug do modal fechar ao ter refresh automático
+- [ ] 237 Resolver bug do scroll voltar para o início com o refresh automático 
+- [ ] 239 Resolve bug do modal fechar ao ter refresh automático
 
 ## Afazeres Não Planejados
 
@@ -26,7 +26,7 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzUzNjU2NiwxOTUzNDMwODg1LC0zOD
+eyJoaXN0b3J5IjpbLTkxNDkyMTQ4MCwxOTUzNDMwODg1LC0zOD
 g1MTA0MjksLTEyNzIwODY5MywtNjk2MDA2OTAyLC00NjY0MjM0
 NDMsMjA5NTY3MDI4OSwxMjc1Nzk2NjgsMjcxODEwMTk3LDEzMD
 Y0ODEyNzEsLTEyODkzOTA0NDcsMTg2NDA0NTY5NiwtMzQzOTAw
