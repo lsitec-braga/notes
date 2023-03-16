@@ -15,7 +15,7 @@ dotA    | 09h00 | 18h | 8h00
 ## Afazeres Planejados
 
 - [ ] Resolver bug do scroll voltar para o início com o refresh automático
-- [ ] 
+- [ ] Resolve bug do modal fechar ao ter refresh automático
 
 ## Afazeres Não Planejados
 
@@ -26,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5ODQ5MTksMTk1MzQzMDg4NSwtMzg4NT
-EwNDI5LC0xMjcyMDg2OTMsLTY5NjAwNjkwMiwtNDY2NDIzNDQz
-LDIwOTU2NzAyODksMTI3NTc5NjY4LDI3MTgxMDE5NywxMzA2ND
-gxMjcxLC0xMjg5MzkwNDQ3LDE4NjQwNDU2OTYsLTM0MzkwMDQw
-MCwxMjk0MjY0MjY0LC0xMzg5OTEyMDg1LC0xMzQyMjA1MDg5LC
-04MDUzODkyMTUsMTEwNjc5NjkzMSw3ODExNDkzMiwtMTE3MDIw
-ODgxM119
+eyJoaXN0b3J5IjpbMTIxMzUzNjU2NiwxOTUzNDMwODg1LC0zOD
+g1MTA0MjksLTEyNzIwODY5MywtNjk2MDA2OTAyLC00NjY0MjM0
+NDMsMjA5NTY3MDI4OSwxMjc1Nzk2NjgsMjcxODEwMTk3LDEzMD
+Y0ODEyNzEsLTEyODkzOTA0NDcsMTg2NDA0NTY5NiwtMzQzOTAw
+NDAwLDEyOTQyNjQyNjQsLTEzODk5MTIwODUsLTEzNDIyMDUwOD
+ksLTgwNTM4OTIxNSwxMTA2Nzk2OTMxLDc4MTE0OTMyLC0xMTcw
+MjA4ODEzXX0=
 -->
