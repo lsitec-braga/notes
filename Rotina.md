@@ -14,8 +14,8 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Afazeres Planejados
 
-- [ ] Ajudar no planejamento para a migração para Produção
-- [ ] Revisar planilha de solicitações da SR
+- [ ] Resolver bug do scroll voltar para o início com o refresh automático
+- [ ] 
 
 ## Afazeres Não Planejados
 
@@ -26,11 +26,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzQzMDg4NSwtMzg4NTEwNDI5LC0xMj
-cyMDg2OTMsLTY5NjAwNjkwMiwtNDY2NDIzNDQzLDIwOTU2NzAy
-ODksMTI3NTc5NjY4LDI3MTgxMDE5NywxMzA2NDgxMjcxLC0xMj
-g5MzkwNDQ3LDE4NjQwNDU2OTYsLTM0MzkwMDQwMCwxMjk0MjY0
-MjY0LC0xMzg5OTEyMDg1LC0xMzQyMjA1MDg5LC04MDUzODkyMT
-UsMTEwNjc5NjkzMSw3ODExNDkzMiwtMTE3MDIwODgxMywtMTk4
-ODc1OTUxNF19
+eyJoaXN0b3J5IjpbNTY5ODQ5MTksMTk1MzQzMDg4NSwtMzg4NT
+EwNDI5LC0xMjcyMDg2OTMsLTY5NjAwNjkwMiwtNDY2NDIzNDQz
+LDIwOTU2NzAyODksMTI3NTc5NjY4LDI3MTgxMDE5NywxMzA2ND
+gxMjcxLC0xMjg5MzkwNDQ3LDE4NjQwNDU2OTYsLTM0MzkwMDQw
+MCwxMjk0MjY0MjY0LC0xMzg5OTEyMDg1LC0xMzQyMjA1MDg5LC
+04MDUzODkyMTUsMTEwNjc5NjkzMSw3ODExNDkzMiwtMTE3MDIw
+ODgxM119
 -->
