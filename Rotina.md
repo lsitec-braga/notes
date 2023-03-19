@@ -8,7 +8,7 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Removi arquivos e bibliotecas desnecessárias na l
+- [x] Remover arquivos e bibliotecas não utilizadas na função lambda `dota-medicoes-pontos-otimizado`, reduzindo de 3mb para 1mb de tamanho, tanto em QA quanto em Prod
 - [x] Alterei os comportamentos do cloudfront de QA em Prod (Error pages)
 - [x] 
 
@@ -25,11 +25,11 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjAzNjg3MSwxODg5NDMxNzcxLDkwOT
-YyMjA5MSwxOTUzNDMwODg1LC0zODg1MTA0MjksLTEyNzIwODY5
-MywtNjk2MDA2OTAyLC00NjY0MjM0NDMsMjA5NTY3MDI4OSwxMj
-c1Nzk2NjgsMjcxODEwMTk3LDEzMDY0ODEyNzEsLTEyODkzOTA0
-NDcsMTg2NDA0NTY5NiwtMzQzOTAwNDAwLDEyOTQyNjQyNjQsLT
-EzODk5MTIwODUsLTEzNDIyMDUwODksLTgwNTM4OTIxNSwxMTA2
-Nzk2OTMxXX0=
+eyJoaXN0b3J5IjpbLTE5NjUyNjIzOTEsMTg4OTQzMTc3MSw5MD
+k2MjIwOTEsMTk1MzQzMDg4NSwtMzg4NTEwNDI5LC0xMjcyMDg2
+OTMsLTY5NjAwNjkwMiwtNDY2NDIzNDQzLDIwOTU2NzAyODksMT
+I3NTc5NjY4LDI3MTgxMDE5NywxMzA2NDgxMjcxLC0xMjg5Mzkw
+NDQ3LDE4NjQwNDU2OTYsLTM0MzkwMDQwMCwxMjk0MjY0MjY0LC
+0xMzg5OTEyMDg1LC0xMzQyMjA1MDg5LC04MDUzODkyMTUsMTEw
+Njc5NjkzMV19
 -->
