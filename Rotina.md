@@ -8,7 +8,7 @@ dotA    | 09h00 | 18h | 8h00
 
 ## Feito
 
-- [x] Alterei os comportamentos do cloudfront de QA em Prod (forbidden 403)
+- [x] Alterei os comportamentos do cloudfront de QA em Prod (Error pages)
 
 ## Afazeres Planejados
 
@@ -23,7 +23,7 @@ dotA    | 09h00 | 18h | 8h00
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Nzg2MzU4Myw5MDk2MjIwOTEsMTk1Mz
+eyJoaXN0b3J5IjpbMTg4OTQzMTc3MSw5MDk2MjIwOTEsMTk1Mz
 QzMDg4NSwtMzg4NTEwNDI5LC0xMjcyMDg2OTMsLTY5NjAwNjkw
 MiwtNDY2NDIzNDQzLDIwOTU2NzAyODksMTI3NTc5NjY4LDI3MT
 gxMDE5NywxMzA2NDgxMjcxLC0xMjg5MzkwNDQ3LDE4NjQwNDU2
