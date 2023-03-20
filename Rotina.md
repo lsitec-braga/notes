@@ -5,7 +5,7 @@
 Projeto | Inicio | Fim | Total
 --------|-------|-------|------
 dotA    | 08h | 12h | 4h
-pont-l  | 13h | 17h | 4h
+pon-li  | 13h | 17h | 4h
 
 ## Feito
 
@@ -26,7 +26,7 @@ pont-l  | 13h | 17h | 4h
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjE2NDAyNiwtMTM5ODA5Mjc2MywtMT
+eyJoaXN0b3J5IjpbLTMxMTU3ODgxMywtMTM5ODA5Mjc2MywtMT
 k2NTI2MjM5MSwxODg5NDMxNzcxLDkwOTYyMjA5MSwxOTUzNDMw
 ODg1LC0zODg1MTA0MjksLTEyNzIwODY5MywtNjk2MDA2OTAyLC
 00NjY0MjM0NDMsMjA5NTY3MDI4OSwxMjc1Nzk2NjgsMjcxODEw
