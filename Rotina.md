@@ -2,10 +2,9 @@
 
 ## Horas alocadas
 
-Projeto | Inicio | Fim | Total
---------|-------|-------|------
-dotA    | 08h | 12h | 4h
-pon-li  | 13h | 17h | 4h
+Projeto | Inicio |  Fim  | Total
+--------|--------|-------|------
+dotA    | 08h30  | 17h30 | 8h
 
 ## Feito
 
@@ -26,11 +25,11 @@ pon-li  | 13h | 17h | 4h
 - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTU3ODgxMywtMTM5ODA5Mjc2MywtMT
-k2NTI2MjM5MSwxODg5NDMxNzcxLDkwOTYyMjA5MSwxOTUzNDMw
-ODg1LC0zODg1MTA0MjksLTEyNzIwODY5MywtNjk2MDA2OTAyLC
-00NjY0MjM0NDMsMjA5NTY3MDI4OSwxMjc1Nzk2NjgsMjcxODEw
-MTk3LDEzMDY0ODEyNzEsLTEyODkzOTA0NDcsMTg2NDA0NTY5Ni
-wtMzQzOTAwNDAwLDEyOTQyNjQyNjQsLTEzODk5MTIwODUsLTEz
-NDIyMDUwODldfQ==
+eyJoaXN0b3J5IjpbMTU2Nzk1OTMyMCwtMzExNTc4ODEzLC0xMz
+k4MDkyNzYzLC0xOTY1MjYyMzkxLDE4ODk0MzE3NzEsOTA5NjIy
+MDkxLDE5NTM0MzA4ODUsLTM4ODUxMDQyOSwtMTI3MjA4NjkzLC
+02OTYwMDY5MDIsLTQ2NjQyMzQ0MywyMDk1NjcwMjg5LDEyNzU3
+OTY2OCwyNzE4MTAxOTcsMTMwNjQ4MTI3MSwtMTI4OTM5MDQ0Ny
+wxODY0MDQ1Njk2LC0zNDM5MDA0MDAsMTI5NDI2NDI2NCwtMTM4
+OTkxMjA4NV19
 -->
