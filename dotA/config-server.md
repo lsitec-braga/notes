@@ -50,9 +50,23 @@ Observar serviços relacionados ao broker-listener
 ```bash
 while true; do ps fuxa |grep broker-listener.py|grep -v grep ; sleep 10; echo ------------------; done
 ```
+
+## Acessar servidor com script 
+
+Deixar script rodando mesmo ao fechar o PuTTY
+
+```bash
+nohup npm run log &
+```
+
+Finalizar com o processo
+
+```bash
+kill -9 207068
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU1ODI4OTUsOTQ3MjUzMzk2LDE1MD
-EwODEwNDAsNzgwMDEyNzU5LC0xNjQ4MTI1ODcyLC01Mzg1NzUw
-OTQsNzI1NzU0MTMwLC0xNTc4NTU2MzQwLC01NzExODA0NDNdfQ
-==
+eyJoaXN0b3J5IjpbMTg4MTUzNTQ0MiwtMjE0NTU4Mjg5NSw5ND
+cyNTMzOTYsMTUwMTA4MTA0MCw3ODAwMTI3NTksLTE2NDgxMjU4
+NzIsLTUzODU3NTA5NCw3MjU3NTQxMzAsLTE1Nzg1NTYzNDAsLT
+U3MTE4MDQ0M119
 -->
