@@ -18,10 +18,19 @@
 - Solicitar que o pessoal seja direto
 - Impedimentos serem detalhados pós daily ou no privado
 
-## Template
+## Atividades
+
+### Maeda
+
+1. Melhorar processo de deploy no dota-web
+2. Melhorar processo de deploy no dota-aws
+
+### Shoji
+
+1. Melhorar arquitetura para requisições na AWS
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MzI3NzMxXX0=
+eyJoaXN0b3J5IjpbMTc3NTUwNDk1NCw2MjYzMjc3MzFdfQ==
 -->
