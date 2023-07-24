@@ -56,18 +56,18 @@ while true; do ps fuxa |grep broker-listener.py|grep -v grep ; sleep 10; echo --
 Deixar script rodando mesmo ao fechar o PuTTY
 
 ```bash
-nohup npm run log &
+sudo nohup npm run log &
 ```
 
 Finalizar com o processo
 
 ```bash
-kill -9 8508
+kill -9 3121
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY4ODc0OTAsMTgwNzM1NzA3MCwxMz
-EyNDExMjgzLC0yMTE1MTM4OTIxLDE4ODE1MzU0NDIsLTIxNDU1
-ODI4OTUsOTQ3MjUzMzk2LDE1MDEwODEwNDAsNzgwMDEyNzU5LC
-0xNjQ4MTI1ODcyLC01Mzg1NzUwOTQsNzI1NzU0MTMwLC0xNTc4
-NTU2MzQwLC01NzExODA0NDNdfQ==
+eyJoaXN0b3J5IjpbMjEyNDM1NzI4MSwtMTE3Njg4NzQ5MCwxOD
+A3MzU3MDcwLDEzMTI0MTEyODMsLTIxMTUxMzg5MjEsMTg4MTUz
+NTQ0MiwtMjE0NTU4Mjg5NSw5NDcyNTMzOTYsMTUwMTA4MTA0MC
+w3ODAwMTI3NTksLTE2NDgxMjU4NzIsLTUzODU3NTA5NCw3MjU3
+NTQxMzAsLTE1Nzg1NTYzNDAsLTU3MTE4MDQ0M119
 -->
