@@ -62,10 +62,10 @@ sudo nohup npm run log &
 Finalizar com o processo
 
 ```bash
-kill -9 3121 3126
+kill -9 3128
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTI2ODU1LDIxMjQzNTcyODEsLTExNz
+eyJoaXN0b3J5IjpbMjY1NzIwODA4LDIxMjQzNTcyODEsLTExNz
 Y4ODc0OTAsMTgwNzM1NzA3MCwxMzEyNDExMjgzLC0yMTE1MTM4
 OTIxLDE4ODE1MzU0NDIsLTIxNDU1ODI4OTUsOTQ3MjUzMzk2LD
 E1MDEwODEwNDAsNzgwMDEyNzU5LC0xNjQ4MTI1ODcyLC01Mzg1
